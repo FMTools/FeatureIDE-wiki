@@ -3,7 +3,7 @@ Plugins
 * de.ovgu.featureide.core - common functionality of FeatureIDE: nature, builders, marker, common model
 * de.ovgu.featureide.core.ahead - composition plugin for AHEAD: mixin wrapper, parsing from AST, specific model(?), error markers
 * de.ovgu.featureide.core.ahead.refactoring - plugin that provides refactoring options for jak code. Requires AHEAD.
-de.ovgu.featureide.core.featurecpp - composition plugin for FeatureC++: call to command line tool, TODO structure parsing from special output
+* de.ovgu.featureide.core.featurecpp - composition plugin for FeatureC++: call to command line tool, TODO structure parsing from special output
 * de.ovgu.featureide.core.featurehouse - composition plugin for FeatureHouse: fh wrapper, parsing from FST
 * de.ovgu.featureide.ui - common UI: buttons, decorators, new project wizard, ...
 * de.ovgu.featureide.ui.ahead - Jak wizard, Jak editor with syntax highlighting and outline view
