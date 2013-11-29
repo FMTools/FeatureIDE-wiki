@@ -1,6 +1,6 @@
 Welcome to the FeatureIDE wiki!
 
-You may also visit FeatureIDE's home page: http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/
+You may also visit FeatureIDE's home page: http://www.fosd.de/featureide/
 
 Software product lines (SPL) have a long tradition and will gain momentum in the future. Today's research tries to move software development to a new quality of industrial production. Several solutions concerning different phases of the software development process have been proposed in order to cope with different problems of program family development. A major problem of program family engineering is still the missing tool support. The vision is an IDE that brings all phases of the development process together, consistently and in a user-friendly manner.
 
