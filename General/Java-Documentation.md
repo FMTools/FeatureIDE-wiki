@@ -1,0 +1,1 @@
+A well-known java documentation can be found [here](http://docs.oracle.com/javase/7/docs/api/)
