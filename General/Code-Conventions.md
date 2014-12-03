@@ -1,0 +1,1 @@
+As of programming in the same language it`s also important to have all the same code conventions. So please follow the java standard [code conventions](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html) while developing.
