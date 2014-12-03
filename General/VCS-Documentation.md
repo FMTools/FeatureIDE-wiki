@@ -1,0 +1,1 @@
+As we are working with github and git we recommend reading the [git documentation](http://git-scm.com/doc) if you are not familiar with git.
