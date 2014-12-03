@@ -1,0 +1,1 @@
+When starting with eclipse plugin development you can find a tutorial/documentation [here](http://help.eclipse.org/luna/nav/2)
