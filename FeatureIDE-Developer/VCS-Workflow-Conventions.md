@@ -1,0 +1,2 @@
+FeatureIDE is, as you might already have seen, hosted at github. So the main tool we are using is git.
+As FeatureIDE has a wide range of developers we need to set up a common git workflow. For FeatureIDE its the [Branching Workflow](http://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows). So if you will contribute to FeatureIDE please always take care that you follow the guidelines of this branching workflow.
