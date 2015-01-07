@@ -4,8 +4,8 @@ For FeatureIDE development classes with additional functionality have been imple
 * **AMonitorJob**: Implements monitoring for **AChainJob**
 * **AJob**: Implements support for the **JobFinishListener**. Default priority is Job.SHORT
 * **AStoppableJob**: Abstract class for Jobs that might have to be stopped. Also supports the **JobFinishListener**
-* **AChainJob**: A Job that starts another job when it is done. Does NOT support **JobFinishListener**.
-* **AWaitingJob**: If this job is scheduled twice, the second will be called after the first one is finished. As long as there is still a job waiting, all further calls to schedule() are ignored.
+* **AChainJob**: A Job that starts another job when it is done
+* **AWaitingJob**: If this job is scheduled twice, the second will be called after the first one is finished. As long as there is still a job waiting, all further calls to schedule() are ignored
 
 **AbstractJob** is used for the implementation of **AJob** and **AStoppableJob** and usually should not be extended directly.
 
