@@ -15,4 +15,4 @@ The following interfaces are defined on FeatureIDE-specific jobs: **IJob, IStopp
 
 ###Deprecation###
 
-**TreeJob** should no longer be used or extended. 
+**StoppableJob**, **TreeJob** and **StoppableTreeJob** should no longer be used or extended. 
