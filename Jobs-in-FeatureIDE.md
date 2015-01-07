@@ -1,5 +1,3 @@
-#Jobs in FeatureIDE#
-
 Eclipse jobs exist to keep long-running processes from blocking the main thread. For an introduction on this topic you can refer to the Vogella tutorial ([here](http://www.vogella.com/tutorials/EclipseJobs/article.html)).
 For FeatureIDE development classes with additional functionality have been implemented. 
 
@@ -10,10 +8,10 @@ For FeatureIDE development classes with additional functionality have been imple
 
 **AbstractJob** is used for the implementation of **AJob** and **AStoppableJob** and usually should not be extended directly.
 
-##Interfaces##
+###Interfaces###
 
 The following interfaces are defined on FeatureIDE-specific jobs: **IJob, IStoppableJob, IChainJob**.
 
-##Deprecation##
+###Deprecation###
 
 **TreeJob** should no longer be used or extended. 
