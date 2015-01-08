@@ -14,3 +14,5 @@ Not just put one commit for your complete work. Make more commits helps to share
 
 #### Branching Workflow
 Solving Issues and creating enhancements should always result in a corresponding branch. For issues we decided to name them after the issus e.g. *issue_110*
+
+For a nice interactive tutorial please visit the following page: http://pcottle.github.io/learnGitBranching/
