@@ -18,6 +18,11 @@ The following interfaces are defined on FeatureIDE-specific jobs: **IJob, IStopp
 **StoppableJob**, **TreeJob** and **StoppableTreeJob** should no longer be used or extended. 
 
 <table>
+<th>
+<td>title</td>
+<td>title2</td>
+
+</th>
     <tr>
         <td>Foo</td>
     </tr>
