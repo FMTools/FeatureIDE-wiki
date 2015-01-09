@@ -16,3 +16,10 @@ The following interfaces are defined on FeatureIDE-specific jobs: **IJob, IStopp
 ###Deprecation###
 
 **StoppableJob**, **TreeJob** and **StoppableTreeJob** should no longer be used or extended. 
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
