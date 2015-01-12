@@ -1,4 +1,4 @@
-This table gives an overview of all classes extending UIJob. They might affect the responsiveness of the UI if they are nonperformant, high load or scheduled at a high frequency.
+This table gives an overview of all classes extending UIJob. They might affect the responsiveness of the UI if they are nonperformant, high load, or scheduled with too high priority.
 
 <table>
     <tr>
