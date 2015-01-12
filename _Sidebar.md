@@ -12,6 +12,7 @@
   * **Jobs in FeatureIDE**
     * [Introduction](https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
     * [List of Jobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-Jobs-instantiated-by-FeatureIDE)
+    * [List of non-UI Jobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-non-UI-Jobs-created-in-FeatureIDE)
 * **Software-Productline-Developer**
   * [[Best-Practice]]
   * [[Eclipse-Usage]]
