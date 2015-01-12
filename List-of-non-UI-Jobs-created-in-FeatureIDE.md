@@ -85,6 +85,36 @@ These Jobs extend org.eclipse.core.runtime.jobs.Job, but not org.eclipse.ui.prog
         <td>CreateFujiSignaturesJob (AMonitorJob)</td>
         <td>de.ovgu.featureide.core.mpl.MPLPlugin</td>
         <td>Job instantiating method is called by 7 different methods of MPLPlugin</td>
+    </tr>	
+	<tr>
+        <td>Generator [if more then one, appends "nr. "+index]</td>
+        <td>Generator (Job)</td>
+        <td>de.ovgu.featureide.ui.actions.generator.ConfigurationBuilder</td>
+        <td>Instantiated and scheduled in ConfigurationBuilders createNewGenerator(..) method</td>
+    </tr>
+	<tr>
+        <td>Compiler [if more then one, appends "nr. "+index]</td>
+        <td>Compiler (Job)</td>
+        <td>de.ovgu.featureide.ui.actions.generator.Compiler</td>
+        <td>Compiles all configurations of the corresponding Generator</td>
+    </tr>
+	<tr>
+        <td>Build all current configurations for <code>projectName</code></td>
+        <td>Job</td>
+        <td>de.ovgu.featureide.ui.actions.generator.ConfigurationBuilder</td>
+        <td>Instantiated and scheduled in the ConfigurationBuilders constructor, if buildType is ALL_CURRENT</td>
+    </tr>
+	<tr>
+        <td>Build all valid configurations for <code>projectName</code></td>
+        <td>Job</td>
+        <td>de.ovgu.featureide.ui.actions.generator.ConfigurationBuilder</td>
+        <td>Instantiated and scheduled in the ConfigurationBuilders constructor, if buildType is ALL_VALID</td>
+    </tr>
+		<tr>
+        <td>Build t-wise configurations for <code>projectName</code></td>
+        <td>Job</td>
+        <td>de.ovgu.featureide.ui.actions.generator.ConfigurationBuilder</td>
+        <td>Instantiated and scheduled in the ConfigurationBuilders constructor, if buildType is T_WISE</td>
     </tr>
 	<tr>
         <td>Export statistics into csv</td>
@@ -145,36 +175,6 @@ These Jobs extend org.eclipse.core.runtime.jobs.Job, but not org.eclipse.ui.prog
         <td>Job</td>
         <td>de.ovgu.featureide.core.internal.FeatureProject</td>
         <td>Handles the work of FeatureProjects checkModelChange(..) method</td>
-    </tr>	
-	<tr>
-        <td>Generator [if more then one, appends "nr. "+index]</td>
-        <td>Generator (Job)</td>
-        <td>de.ovgu.featureide.ui.actions.generator.ConfigurationBuilder</td>
-        <td>Instantiated and scheduled in ConfigurationBuilders createNewGenerator(..) method</td>
-    </tr>
-	<tr>
-        <td>Compiler [if more then one, appends "nr. "+index]</td>
-        <td>Compiler (Job)</td>
-        <td>de.ovgu.featureide.ui.actions.generator.Compiler</td>
-        <td>Compiles all configurations of the corresponding Generator</td>
-    </tr>
-	<tr>
-        <td>Build all current configurations for <code>projectName</code></td>
-        <td>Job</td>
-        <td>de.ovgu.featureide.ui.actions.generator.ConfigurationBuilder</td>
-        <td>Instantiated and scheduled in the ConfigurationBuilders constructor, if buildType is ALL_CURRENT</td>
-    </tr>
-	<tr>
-        <td>Build all valid configurations for <code>projectName</code></td>
-        <td>Job</td>
-        <td>de.ovgu.featureide.ui.actions.generator.ConfigurationBuilder</td>
-        <td>Instantiated and scheduled in the ConfigurationBuilders constructor, if buildType is ALL_VALID</td>
-    </tr>
-		<tr>
-        <td>Build t-wise configurations for <code>projectName</code></td>
-        <td>Job</td>
-        <td>de.ovgu.featureide.ui.actions.generator.ConfigurationBuilder</td>
-        <td>Instantiated and scheduled in the ConfigurationBuilders constructor, if buildType is T_WISE</td>
     </tr>
 	<tr>
         <td>Change composer.</td>
