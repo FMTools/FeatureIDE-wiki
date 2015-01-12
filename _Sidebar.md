@@ -9,7 +9,9 @@
   * [[Nightly-Builds]]
   * [[Testprocess]]
   * [[VCS-Workflow-Conventions]]
-  * [[Jobs in FeatureIDE]]
+  * **Jobs in FeatureIDE**
+    * [[Jobs in FeatureIDE]]
+    * [[List of Jobs instantiated by FeatureIDE]]
 * **Software-Productline-Developer**
   * [[Best-Practice]]
   * [[Eclipse-Usage]]
