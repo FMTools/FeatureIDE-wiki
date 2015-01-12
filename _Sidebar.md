@@ -10,7 +10,7 @@
   * [[Testprocess]]
   * [[VCS-Workflow-Conventions]]
   * **Jobs in FeatureIDE**
-    * [[Jobs in FeatureIDE]]
+    * [Introduction](https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
     * [[List of Jobs instantiated by FeatureIDE]]
 * **Software-Productline-Developer**
   * [[Best-Practice]]
