@@ -8,6 +8,24 @@ These Jobs extend org.eclipse.core.runtime.jobs.Job, but not org.eclipse.ui.prog
         <td>Instantiating class</td>
         <td>Description</td>
     </tr>
+	<tr>
+        <td>Enhance DeltaJ Project</td>
+        <td>EnhanceProjectJob (Job)</td>
+        <td>de.ovgu.featureide.deltaj.ui.wizard.DeltaJNewProjectWizardExtension</td>
+        <td>Handles the work of the DeltaJNewProjectWizardExtensions createDeltas() and replaceModel() methods</td>
+    </tr>
+	<tr>
+        <td>Checking for unused features.</td>
+        <td>AWaitingJob</td>
+        <td>de.ovgu.featureide.core.internal.FeatureProject</td>
+        <td>Scheduled in private method checkFeatureCoverage()</td>
+    </tr>
+	<tr>
+        <td>Synchronize feature model and feature modules</td>
+        <td>AWaitingJob</td>
+        <td>de.ovgu.featureide.core.internal.FeatureProject<</td>
+        <td>Scheduled in private method setAllFeatureModuleMarkers()</td>
+    </tr>
     <tr>
         <td>Loading Signatures for <code>projectname</code></td>
         <td>ExtendedFujiSignaturesJob (AStoppableJob)</td>
@@ -19,6 +37,42 @@ These Jobs extend org.eclipse.core.runtime.jobs.Job, but not org.eclipse.ui.prog
         <td>AStoppableJob</td>
         <td>de.ovgu.featureide.featurehouse.FeatureHouseComposer</td>
         <td>Runs fuji then uses the results to set the SignatureSetters parameters. This is called on build and when the "use fuji" option is enabled</td>
+    </tr>	
+	<tr>
+        <td>Calculating <code>description</code></td>
+        <td>StoppableTreeJob (StoppableJob)</td>
+        <td>de.ovgu.featureide.ui.statistics.core.composite.lazyimplementations.ConfigParentNode</td>
+        <td>Handles work of the ConfigParentNodes public calculate(..) method, which creates a single job instance and schedules it.</td>
+    </tr>
+	<tr>
+        <td>Refresh Collaboration View</td>
+        <td>StoppableJob</td>
+        <td>de.ovgu.featureide.ui.views.collaboration.CollaborationView</td>
+        <td>Handles work of the toolbarActions run() method, which creates a single job instance and schedules it</td>
+    </tr>	
+	<tr>
+        <td>Build meta product for project "<code>projectName</code>".</td>
+        <td>StoppableJob</td>
+        <td>de.ovgu.featureide.featurehouse.ui.actions.BuildMetaProductAction</td>
+        <td>Handles work of the BuildMetaProductActions run() method, which creates a single job instance and schedules it</td>
+    </tr>	
+	<tr>
+        <td>Analyze feature model</td>
+        <td>StoppableJob</td>
+        <td>de.ovgu.featureide.fm.ui.editors.FeatureDiagramEditor</td>
+        <td>Is instantiated by a wrapper job to prevent the UI from freezing. Creates a UIJob (Title: "Updating feature model attributes") to update elements on the UI.</td>
+    </tr>
+	<tr>
+        <td>Create missing configurations.</td>
+        <td>StoppableJob</td>
+        <td>de.ovgu.featureide.ui.quickfix.QuickFixFalseOptionalFeatures</td>
+        <td>Handles work of the QuickFixFalseOptionalFeatures' run() method, which creates a single job instance and schedules it</td>
+    </tr>	
+	<tr>
+        <td>Performing full build</td>
+        <td>StoppableJob</td>
+        <td>de.ovgu.featureide.core.internal.FeatureProject</td>
+        <td>Calls the project builder at the end of FeatureProjects setCurrentConfiguration(..) method</td>
     </tr>
 	<tr>
         <td>Loading Signatures</td>
@@ -63,18 +117,6 @@ These Jobs extend org.eclipse.core.runtime.jobs.Job, but not org.eclipse.ui.prog
         <td>Checks the projects source folder recursively for annotations, then sets model markers</td>
     </tr>
 	<tr>
-        <td>Checking for unused features.</td>
-        <td>AWaitingJob</td>
-        <td>de.ovgu.featureide.core.internal.FeatureProject</td>
-        <td>Scheduled in private method checkFeatureCoverage()</td>
-    </tr>
-	<tr>
-        <td>Synchronize feature model and feature modules</td>
-        <td>AWaitingJob</td>
-        <td>de.ovgu.featureide.core.internal.FeatureProject<</td>
-        <td>Scheduled in private method setAllFeatureModuleMarkers()</td>
-    </tr>
-	<tr>
         <td>Update Collaboration View</td>
         <td>Job</td>
         <td>de.ovgu.featureide.ui.views.collaboration.CollaborationView</td>
@@ -103,6 +145,12 @@ These Jobs extend org.eclipse.core.runtime.jobs.Job, but not org.eclipse.ui.prog
         <td>Job</td>
         <td>de.ovgu.featureide.core.internal.FeatureProject</td>
         <td>Handles the work of FeatureProjects checkModelChange(..) method</td>
+    </tr>	
+	<tr>
+        <td>Generator [if more then one, appends "nr. "+index]</td>
+        <td>Generator (Job)</td>
+        <td>de.ovgu.featureide.ui.actions.generator.ConfigurationBuilder</td>
+        <td>Instantiated and scheduled in ConfigurationBuilders createNewGenerator(..) method</td>
     </tr>
 	<tr>
         <td>Compiler [if more then one, appends "nr. "+index]</td>
@@ -116,7 +164,7 @@ These Jobs extend org.eclipse.core.runtime.jobs.Job, but not org.eclipse.ui.prog
         <td>de.ovgu.featureide.ui.actions.generator.ConfigurationBuilder</td>
         <td>Instantiated and scheduled in the ConfigurationBuilders constructor, if buildType is ALL_CURRENT</td>
     </tr>
-		<tr>
+	<tr>
         <td>Build all valid configurations for <code>projectName</code></td>
         <td>Job</td>
         <td>de.ovgu.featureide.ui.actions.generator.ConfigurationBuilder</td>
@@ -129,22 +177,10 @@ These Jobs extend org.eclipse.core.runtime.jobs.Job, but not org.eclipse.ui.prog
         <td>Instantiated and scheduled in the ConfigurationBuilders constructor, if buildType is T_WISE</td>
     </tr>
 	<tr>
-        <td>Enhance DeltaJ Project</td>
-        <td>EnhanceProjectJob (Job)</td>
-        <td>de.ovgu.featureide.deltaj.ui.wizard.DeltaJNewProjectWizardExtension</td>
-        <td>Handles the work of the DeltaJNewProjectWizardExtensions createDeltas() and replaceModel() methods</td>
-    </tr>
-	<tr>
         <td>Change composer.</td>
         <td>Job</td>
         <td>de.ovgu.featureide.ahead.actions.FeatureHouseToAHEADConversion</td>
         <td>Changes a featureProjects composer to AHEAD. Instantiated and scheduled in the constructor of FeatureHouseToAHEADConversion.</td>
-    </tr>	
-	<tr>
-        <td>Generator [if more then one, appends "nr. "+index]</td>
-        <td>Generator (Job)</td>
-        <td>de.ovgu.featureide.ui.actions.generator.ConfigurationBuilder</td>
-        <td>Instantiated and scheduled in ConfigurationBuilders createNewGenerator(..) method</td>
     </tr>
 	<tr>
         <td>Propagate problem markers for <code>featureProject</code></td>
@@ -175,12 +211,6 @@ These Jobs extend org.eclipse.core.runtime.jobs.Job, but not org.eclipse.ui.prog
         <td>Job</td>
         <td>de.ovgu.featureide.fm.ui.editors.FeatureDiagramEditor</td>
         <td>Wrapper job for the Featuremodel analysis, that is necessary to prevent the UI from freezing</td>
-    </tr>	
-	<tr>
-        <td>Analyze feature model</td>
-        <td>StoppableJob</td>
-        <td>de.ovgu.featureide.fm.ui.editors.FeatureDiagramEditor</td>
-        <td>Is instantiated by a wrapper job to prevent the UI from freezing. Creates a UIJob (Title: "Updating feature model attributes") to update elements on the UI.</td>
     </tr>	
 	<tr>
         <td>Updating Feature Model Edits</td>
@@ -239,7 +269,7 @@ These Jobs extend org.eclipse.core.runtime.jobs.Job, but not org.eclipse.ui.prog
 	<tr>
         <td>Calculating Feature Dependencies</td>
         <td>Job</td>
-        <td>de.ovgu.featureide.fm.ui.actions.FeatureDependenciesAction</td>
+		<td>de.ovgu.featureide.fm.ui.actions.FeatureDependenciesAction</td>
         <td>Handles work of the FeatureDependenciesActions run() method, which creates a single job instance and schedules it</td>
     </tr>	
 	<tr>
@@ -261,39 +291,9 @@ These Jobs extend org.eclipse.core.runtime.jobs.Job, but not org.eclipse.ui.prog
         <td>Handles work of the Evaluation.evaluate(..) method. The setFeatureModelEditor(..) method creates a single job instance and schedules it</td>
     </tr>	
 	<tr>
-        <td>Refresh Collaboration View</td>
-        <td>StoppableJob</td>
-        <td>de.ovgu.featureide.ui.views.collaboration.CollaborationView</td>
-        <td>Handles work of the toolbarActions run() method, which creates a single job instance and schedules it</td>
-    </tr>	
-	<tr>
-        <td>Build meta product for project "<code>projectName</code>".</td>
-        <td>StoppableJob</td>
-        <td>de.ovgu.featureide.featurehouse.ui.actions.BuildMetaProductAction</td>
-        <td>Handles work of the BuildMetaProductActions run() method, which creates a single job instance and schedules it</td>
-    </tr>	
-	<tr>
         <td>Create missing configurations.</td>
         <td>Job</td>
         <td>de.ovgu.featureide.ui.quickfix.QuickFixMissingFeatures</td>
         <td>Handles work of the QuickFixMissingFeatures' run() method, which creates a single job instance and schedules it</td>
-    </tr>		
-	<tr>
-        <td>Create missing configurations.</td>
-        <td>StoppableJob</td>
-        <td>de.ovgu.featureide.ui.quickfix.QuickFixFalseOptionalFeatures</td>
-        <td>Handles work of the QuickFixFalseOptionalFeatures' run() method, which creates a single job instance and schedules it</td>
-    </tr>	
-	<tr>
-        <td>Performing full build</td>
-        <td>StoppableJob</td>
-        <td>de.ovgu.featureide.core.internal.FeatureProject</td>
-        <td>Calls the project builder at the end of FeatureProjects setCurrentConfiguration(..) method</td>
-    </tr>	
-	<tr>
-        <td>Calculating <code>description</code></td>
-        <td>StoppableTreeJob (StoppableJob)</td>
-        <td>de.ovgu.featureide.ui.statistics.core.composite.lazyimplementations.ConfigParentNode</td>
-        <td>Handles work of the ConfigParentNodes public calculate(..) method, which creates a single job instance and schedules it.</td>
     </tr>
 </table>
