@@ -11,7 +11,7 @@
   * [[VCS-Workflow-Conventions]]
   * **Jobs in FeatureIDE**
     * [Introduction](https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
-    * [[List of Jobs instantiated by FeatureIDE]]
+    * [List of Jobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-Jobs-instantiated-by-FeatureIDE)
 * **Software-Productline-Developer**
   * [[Best-Practice]]
   * [[Eclipse-Usage]]
