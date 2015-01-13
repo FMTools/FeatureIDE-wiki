@@ -1,6 +1,6 @@
 This table gives an overview of all classes extending UIJob. They might affect the responsiveness of the UI if they are nonperformant, high load, or scheduled with too high priority.
 
-<table border ="5">
+<table style =" width = 200%">
     <tr>
         <td>Title</td>
         <td>Job type</td>
