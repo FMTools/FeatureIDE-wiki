@@ -10,6 +10,9 @@ Always be as precise as possible what you have done and try to avoid messages li
 ### Commit often
 Not just put one commit for your complete work. Make more commits helps to share work with others and to keep on track what other developers meant with there work.
 
+### Never ever git push --force
+If you find yourself in a situation where only a git push --force will help you, you might have done something wrong. Forcing a push could be result in tremendous problems. E.g. if somebody else base worked on commits you might rewrite with your push --force. So if this happens, please try to get your history clean that a normal push will sufficient.
+
 ### Agree on a Workflow
 
 #### Branching Workflow
