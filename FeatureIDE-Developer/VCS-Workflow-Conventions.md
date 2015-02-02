@@ -1,5 +1,5 @@
 FeatureIDE is, as you might already have seen, hosted at github. So the main tool we are using is git.
-As FeatureIDE has a wide range of developers we need to set up a common git workflow. 
+As FeatureIDE has a wide range of developers we need to set up a common git workflow. For a full overview of the most common best-practice stuff, see this link: http://sethrobertson.github.io/GitBestPractices/
 
 ### Commit messages
 Always be as precise as possible what you have done and try to avoid messages like:'Did some stuff', 'Removed some stuff' e.g.
