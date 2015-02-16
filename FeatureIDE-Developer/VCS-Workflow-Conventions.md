@@ -2,7 +2,8 @@ FeatureIDE is, as you might already have seen, hosted at github. So the main too
 As FeatureIDE has a wide range of developers we need to set up a common git workflow. For a full overview of the most common best-practice stuff, see this link: http://sethrobertson.github.io/GitBestPractices/
 
 ### Commit messages
-Always be as precise as possible what you have done and try to avoid messages like:'Did some stuff', 'Removed some stuff' e.g.
+Always be as precise as possible what you have done and try to avoid messages like:'Did some stuff', 'Removed some stuff' e.g. For some guidelines see the git book here:
+http://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project
 
 ### Commit related changes
 **ALWAYS** commit changes that are related to each other. Git has the possibility to stage lines and hunks and not only complete file. You can make use of this feature which helps to commit changes from one file which might have unrelated changes. E.g. please do not mix formatting or documentation commits with commits that have changes in programm logic
