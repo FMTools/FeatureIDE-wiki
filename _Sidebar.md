@@ -9,6 +9,7 @@
   * [[Nightly-Builds]]
   * [[Testprocess]]
   * [[VCS-Workflow-Conventions]]
+  * [[Source-Format-Conventions]]
   * **Jobs in FeatureIDE**
     * [Introduction](https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
     * [List of UIJobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-UIJobs-created-in-FeatureIDE)
