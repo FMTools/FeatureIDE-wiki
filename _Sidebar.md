@@ -4,7 +4,7 @@
 * [[Project-Overview]]
 * **FeatureIDE-Developer**
   * [[Architecture]]
-    * [Creation of New PlugIn Projects]
+    * [[Creation of New PlugIn Projects]]
   * [[FeatureIDE-Functions]]
   * [Installation and Update Process](https://github.com/tthuem/FeatureIDE/wiki/InstallationAndUpdateProcess)
   * [[Nightly-Builds]]
