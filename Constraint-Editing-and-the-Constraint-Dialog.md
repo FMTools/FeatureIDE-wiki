@@ -7,11 +7,17 @@ Sometimes it is required to express more complex constraints inside a feature mo
 #### Create New Constraints
 To open the *ConstraintDialog*, right-click on a feature name inside a feature model and select *"Create Constraint"* in the popup menu. This will open the ConstraintDialog with an empty input textfield. 
 
+![Create Constraint](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/CreateConstraintNoRef.png)
+
 #### Create New Constraints Starting with Selection
 If you want to start directly with your selected feature *A* you can alternativaletly click von *"Create Constraint start with *A*"* in the popup menu. This will copy *A* to the textfield which means you can immeditaly start to model the constraint related to *A*. 
 
+![Create Constraint from Feature Name](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/CreateConstraint.png)
+
 #### Editing of Existing Constraints
 You can edit a constraint inside a feature model by right-clicking on it, followed by the corresponding popup menu entry.
+
+![Edit existing Constraint](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/EditConstraint.png)
 
 #### Remove Existing Constraints
 By hitting *DEL* on you keyboard you can remove a selected constraint from your model. Alternatively, you can also use the popup menu by right-clicking on the constraint you want to remove.
@@ -24,11 +30,26 @@ When you finished your work, you can save you constraint to your model. Afterwar
 The dialog containts of five regions, from up to down: 
 
 
-1. **The status information panel** contains a short info about the current dialog's state. This could be either creating or editing a constraint. Moreover it displays information, warnings or and details if an error occurs.
-2. **A list of available features and a filtering method for this list** where you can click on to automatically copy-paste your selected feature into the free-text editor (see list item 4) at the current caret position. 
-3. **The list of available operators (and, or, ...)** where you can click on to automatically copy-paste a operator into the free-text editor (see list item 4).
-4. **A free-text editor where you can formulat constraints acording to the grammar** which is the central control element inside this dialog. Here you can formulate your constraint as a first-order-logic like text, containing feature names and operators. Please note the grammar below.
-5. **The dialog's control buttons** where you can save or abort your constraint. 
+### 1. **The status information panel** contains a short info about the current dialog's state. This could be either creating or editing a constraint. Moreover it displays information, warnings or and details if an error occurs.
+
+![Info Panel](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/InfoPanel.png)
+
+
+### 2. **A list of available features and a filtering method for this list** where you can click on to automatically copy-paste your selected feature into the free-text editor (see list item 4) at the current caret position. 
+
+![Feature List](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/FeatureList.png)
+
+
+### 3. **The list of available operators (and, or, ...)** where you can click on to automatically copy-paste a operator into the free-text editor (see list item 4).
+
+![Operator List](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/OperatorList.png)
+
+### 4. **A free-text editor where you can formulat constraints acording to the grammar** which is the central control element inside this dialog. Here you can formulate your constraint as a first-order-logic like text, containing feature names and operators. Please note the grammar below.
+
+![TextField](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialogText.png)
+
+
+### 5. **The dialog's control buttons** where you can save or abort your constraint. 
 
 Please note, that depending on the complexity of your model some constraint/feature model checks could be delayed and not finished when you want to save your constraint. In this case the dialog presents a **Save anyway** OK-Button and a short description inside the info-area (see list item 1, above). However, as long as your constraint matches the grammar, you can store/update it. Only if your constraint contains syntax error, you won't be able to store it.
 
