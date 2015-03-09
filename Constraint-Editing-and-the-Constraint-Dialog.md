@@ -62,7 +62,7 @@ Please note, that depending on the complexity of your model some constraint/feat
 ## Creating Constraints with or without the keyboard
 The *ConstraintDialog* is designed to be used with both - mouse or keyboard. You can completely edit your constraint by using the feature list and operator list without hitting any key on your keyboard. Alternatively you can input you constraint as text directly. In this case an automatic **Content Proposal Popup** will assist you while writing. This proposal opens either after 500ms or immediately by pressing *Ctrl+Space* shortcut. It contains the list of features and operators and supports auto-completition.
 
-## Constraint Free Style Text Input and it' Grammer	
+## Constraint Free Style Text Input and it's Grammer	
 A constraint is built of features, operators and braces, e.g. 
 
 ```FeatureA and not(FeatureB implies not (FeatureC or (FeatureD iff FeatureE)))```
