@@ -30,26 +30,31 @@ When you finished your work, you can save you constraint to your model. Afterwar
 The dialog containts of five regions, from up to down: 
 
 
-### 1. **The status information panel** contains a short info about the current dialog's state. This could be either creating or editing a constraint. Moreover it displays information, warnings or and details if an error occurs.
+### 1. The status information panel
+This panel contains a short info about the current dialog's state. This could be either creating or editing a constraint. Moreover it displays information, warnings or and details if an error occurs.
 
 ![Info Panel](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/InfoPanel.png)
 
 
-### 2. **A list of available features and a filtering method for this list** where you can click on to automatically copy-paste your selected feature into the free-text editor (see list item 4) at the current caret position. 
+### 2. A list of available features and a filtering method for this list 
+Here you can click on to automatically copy-paste your selected feature into the free-text editor (see list item 4) at the current caret position. 
 
 ![Feature List](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/FeatureList.png)
 
 
-### 3. **The list of available operators (and, or, ...)** where you can click on to automatically copy-paste a operator into the free-text editor (see list item 4).
+### 3. The list of available operators (and, or, ...)
+Here you can click on to automatically copy-paste a operator into the free-text editor (see list item 4).
 
 ![Operator List](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/OperatorList.png)
 
-### 4. **A free-text editor where you can formulat constraints acording to the grammar** which is the central control element inside this dialog. Here you can formulate your constraint as a first-order-logic like text, containing feature names and operators. Please note the grammar below.
+### 4. A free-text editor where you can formulat constraints acording to the grammar
+This control is the central element inside the *ConstraintDialog*. Here you can formulate your constraint as a first-order-logic like text, containing feature names and operators. Please note the grammar below.
 
 ![TextField](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/ConstraintDialogText.png)
 
 
-### 5. **The dialog's control buttons** where you can save or abort your constraint. 
+### 5. The dialog's control buttons
+Where you can save or abort your constraint. 
 
 Please note, that depending on the complexity of your model some constraint/feature model checks could be delayed and not finished when you want to save your constraint. In this case the dialog presents a **Save anyway** OK-Button and a short description inside the info-area (see list item 1, above). However, as long as your constraint matches the grammar, you can store/update it. Only if your constraint contains syntax error, you won't be able to store it.
 
