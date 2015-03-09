@@ -2,22 +2,22 @@
 
 Sometimes it is required to express more complex constraints inside a feature model than e.g. "feature *A* requires parent feature". However, to formulate such constraints you can use the *ConstraintDialog* which is a text-editor with auto-completion supported, auto-validity checks and other tools. 
 
-![Constraint Dialog ](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog.png)
+![Constraint Dialog ](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/ConstraintDialog.png)
 
 #### Create New Constraints
 To open the *ConstraintDialog*, right-click on a feature name inside a feature model and select *"Create Constraint"* in the popup menu. This will open the ConstraintDialog with an empty input textfield. 
 
-![Create Constraint](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/CreateConstraintNoRef.png)
+![Create Constraint](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/CreateConstraintNoRef.png)
 
 #### Create New Constraints Starting with Selection
 If you want to start directly with your selected feature *A* you can alternativaletly click von *"Create Constraint start with *A*"* in the popup menu. This will copy *A* to the textfield which means you can immeditaly start to model the constraint related to *A*. 
 
-![Create Constraint from Feature Name](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/CreateConstraint.png)
+![Create Constraint from Feature Name](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/CreateConstraint.png)
 
 #### Editing of Existing Constraints
 You can edit a constraint inside a feature model by right-clicking on it, followed by the corresponding popup menu entry.
 
-![Edit existing Constraint](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/EditConstraint.png)
+![Edit existing Constraint](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/EditConstraint.png)
 
 #### Remove Existing Constraints
 By hitting *DEL* on you keyboard you can remove a selected constraint from your model. Alternatively, you can also use the popup menu by right-clicking on the constraint you want to remove.
@@ -32,12 +32,12 @@ The dialog containts of five regions, from up to down:
 
 ### 1. **The status information panel** contains a short info about the current dialog's state. This could be either creating or editing a constraint. Moreover it displays information, warnings or and details if an error occurs.
 
-![Info Panel](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/InfoPanel.png)
+![Info Panel](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/InfoPanel.png)
 
 
 ### 2. **A list of available features and a filtering method for this list** where you can click on to automatically copy-paste your selected feature into the free-text editor (see list item 4) at the current caret position. 
 
-![Feature List](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/FeatureList.png)
+![Feature List](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/FeatureList.png)
 
 
 ### 3. **The list of available operators (and, or, ...)** where you can click on to automatically copy-paste a operator into the free-text editor (see list item 4).
@@ -46,7 +46,7 @@ The dialog containts of five regions, from up to down:
 
 ### 4. **A free-text editor where you can formulat constraints acording to the grammar** which is the central control element inside this dialog. Here you can formulate your constraint as a first-order-logic like text, containing feature names and operators. Please note the grammar below.
 
-![TextField](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialogText.png)
+![TextField](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/ConstraintDialogText.png)
 
 
 ### 5. **The dialog's control buttons** where you can save or abort your constraint. 
