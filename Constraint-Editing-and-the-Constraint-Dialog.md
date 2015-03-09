@@ -2,7 +2,7 @@
 
 Sometimes it is required to express more complex constraints inside a feature model than e.g. "feature *A* requires parent feature". However, to formulate such constraints you can use the *ConstraintDialog* which is a text-editor with auto-completion supported, auto-validity checks and other tools. 
 
-
+![Constraint Dialog ](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog.png)
 
 #### Create New Constraints
 To open the *ConstraintDialog*, right-click on a feature name inside a feature model and select *"Create Constraint"* in the popup menu. This will open the ConstraintDialog with an empty input textfield. 
