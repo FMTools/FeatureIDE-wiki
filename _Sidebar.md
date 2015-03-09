@@ -11,8 +11,8 @@
   * [[Testprocess]]
   * [[VCS-Workflow-Conventions]]
   * [[Source-Format-Conventions]]
-  * Testint-Instructions
-    [ConstraintDialog](https://github.com/tthuem/FeatureIDE/wiki/Testing-Instructions-for-the-ConstraintDialog)
+  * Testing-Instructions
+    * [ConstraintDialog](https://github.com/tthuem/FeatureIDE/wiki/Testing-Instructions-for-the-ConstraintDialog)
   * **Jobs in FeatureIDE**
     * [Introduction](https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
     * [List of UIJobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-UIJobs-created-in-FeatureIDE)
