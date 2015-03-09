@@ -47,7 +47,7 @@ Here you can click on to automatically copy-paste a operator into the free-text 
 
 ![Operator List](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/OperatorList.png)
 
-### 4. A free-text editor where you can formulat constraints acording to the grammar
+### 4. A free-text editor where you can formulate constraints acording to the grammar
 This control is the central element inside the *ConstraintDialog*. Here you can formulate your constraint as a first-order-logic like text, containing feature names and operators. Please note the grammar below.
 
 ![TextField](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/ConstraintDialogText.png)
