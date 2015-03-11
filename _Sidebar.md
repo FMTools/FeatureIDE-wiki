@@ -6,7 +6,7 @@
   * [[Architecture]]
     * [[Creation of New PlugIn Projects]]
   * [[FeatureIDE-Functions]]
-  * [Installation and Update Process](https://github.com/tthuem/FeatureIDE/wiki/InstallationAndUpdateProcess)
+  * [Installation and Update Process](https://github.com/tthuem/FeatureIDE/wiki/Installation-And-Update-Process)
   * [[Nightly-Builds]]
   * [[Testprocess]]
   * [[VCS-Workflow-Conventions]]
