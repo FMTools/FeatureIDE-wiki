@@ -13,7 +13,7 @@
   * [[Source-Format-Conventions]]
   * Testing-Instructions
     * [ConstraintDialog](https://github.com/tthuem/FeatureIDE/wiki/Testing-Instructions-for-the-ConstraintDialog)
-  * **Jobs in FeatureIDE**
+  * Jobs in FeatureIDE
     * [Introduction](https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
     * [List of UIJobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-UIJobs-created-in-FeatureIDE)
     * [List of non-UI Jobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-non-UI-Jobs-created-in-FeatureIDE)
