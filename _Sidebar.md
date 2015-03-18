@@ -5,7 +5,7 @@
 * **Software-Productline-Developer**
   * [[Best-Practice]]
   * Feature Modeling 
-     * [Constraints](https://github.com/tthuem/FeatureIDE/wiki/Constraint-Editing-and-the-Constraint-Dialog)
+     * [Constraint Dialog](https://github.com/tthuem/FeatureIDE/wiki/Constraint-Editing-and-the-Constraint-Dialog)
   * [[Eclipse-Usage]]
   * [[Samples]]
 * **FeatureIDE-Developer**
