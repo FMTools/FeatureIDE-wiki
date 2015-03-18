@@ -4,6 +4,7 @@
 * [[Project-Overview]]
 * **Software-Productline-Developer**
   * [[Collaboration Diagram]]
+  * [[Statistic View]]
   * [[Best-Practice]]
   * Feature Modeling 
      * [Constraint Dialog](https://github.com/tthuem/FeatureIDE/wiki/Constraint-Editing-and-the-Constraint-Dialog)
