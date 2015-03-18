@@ -3,7 +3,7 @@ The Collaboration View shows a table of all classes and features. Features are d
 
 The function of the toolbar from left to right are: 
 
-![Collaboration-view_toolbar](http://i.imgur.com/A7RW810.jpg)
+![Collaboration-view_toolbar](http://i.imgur.com/uRXr0ez.jpg)
 * access-modifiers-filter: filter for "private","public","protected" and "default" modifiers
 * fields-with-refinements-filter: toggles the display of fields with refinements
 * fields-without-refinements-filter: toggles the display of fields without refinements
