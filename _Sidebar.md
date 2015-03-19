@@ -4,6 +4,7 @@
 * [[Project-Overview]]
 * **Software-Productline-Developer**
   * [[Collaboration Diagram]]
+  * [[Collaboration Outline]]
   * [[Statistic View]]
   * [[Best-Practice]]
   * Feature Modeling 
