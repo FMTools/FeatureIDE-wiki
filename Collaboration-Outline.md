@@ -1,7 +1,7 @@
 The **FeatureIDE Outline** shows all fields and methods in the current file. It is also capable of displaying nested classes. 
-The behaviour and design is similar to the Eclipse Default Outline. In addition it supports haskell, CSharp, java and C files.
+The behaviour and design is similar to the Eclipse Default Outline. In addition it supports Haskell, CSharp, Java and C files.
 All gray colored entries are not present in the current feature, while all black entries occur in it.
-On the upper right there are buttons to filter/sort fields and methods as seen in the picture below.
+On the upper right there is a toolbar with buttons to filter/sort fields and methods as seen in the picture below.
 
 The functions of the **toolbar** from left to right are:       
 
