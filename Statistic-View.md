@@ -19,7 +19,8 @@ The second and the third node works similar. The first part shows the unique nam
 The second will expand on the first double-click. If expanded, clicking on this node again sort the Objects in alphabetical or descending order.
 In addition to the features of the class-node, the field-node and the method-node shows there type respectively the type of the parameter and the return-value-type.
 
-The fourth node displays the lines of code (LOC) sorted by extensions or features. In expanded state the extension-node informs about LOC in existing extensions in the project (with LOC- no images!) in sum and on the next level in detail. The feature-node works analogue. By double-click again on the expanded node the sub-nodes are sortable by alphabetical or descent order.
+The fourth node displays the lines of code (LOC) sorted by extensions or features. In expanded state the extension-node informs about LOC in existing extensions in the project (with LOC- no images!) in sum and on the next level in detail. The feature-node works analogue. By double-click again on the expanded node the sub-nodes are sortable by alphabetical or descent order. 
+Recently following extensions ignore comments for LOC-counting: java, c, h, jj, jak, cs. Default solution only counts the lines of code without spaces and empty lines. 
 
 [![implementation example]( http://i.imgur.com/SlHKcGk.png)](http://i.imgur.com/SlHKcGk.png)
 
