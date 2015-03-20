@@ -23,11 +23,11 @@
 	* [Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-architecture-and-extensibility-extension-example)
 
   * General
-    * [[General-FOSD-Documentation]]
-	* [[General-Java-Documentation]]
-	* [[General-Plug-in-Development-Eclipse]]
+    * [FOSD-Documentation] (https://github.com/tthuem/FeatureIDE/wiki/FGeneral-FOSD-Documentation)
+	* [Java-Documentation] (https://github.com/tthuem/FeatureIDE/wiki/FGeneral-Java-Documentation)
+	* [Plug-in-Development-Eclipse](https://github.com/tthuem/FeatureIDE/wiki/FGeneral-Plug-in-Development-Eclipse])
 	
-  * Git - Getting started (https://github.com/tthuem/FeatureIDE/wiki/Git-Documentation)
+  * [Git - Getting started] (https://github.com/tthuem/FeatureIDE/wiki/Git-Documentation)
   
   * Development in general
     * Guidelines
