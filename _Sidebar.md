@@ -34,32 +34,14 @@
 	
   * [Testing instructions/Test process] (https://github.com/tthuem/FeatureIDE/wiki/Testprocess)
 	* Manual testing
-	  * Wizards
-	    * Project wizard
-		* Example project wizard
-		* Configuration file wizard
-		* Source file wizard
+	  * [Wizards] (https://github.com/tthuem/FeatureIDE/wiki/Testing-instructions-manual-testing-wizards)
 	  * Project Builder
 	  * Run/Debug Configurations
 	  * Package Explorer
-	  * Feature Model Editor
-		* Feature Diagram
-		  * Connections and properties
-		  * Create/Edit/Delete diagram elements
-		  * Drag and drop
-		  * Legend/Highlighting
-		* [Constraint editor] (https://github.com/tthuem/FeatureIDE/wiki/Testing-Instructions-for-the-ConstraintDialog)
-		* Feature order
-		* Propagation of changes/ View synchronization
-		* Feature model edits
-		* Outline view
-	  * Configuration editor
-		* Default page
-		* Advanced page
-	  * Collaboration diagram
-	    * Interaction
-		* Filtering
-	  * Collaboration outline
+	  * [Feature Model Editor] (https://github.com/tthuem/FeatureIDE/wiki/Testing-instructions-manual-testing-feature-model-editor)
+	  * [Configuration editor] (https://github.com/tthuem/FeatureIDE/wiki/Testing-instructions-manual-testing-configuration-editor)
+	  * [Collaboration diagram] (https://github.com/tthuem/FeatureIDE/wiki/Testing-instructions-manual-testing-collaboration-diagram)
+	  * [Collaboration outline] (https://github.com/tthuem/FeatureIDE/wiki/Testing-instructions-manual-testing-collaboration-outline)
 	* Automatic testing/ Unit tests
 	  * general
 	  * ahead
