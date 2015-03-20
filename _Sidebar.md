@@ -22,8 +22,12 @@
 	* Debugging
 	* [Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-architecture-and-extensibility-extension-example)
 
-
-  * Git - Getting started
+  * General
+    * [[General-FOSD-Documentation]]
+	* [[General-Java-Documentation]]
+	* [[General-Plug-in-Development-Eclipse]]
+	
+  * Git - Getting started (https://github.com/tthuem/FeatureIDE/wiki/Git-Documentation)
   
   * Development in general
     * Guidelines
