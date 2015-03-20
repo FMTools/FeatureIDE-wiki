@@ -21,14 +21,7 @@
 	* Extensions Points
 	* Debugging
 	* [Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-architecture-and-extensibility-extension-example)
-	  * [[Creation of New PlugIn Projects]]
-	  * Feature Model Editor Extension
-	  * Feature Diagram Extension
-	  * Configuration Editor Extension
-	  * Composition tool integration
-		* Plug-in setup, Activator class
-		* Extension point, Composer extension
-	  * Preprocessor Extension
+
 
   * Git - Getting started
   
