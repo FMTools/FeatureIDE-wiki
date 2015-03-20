@@ -20,7 +20,7 @@
 	* FeatureIDE Features
 	* Extensions Points
 	* Debugging
-	* Extension examples
+	* [Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-architecture-and-extensibility-extension-example)
 	  * [[Creation of New PlugIn Projects]]
 	  * Feature Model Editor Extension
 	  * Feature Diagram Extension
