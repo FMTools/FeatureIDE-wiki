@@ -26,8 +26,7 @@
 	* Extensions to Menus (outdated?)
 	* Extensions to View and Editors
 	
-  * [FeatureIDE architecture and extensibility] 
-	* [[Architecture]]
+  * [FeatureIDE architecture and extensibility] (https://github.com/tthuem/FeatureIDE/wiki/Architecture)
 	* FeatureIDE Features
 	* Extensions Points
 	* Debugging
