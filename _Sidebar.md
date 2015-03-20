@@ -11,12 +11,7 @@
 
   * Eclipse: Architecture and Concepts
     * Eclipse Overview
-	* Plug-in System
-	  * General plug-in concept
-	  * Metadata Example
-	  * Equinox/OSGi Runtime Environment
-	  * Extension points
-	  * plugin.xml
+	* [Plug-in System] (https://github.com/tthuem/FeatureIDE/wiki/Eclipse-architecture-and-concepts-plug-in-systems)
 	* Exemplary plug-in
 	* Extensions to Menus (outdated?)
 	* Extensions to View and Editors
