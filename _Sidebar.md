@@ -41,7 +41,7 @@
     * Guidelines
 	* Issue-Workflow
 	* Conventions
-	  * [[VCS-Workflow-Conventions]]
+	  * [[Git-Workflow-Conventions]]
 	  * [[Source-Format-Conventions]] 
 	
   * [Testing instructions/Test process] (https://github.com/tthuem/FeatureIDE/wiki/Testprocess)
