@@ -4,12 +4,7 @@
 * [[Project-Overview]]
 * [**FeatureIDE Developer**] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer)
   * Getting started / Development environment
-    * Eclipse RCP and RAP Development
-	  * Version, Shortcut, Runtime-Parameters, Workspace
-	  * Additional plugins
-	    * EGit
-		* CDT
-		* FindBugs
+    * [Eclipse RCP and RAP Development] (https://github.com/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development)
 	* Checkout FeatureIDE sources
 	* Run Configuration
 	* Repository structure
