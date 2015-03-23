@@ -29,8 +29,7 @@
     * [[Source-Format-Conventions]] 
 * [Testing instructions/Test process] (https://github.com/tthuem/FeatureIDE/wiki/Testprocess)
   * Manual testing
-	* [[Wizards]]
-	* [Was anderes Wizard] (https://github.com/tthuem/FeatureIDE/wiki/Wizards-Menuitem)
+	* [Wizards] (https://github.com/tthuem/FeatureIDE/wiki/index-wizards-[FeatureIDE-Dev])
 	* Project Builder
 	* Run/Debug Configurations
 	* Package Explorer
@@ -51,5 +50,4 @@
 	* [List of UIJobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-UIJobs-created-in-FeatureIDE)
 	* [List of non-UI Jobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-non-UI-Jobs-created-in-FeatureIDE)
 * **FAQ**
-* [TEST-12345] (https://github.com/tthuem/FeatureIDE/wiki/index-TEST-12345-[FeatureIDE-dev])
 * [<< back] (https://github.com/tthuem/FeatureIDE/wiki)
