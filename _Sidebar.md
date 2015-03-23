@@ -2,6 +2,19 @@
 
 * [[Home]]
 * [[Project-Overview]]
+* [[**Software-Productline-Developer**]]
+  * [[Eclipse-Usage]]
+  * [Installation and Update Process](https://github.com/tthuem/FeatureIDE/wiki/Installation-And-Update-Process)
+  * [[FeatureIDE-Functions]]
+	* Feature Model Editor
+      * [Constraint editor](https://github.com/tthuem/FeatureIDE/wiki/Constraint-Editing-and-the-Constraint-Dialog)
+	* [[Collaboration Diagram]]
+	* [[Collaboration Outline]]
+	* [[Statistic View]]
+  * [[Samples]]
+    * Software Productlines
+	* Featuremodels
+  * [[Best-Practice]]
 * [**FeatureIDE Developer**] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer)
   * Getting started / Development environment
     * [Eclipse RCP and RAP Development] (https://github.com/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development)
@@ -53,17 +66,3 @@
 		* [List of UIJobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-UIJobs-created-in-FeatureIDE)
 		* [List of non-UI Jobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-non-UI-Jobs-created-in-FeatureIDE)
   * **FAQ**
-		
-* **Software-Productline-Developer**
-  * [[Eclipse-Usage]]
-  * [Installation and Update Process](https://github.com/tthuem/FeatureIDE/wiki/Installation-And-Update-Process)
-  * [[FeatureIDE-Functions]]
-	* Feature Model Editor
-      * [Constraint editor](https://github.com/tthuem/FeatureIDE/wiki/Constraint-Editing-and-the-Constraint-Dialog)
-	* [[Collaboration Diagram]]
-	* [[Collaboration Outline]]
-	* [[Statistic View]]
-  * [[Samples]]
-    * Software Productlines
-	* Featuremodels
-  * [[Best-Practice]]
