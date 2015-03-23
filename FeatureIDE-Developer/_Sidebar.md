@@ -51,5 +51,5 @@
 	* [List of UIJobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-UIJobs-created-in-FeatureIDE)
 	* [List of non-UI Jobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-non-UI-Jobs-created-in-FeatureIDE)
 * **FAQ**
-* [[TEST12345]]
+* [[TEST-12345]]
 * [<< back] (https://github.com/tthuem/FeatureIDE/wiki)
