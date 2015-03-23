@@ -3,5 +3,4 @@
 * Example project wizard
 * Configuration file wizard
 * Source file wizard
-* [<< back] (wiki/index-FeatureIDE-Developer)
-
+* [<< back] (index-FeatureIDE-Developer)
