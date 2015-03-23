@@ -2,7 +2,7 @@
 
 * [[Home]]
 * [[Project-Overview]]
-* [[Software-Productline-Developer]]
+* [[Software Productline Developer]]
   
 * [**FeatureIDE Developer**] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer)
   * Getting started / Development environment
