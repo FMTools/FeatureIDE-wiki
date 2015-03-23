@@ -29,7 +29,7 @@
     * [[Source-Format-Conventions]] 
 * [Testing instructions/Test process] (https://github.com/tthuem/FeatureIDE/wiki/Testprocess)
   * Manual testing
-	* [Wizards] (https://github.com/tthuem/FeatureIDE/wiki/index-wizards-[FeatureIDE-Dev])
+	* [Wizards] (https://github.com/tthuem/FeatureIDE/wiki/index-wizards-[FeatureIDE\-Dev])
 	* Project Builder
 	* Run/Debug Configurations
 	* Package Explorer
