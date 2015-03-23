@@ -30,7 +30,7 @@
 * [Testing instructions/Test process] (https://github.com/tthuem/FeatureIDE/wiki/Testprocess)
   * Manual testing
 	* [Wizards] (https://github.com/tthuem/FeatureIDE/wiki/Wizards_renamed)
-	* [[Wizards]]
+	* [[Wizards-Menuitem]]
 	* Project Builder
 	* Run/Debug Configurations
 	* Package Explorer
