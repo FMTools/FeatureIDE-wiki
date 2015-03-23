@@ -1,5 +1,4 @@
 # Software Productline Developer
-
 * [[Eclipse-Usage]]
   * [Installation and Update Process](https://github.com/tthuem/FeatureIDE/wiki/Installation-And-Update-Process)
 * [[FeatureIDE-Functions]]

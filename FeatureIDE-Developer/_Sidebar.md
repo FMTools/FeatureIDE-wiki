@@ -1,5 +1,4 @@
 # FeatureIDE Developer
-
 * Getting started / Development environment
   * [Eclipse RCP and RAP Development] (https://github.com/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development)
   * Checkout FeatureIDE sources
