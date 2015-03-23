@@ -2,7 +2,7 @@
 
 * [[Home]]
 * [[Project-Overview]]
-* [[**Software-Productline-Developer**]]
+* [**Software-Productline-Developer**] (https://github.com/tthuem/FeatureIDE/wiki/Software-Productline-Developer)
   * [[Eclipse-Usage]]
   * [Installation and Update Process](https://github.com/tthuem/FeatureIDE/wiki/Installation-And-Update-Process)
   * [[FeatureIDE-Functions]]
