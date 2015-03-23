@@ -2,19 +2,8 @@
 
 * [[Home]]
 * [[Project-Overview]]
-* [**Software-Productline-Developer**] (https://github.com/tthuem/FeatureIDE/wiki/Software-Productline-Developer)
-  * [[Eclipse-Usage]]
-  * [Installation and Update Process](https://github.com/tthuem/FeatureIDE/wiki/Installation-And-Update-Process)
-  * [[FeatureIDE-Functions]]
-	* Feature Model Editor
-      * [Constraint editor](https://github.com/tthuem/FeatureIDE/wiki/Constraint-Editing-and-the-Constraint-Dialog)
-	* [[Collaboration Diagram]]
-	* [[Collaboration Outline]]
-	* [[Statistic View]]
-  * [[Samples]]
-    * Software Productlines
-	* Featuremodels
-  * [[Best-Practice]]
+* **[[Software-Productline-Developer]]**
+  
 * [**FeatureIDE Developer**] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer)
   * Getting started / Development environment
     * [Eclipse RCP and RAP Development] (https://github.com/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development)
