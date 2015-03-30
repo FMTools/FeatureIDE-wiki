@@ -6,7 +6,6 @@ Software product lines (SPL) have a long tradition and will gain momentum in the
 
 FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented software development for the development of SPLs: domain analysis, domain implementation, requirements analysis, and software generation. Different SPL implementation techniques are integrated such as feature-oriented programming (FOP), aspect-oriented programming (AOP), delta-oriented programming (DOP), and preprocessors.
 
-TEST
 
 <table>
 	<tr>
@@ -17,8 +16,8 @@ TEST
 		<td>under construction</td>
 	</tr>
 	<tr>
-		<td><img align="center" src="/Assets/Home/under_construction.png"></td>
-		<td><img align="center" src="/Assets/Home/under_construction.png"></td>
+		<td>![IMG About FeatureIDE](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Home/under_construction)</td>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
