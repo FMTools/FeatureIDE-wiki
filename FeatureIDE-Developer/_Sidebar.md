@@ -9,7 +9,6 @@
 		* Repository structure
 	* FeatureIDE repository structure
 	* [Git - Getting started] (https://github.com/tthuem/FeatureIDE/wiki/Git-Documentation)
-	
 * [FeatureIDE architecture and extensibility] (https://github.com/tthuem/FeatureIDE/wiki/Architecture)
 	* Eclipse: Architecture and Concepts
 		* Eclipse Overview
@@ -57,5 +56,4 @@
 	* [Jobs in FeatureIDE] (https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
 		* [List of UIJobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-UIJobs-created-in-FeatureIDE)
 		* [List of non-UI Jobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-non-UI-Jobs-created-in-FeatureIDE)
-	
 * **FAQ**
