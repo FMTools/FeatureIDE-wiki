@@ -8,7 +8,7 @@
 	* [Feature Models] (https://github.com/tthuem/FeatureIDE/wiki/Background-Feature-Models)
 	* [FOSD] (https://github.com/tthuem/FeatureIDE/wiki/Background-FOSD)
 * [FeatureIDE Installation and Update] (https://github.com/tthuem/FeatureIDE/wiki/Installation-And-Update-Process)
-* [[FeatureIDE-Functions]]
+* [[FeatureIDE Functions]]
 	* MORE
 	* Feature Model Editor
 	  * [Constraint editor](https://github.com/tthuem/FeatureIDE/wiki/Constraint-Editing-and-the-Constraint-Dialog)
