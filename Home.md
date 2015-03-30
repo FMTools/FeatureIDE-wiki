@@ -27,8 +27,8 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 		<td></td>
 		<td></td>
 		<td>[[Software Productline Developer]]</td>
-		<td>[FeatureIDE Developer](index-FeatureIDE-Developer.md)</td>
-		<td></td>
+		<td>[FeatureIDE Developer](FeatureIDE-Developer/index-FeatureIDE-Developer)</td>
+		<td>[TEST](https://github.com/tthuem/FeatureIDE/wiki/Constraint-Editing-and-the-Constraint-Dialog)</td>
 
 	</tr>
 </table>
