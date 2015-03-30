@@ -7,7 +7,6 @@
 	* [Software Productlines] (https://github.com/tthuem/FeatureIDE/wiki/Background-Software-Productlines)
 	* [Feature Models] (https://github.com/tthuem/FeatureIDE/wiki/Background-Feature-Models)
 	* [FOSD] (https://github.com/tthuem/FeatureIDE/wiki/Background-FOSD)
-* [FOSD-Documentation] (https://github.com/tthuem/FeatureIDE/wiki/General-FOSD-Documentation)
 * [FeatureIDE Installation and Update] (https://github.com/tthuem/FeatureIDE/wiki/Installation-And-Update-Process)
 * [[FeatureIDE-Functions]]
 	* MORE
@@ -18,7 +17,5 @@
 	* [[Statistic View]]
 	* MORE
 	* MORE
-
 * [[Samples]]
-
 * [[Best-Practice]]
