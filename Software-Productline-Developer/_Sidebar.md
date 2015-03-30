@@ -1,6 +1,6 @@
 # Software Productline Developer
 
-* **Home** (https://github.com/tthuem/FeatureIDE/wiki)
+* **[Home]** (https://github.com/tthuem/FeatureIDE/wiki)
 
 * Background
 * [FOSD-Documentation] (https://github.com/tthuem/FeatureIDE/wiki/General-FOSD-Documentation)
