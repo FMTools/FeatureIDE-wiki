@@ -9,15 +9,15 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 
 <table>
 	<tr>
-		<th style="width:120px">under construction</th>
-		<th style="width:120px">About FeatureIDE</th>
-		<th style="width:120px">Software Productline Developer</th>
-		<th style="width:120px">FeatureIDE Developer</th>
-		<th style="width:120px">under construction</th>
+		<th>under construction</th>
+		<th>About FeatureIDE</th>
+		<th>Software Productline Developer</th>
+		<th>FeatureIDE Developer</th>
+		<th>under construction</th>
 
 	</tr>
 	<tr>
-		<td><p align="center"><img align="center" height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
+		<td width="200px"><p align="center"><img align="center" height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
 		<td><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
 		<td><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
 		<td><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
