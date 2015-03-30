@@ -32,8 +32,3 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 </table>
 
 | under construction | About FeatureIDE | Software Productline Developer | FeatureIDE Developer | under construction |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| ------------- | ------------- | -----	|
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
