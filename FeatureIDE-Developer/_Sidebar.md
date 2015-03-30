@@ -1,7 +1,6 @@
 # FeatureIDE Developer
 
-* [Home] (https://github.com/tthuem/FeatureIDE/wiki)
-
+* [**Home**] (https://github.com/tthuem/FeatureIDE/wiki)
 * Getting started
 	* Preparing Eclipse
 		* [Eclipse RCP and RAP Development] (https://github.com/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development)
