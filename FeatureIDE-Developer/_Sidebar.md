@@ -1,12 +1,5 @@
 # FeatureIDE Developer
 
-
-* General
-  * 
-  * [Java-Documentation] (https://github.com/tthuem/FeatureIDE/wiki/General-Java-Documentation)
-  * 
-
-
 * [Home] (https://github.com/tthuem/FeatureIDE/wiki)
 
 * Getting started
@@ -17,7 +10,6 @@
 		* Repository structure
 	* FeatureIDE repository structure
 	* [Git - Getting started] (https://github.com/tthuem/FeatureIDE/wiki/Git-Documentation)
-
 	
 * FeatureIDE architecture and extensibility (https://github.com/tthuem/FeatureIDE/wiki/Architecture)
 	* Eclipse: Architecture and Concepts
@@ -27,11 +19,8 @@
 		* Extensions to Menus (outdated?)
 		* Extensions to View and Editors
 	* [Plug-in-Development-Eclipse](https://github.com/tthuem/FeatureIDE/wiki/General-Plug-in-Development-Eclipse)
-	* FeatureIDE Features
+	* FeatureIDE Plug-ins
 	* Extensions Points
-
-
-
 * Development process in general
 	* Development steps
 	* Issue-Workflow
@@ -39,13 +28,12 @@
 	* Guidelines
 	* Conventions
 		* [[Git-Workflow-Conventions]]
-		* [[Source-Format-Conventions]] 
-		
+		* [[Source-Format-Conventions]]
+	* [Java-Documentation] (https://github.com/tthuem/FeatureIDE/wiki/General-Java-Documentation)
 * Development process in detail
 	* Eclipse features
 	* [FeatureIDE Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-architecture-and-extensibility-extension-example)
 	* Debugging
-		* 
 	* Testing process
 		* General user functionality
 		* Additional manual testing
