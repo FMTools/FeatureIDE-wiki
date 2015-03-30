@@ -1,7 +1,6 @@
 # FeatureIDE Developer
 
 * [Home] (https://github.com/tthuem/FeatureIDE/wiki)
-
 * Getting started
 	* Preparing Eclipse
 		* [Eclipse RCP and RAP Development] (https://github.com/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development)
@@ -11,7 +10,7 @@
 	* FeatureIDE repository structure
 	* [Git - Getting started] (https://github.com/tthuem/FeatureIDE/wiki/Git-Documentation)
 	
-* FeatureIDE architecture and extensibility (https://github.com/tthuem/FeatureIDE/wiki/Architecture)
+* [FeatureIDE architecture and extensibility] (https://github.com/tthuem/FeatureIDE/wiki/Architecture)
 	* Eclipse: Architecture and Concepts
 		* Eclipse Overview
 		* [Plug-in System] (https://github.com/tthuem/FeatureIDE/wiki/Eclipse-architecture-and-concepts-plug-in-systems)
