@@ -16,7 +16,7 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 		<td>under construction</td>
 	</tr>
 	<tr>
-		<td><img align="center" alt="under_construction" src="/Assets/Home/under_construction.png"></td>
+		<td><img align="center" height="50" width="50" alt="under_construction" src="/Assets/Home/under_construction.png"></td>
 		<td><img align="center" alt="under_construction" src="/Assets/Home/under_construction.png"></td>
 		<td></td>
 		<td></td>
