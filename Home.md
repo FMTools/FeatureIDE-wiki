@@ -9,26 +9,26 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 
 <table>
 	<tr>
-		<th>under construction</th>
+		<!--th>under construction</th-->
 		<th>About FeatureIDE</th>
 		<th>Software Productline Developer</th>
 		<th>FeatureIDE Developer</th>
-		<th>under construction</th>
+		<!--th>under construction</th-->
 
 	</tr>
 	<tr>
-		<td width="200px"><p align="center"><img align="center" height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
-		<td><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
-		<td><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
-		<td><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
-		<td><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
+		<!--td width="120px"><p align="center"><img align="center" height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td-->
+		<td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
+		<td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
+		<td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
+		<!--td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td-->
 	</tr>
 	<tr>
-		<td></td>
+		<!--td></td-->
 		<td></td>
 		<td>[[Software Productline Developer]]</td>
 		<td><a class="internal present" href="/tthuem/FeatureIDE/wiki/index-FeatureIDE-Developer">FeatureIDE Developer</a></td>
-		<td></td>
+		<!--td></td-->
 
 	</tr>
 </table>
