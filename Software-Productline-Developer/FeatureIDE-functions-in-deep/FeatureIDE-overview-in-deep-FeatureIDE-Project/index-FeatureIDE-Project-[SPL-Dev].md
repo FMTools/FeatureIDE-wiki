@@ -2,7 +2,7 @@ Index page for the description of the FeatureIDE Project structure.
 
 This page will filled soon.
 
-# Navigation:
+Navigation:
 
 <table>
 	<tr>
