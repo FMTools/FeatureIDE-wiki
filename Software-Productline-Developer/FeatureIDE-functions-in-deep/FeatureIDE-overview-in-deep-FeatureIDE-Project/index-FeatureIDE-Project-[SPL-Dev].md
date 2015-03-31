@@ -17,17 +17,17 @@ This page will filled soon.
 		</th>
 	</tr>
 	<tr>
-		<td width="160px">
+		<td width="33%">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 			</p>
 		</td>
-		<td width="160px">
+		<td width="33%">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 			</p>
 		</td>
-		<td width="160px">
+		<td width="34%">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 			</p>
