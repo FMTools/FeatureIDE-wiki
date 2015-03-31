@@ -1,6 +1,6 @@
 # Eclipse Architecture and Concepts
 
-* [**Home**] (https://github.com/tthuem/FeatureIDE/wiki) **<<** [**FeatureIDE Developer**] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer)
+* [**Home**] (https://github.com/tthuem/FeatureIDE/wiki) **<<** [**FeatureIDE Developer**] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-Developer)
 * [Eclipse Overview] (https://github.com/tthuem/FeatureIDE/wiki/Eclipse-Overview-[FeatureIDE-Dev])
 * [Plugin System] (https://github.com/tthuem/FeatureIDE/wiki/Plugin-System-[FeatureIDE-Dev])
 * [Exemplary Plugin] (https://github.com/tthuem/FeatureIDE/wiki/Exemplary-Plugin-[FeatureIDE-Dev])
