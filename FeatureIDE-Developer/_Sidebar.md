@@ -5,14 +5,9 @@
 	* [Preparing Eclipse] (index-Preparing-Eclipse)
 	* FeatureIDE repository structure
 	* [Git - Getting started] (https://github.com/tthuem/FeatureIDE/wiki/Git-Documentation)
-* [FeatureIDE architecture and extensibility] (https://github.com/tthuem/FeatureIDE/wiki/Architecture)
-	* Eclipse: Architecture and Concepts
-		* Eclipse Overview
-		* [Plug-in System] (https://github.com/tthuem/FeatureIDE/wiki/Eclipse-architecture-and-concepts-plug-in-systems)
-		* Exemplary plug-in
-		* Extensions to Menus (outdated?)
-		* Extensions to View and Editors
-	* [Plug-in-Development-Eclipse](https://github.com/tthuem/FeatureIDE/wiki/General-Plug-in-Development-Eclipse)
+* [FeatureIDE Architecture and Extensibility] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-Architecture-and-Extensibility)
+	* Eclipse: Architecture and Concepts (https://github.com/tthuem/FeatureIDE/wiki/index-Eclipse-Architecture-and-Concepts)
+	* [Plugin-Development-Eclipse](https://github.com/tthuem/FeatureIDE/wiki/General-Plug-in-Development-Eclipse)
 	* FeatureIDE Plug-ins
 	* Extensions Points
 * Development process in general

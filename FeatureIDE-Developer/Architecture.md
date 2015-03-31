@@ -1,1 +1,0 @@
-Once you start developing with FeatureIDE, you may be interested in its architecure. For a detailed description you can view this [presentation](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/slides/featureide-2-getstarted.pdf).
