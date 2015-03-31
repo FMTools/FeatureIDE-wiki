@@ -88,5 +88,11 @@ This page will filled soon.
 		<td>
 			description follows
 		</td>
+		<td>
+			description follows
+		</td>
+		<td>
+			description follows
+		</td>
 	</tr>
 </table>
