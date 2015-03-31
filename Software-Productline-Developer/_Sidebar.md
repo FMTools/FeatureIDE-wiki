@@ -9,7 +9,7 @@
 * [FeatureIDE Installation and Update] (https://github.com/tthuem/FeatureIDE/wiki/Installation-And-Update-Process)
 * [FeatureIDE overview] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-overview)
 * [FeatureIDE functions in deep] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-functions-in-deep)
-	* [FeatureIDE Project Structure]
+	* [FeatureIDE Project]
 		* [Creation Wizards]
 		* [Project Builder]
 		* [Run Configurations]
