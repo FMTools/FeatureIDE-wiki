@@ -5,17 +5,17 @@ This page will filled soon.
 # Navigation:
 
 <table>
-	<th>
-		<td>
+	<tr>
+		<th>
 			Creation Wizards
-		</td>
-		<td>
+		</th>
+		<th>
 			Project Builder
-		</td>
-		<td>
+		</th>
+		<th>
 			Run Configurations
-		</td>
-	</th>
+		</th>
+	</tr>
 	<tr>
 		<td width="120px">
 			<p align="center">
