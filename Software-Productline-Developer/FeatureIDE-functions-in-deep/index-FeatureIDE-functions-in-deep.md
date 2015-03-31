@@ -18,18 +18,10 @@ For a detailed list of the main functionalities you can have a look at this [scr
 			Collaboration Diagram
 		</th>
 		<th>
-			Collaboration Outline
-		</th>
-		<th>
 			Statistic View
 		</th>
 	</tr>
 	<tr>
-		<td width="106px">
-			<p align="center">
-				<img height="70" width="70" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
-			</p>
-		</td>
 		<td width="106px">
 			<p align="center">
 				<img height="70" width="70" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
@@ -79,19 +71,11 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Collaboration-Outline-[SPL-Dev]">Collaboration Outline</a>
-			</p>
-		</td>
-		<td>
-			<p align="center">
 				<a href="/tthuem/FeatureIDE/wiki/Statistics-View-[SPL-Dev]">Statistics View</a>
 			</p>
 		</td>
 	</tr>
 	<tr>
-		<td>
-			description follows
-		</td>
 		<td>
 			description follows
 		</td>

@@ -12,9 +12,7 @@
 	* [FeatureIDE Project] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-Project-[SPL-Dev])
 	* [Feature Model Editor] (https://github.com/tthuem/FeatureIDE/wiki/index-Feature-Model-Editor-[SPL-Dev])
 	* [Configuration Editor] (https://github.com/tthuem/FeatureIDE/wiki/Configuration-Editor-[SPL-Dev])
-	* [[Collaboration Diagram]]
-	* [[Collaboration Outline]]
-	* [[Statistic View]]
-	* MORE
+	* [Collaboration Diagram] (https://github.com/tthuem/FeatureIDE/wiki/Collaboration-Diagram-[SPL-Dev])
+	* [Statistics View] (https://github.com/tthuem/FeatureIDE/wiki/Statistics-View-[SPL-Dev])
 * [[Samples]]
 * [[Best-Practice]]
