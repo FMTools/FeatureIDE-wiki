@@ -11,7 +11,7 @@
 * [FeatureIDE functions in deep] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-functions-in-deep)
 	* MORE
 	* MORE
-	* Feature Model Editor
+	* [Feature Model Editor] (https://github.com/tthuem/FeatureIDE/wiki/index-Feature-Model-Editor[SPL-Dev])
 	  * [Constraint editor](https://github.com/tthuem/FeatureIDE/wiki/Constraint-Editing-and-the-Constraint-Dialog)
 	* [[Collaboration Diagram]]
 	* [[Collaboration Outline]]
