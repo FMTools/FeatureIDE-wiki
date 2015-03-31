@@ -7,13 +7,13 @@ Navigation:
 <table>
 	<tr>
 		<th>
-			[Creation Wizards] (https://github.com/tthuem/FeatureIDE/wiki/Creation-Wizards-[SPL-Dev])
+			Creation Wizards
 		</th>
 		<th>
-			[Project Builder] (https://github.com/tthuem/FeatureIDE/wiki/Project-Builder-[SPL-Dev])
+			Project Builder
 		</th>
 		<th>
-			[Run Configurations] (https://github.com/tthuem/FeatureIDE/wiki/Run-Configurations-[SPL-Dev])
+			Run Configurations
 		</th>
 	</tr>
 	<tr>
@@ -31,6 +31,17 @@ Navigation:
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			[Creation Wizards] (https://github.com/tthuem/FeatureIDE/wiki/Creation-Wizards-[SPL-Dev])
+		</td>
+		<td>
+			[Project Builder] (https://github.com/tthuem/FeatureIDE/wiki/Project-Builder-[SPL-Dev])
+		</td>
+		<td>
+			[Run Configurations] (https://github.com/tthuem/FeatureIDE/wiki/Run-Configurations-[SPL-Dev])
 		</td>
 	</tr>
 	<tr>
