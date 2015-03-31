@@ -11,11 +11,6 @@
 * [FeatureIDE functions in deep] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-functions-in-deep)
 	* [FeatureIDE Project] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-Project-[SPL-Dev])
 	* [Feature Model Editor] (https://github.com/tthuem/FeatureIDE/wiki/index-Feature-Model-Editor-[SPL-Dev])
-		* [Feature Diagram] (https://github.com/tthuem/FeatureIDE/wiki/Feature-Diagram-[SPL-Dev])
-		* [Constraint Dialog](https://github.com/tthuem/FeatureIDE/wiki/Constraint-Dialog-[SPL-Dev])
-		* [Feature Order]
-		* [Edit Views]
-		* [Outline View: Feature Model]
 	* [Configuration Editor] (https://github.com/tthuem/FeatureIDE/wiki/Configuration-Editor-[SPL-Dev])
 	* [[Collaboration Diagram]]
 	* [[Collaboration Outline]]
