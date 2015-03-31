@@ -35,13 +35,13 @@ Navigation:
 	</tr>
 	<tr>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Creation-Wizards-[SPL-Dev]">Creation Wizards [SPL Dev]</a>
+			<a href="/tthuem/FeatureIDE/wiki/Creation-Wizards-[SPL-Dev]">Creation Wizards</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Project-Builder-[SPL-Dev]">Project Builder [SPL Dev]</a>
+			<a href="/tthuem/FeatureIDE/wiki/Project-Builder-[SPL-Dev]">Project Builder</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Run-Configurations-[SPL-Dev]">Run Configurations [SPL Dev]</a>
+			<a href="/tthuem/FeatureIDE/wiki/Run-Configurations-[SPL-Dev]">Run Configurations</a>
 		</td>
 	</tr>
 	<tr>
