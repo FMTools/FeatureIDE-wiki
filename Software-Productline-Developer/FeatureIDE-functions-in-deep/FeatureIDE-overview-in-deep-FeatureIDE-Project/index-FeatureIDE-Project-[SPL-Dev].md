@@ -45,9 +45,9 @@ Navigation:
 			</p>
 		</td>
 		<td>
-			<p align="center">
+			<div style="text-align:center">
 				<a href="/tthuem/FeatureIDE/wiki/Run-Configurations-[SPL-Dev]">Run Configurations</a>
-			</p>
+			</div>
 		</td>
 	</tr>
 	<tr>
