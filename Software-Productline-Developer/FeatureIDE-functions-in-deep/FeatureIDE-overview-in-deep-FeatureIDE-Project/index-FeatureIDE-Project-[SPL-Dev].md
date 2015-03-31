@@ -7,13 +7,13 @@ Navigation:
 <table>
 	<tr>
 		<th>
-			Creation Wizards
+			[Creation Wizards] (https://github.com/tthuem/FeatureIDE/wiki/Creation-Wizards-[SPL-Dev])
 		</th>
 		<th>
-			Project Builder
+			[Project Builder] (https://github.com/tthuem/FeatureIDE/wiki/Project-Builder-[SPL-Dev])
 		</th>
 		<th>
-			Run Configurations
+			[Run Configurations] (https://github.com/tthuem/FeatureIDE/wiki/Run-Configurations-[SPL-Dev])
 		</th>
 	</tr>
 	<tr>
