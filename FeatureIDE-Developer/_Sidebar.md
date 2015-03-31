@@ -6,7 +6,7 @@
 	* FeatureIDE repository structure
 	* [Git - Getting started] (https://github.com/tthuem/FeatureIDE/wiki/Git-Documentation)
 * [FeatureIDE Architecture and Extensibility] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-Architecture-and-Extensibility)
-	* Eclipse: Architecture and Concepts (https://github.com/tthuem/FeatureIDE/wiki/index-Eclipse-Architecture-and-Concepts)
+	* [Eclipse: Architecture and Concepts] (https://github.com/tthuem/FeatureIDE/wiki/index-Eclipse-Architecture-and-Concepts)
 	* [Plugin-Development-Eclipse](https://github.com/tthuem/FeatureIDE/wiki/General-Plug-in-Development-Eclipse)
 	* FeatureIDE Plug-ins
 	* Extensions Points
