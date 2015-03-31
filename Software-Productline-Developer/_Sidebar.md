@@ -6,7 +6,7 @@
 	* [Software Productlines] (https://github.com/tthuem/FeatureIDE/wiki/Background-Software-Productlines)
 	* [Feature Models] (https://github.com/tthuem/FeatureIDE/wiki/Background-Feature-Models)
 	* [FOSD] (https://github.com/tthuem/FeatureIDE/wiki/Background-FOSD)
-* [FeatureIDE Installation and Update] (https://github.com/tthuem/FeatureIDE/wiki/Installation-And-Update-Process)
+* [FeatureIDE Installation and Update] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Installation-And-Update)
 * [FeatureIDE overview] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-overview)
 * [FeatureIDE functions in deep] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-functions-in-deep)
 	* [FeatureIDE Project] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-Project-[SPL-Dev])
