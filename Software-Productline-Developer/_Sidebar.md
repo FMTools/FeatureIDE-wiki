@@ -9,10 +9,7 @@
 * [FeatureIDE Installation and Update] (https://github.com/tthuem/FeatureIDE/wiki/Installation-And-Update-Process)
 * [FeatureIDE overview] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-overview)
 * [FeatureIDE functions in deep] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-functions-in-deep)
-	* [FeatureIDE Project]
-		* [Creation Wizards]
-		* [Project Builder]
-		* [Run Configurations]
+	* [FeatureIDE Project] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-Project-[SPL-Dev])
 	* [Feature Model Editor] (https://github.com/tthuem/FeatureIDE/wiki/index-Feature-Model-Editor-[SPL-Dev])
 		* [Feature Diagram] (https://github.com/tthuem/FeatureIDE/wiki/Feature-Diagram-[SPL-Dev])
 		* [Constraint Dialog](https://github.com/tthuem/FeatureIDE/wiki/Constraint-Dialog-[SPL-Dev])
