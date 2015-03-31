@@ -2,7 +2,7 @@ Index page for the description of the FeatureIDE Project structure.
 
 This page will filled soon.
 
-Navigation:
+### Quick Navigation:
 
 <table>
 	<tr>
@@ -45,9 +45,9 @@ Navigation:
 			</p>
 		</td>
 		<td>
-			<div style="text-align:center">
+			<p align="center">
 				<a href="/tthuem/FeatureIDE/wiki/Run-Configurations-[SPL-Dev]">Run Configurations</a>
-			</div>
+			</p>
 		</td>
 	</tr>
 	<tr>
