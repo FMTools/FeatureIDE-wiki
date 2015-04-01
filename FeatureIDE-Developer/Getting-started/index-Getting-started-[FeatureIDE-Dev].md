@@ -27,13 +27,13 @@ Main Page section Getting started
 	</tr>
 	<tr>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development">Eclipse RCP and RAP</a-->
+			<a href="/tthuem/FeatureIDE/wiki/index-Preparing-Eclipse">Preparing Eclipse</a>
 		</td>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a-->
+			<a href="/tthuem/FeatureIDE/wiki/index-FeatureIDE-repository-structure">FeatureIDE repository structure</a>
 		</td>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
+			<a href="/tthuem/FeatureIDE/wiki/index-Git-Introduction">Git-Introduction</a>
 		</td>
 	</tr>
 	<tr>
