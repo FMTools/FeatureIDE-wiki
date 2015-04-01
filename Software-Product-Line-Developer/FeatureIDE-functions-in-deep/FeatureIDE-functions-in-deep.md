@@ -51,7 +51,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 	<tr>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-Diagram">FeatureIDE Project</a>
+				<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-Project">FeatureIDE Project</a>
 			</p>
 		</td>
 		<td>
