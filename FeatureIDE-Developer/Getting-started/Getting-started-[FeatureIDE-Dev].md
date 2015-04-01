@@ -27,13 +27,13 @@ Main Page section Getting started
 	</tr>
 	<tr>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/index-Preparing-Eclipse">Preparing Eclipse</a>
+			<a href="/tthuem/FeatureIDE/wiki/Preparing-Eclipse">Preparing Eclipse</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/index-FeatureIDE-repository-structure">FeatureIDE repository structure</a>
+			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-repository-structure">FeatureIDE repository structure</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/index-Git-Introduction">Git-Introduction</a>
+			<a href="/tthuem/FeatureIDE/wiki/Git-Introduction">Git-Introduction</a>
 		</td>
 	</tr>
 	<tr>
