@@ -13,13 +13,11 @@
 	* [FeatureIDE Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-architecture-and-extensibility-extension-example)
 * [Development process in general] (index-Development-process-in-general)
 	* Development steps
-	* Issue-Workflow
+	* Issue Workflow
 	* Testing process
-	* Guidelines
-	* Conventions
+	* Guidelines / Conventions
 		* [[Git-Workflow-Conventions]]
 		* [[Source-Format-Conventions]]
-	* [Java-Documentation] (https://github.com/tthuem/FeatureIDE/wiki/General-Java-Documentation)
 * [Development process in detail] (index-Development-process-in-detail)
 	* Eclipse features
 	* Debugging

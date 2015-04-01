@@ -4,7 +4,7 @@ under construction! Development process in detail
 
 <table>
 	<tr>
-		<th>Eclispe features</th>
+		<th>Eclipse features</th>
 		<th>Debugging</th>
 		<th>Update the wiki</th>
 		<th>Testing process</th>
