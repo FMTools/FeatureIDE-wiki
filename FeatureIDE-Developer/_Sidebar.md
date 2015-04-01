@@ -15,9 +15,10 @@
 	* Development steps
 	* Issue Workflow
 	* Testing process
-	* Guidelines / Conventions
+	* Guidelines and Conventions
 		* [[Git-Workflow-Conventions]]
 		* [[Source-Format-Conventions]]
+		* [[Code-Conventions]]
 * [Development process in detail] (index-Development-process-in-detail)
 	* Eclipse features
 	* Debugging
