@@ -8,30 +8,25 @@ development process in general
 		<th>Development steps</th>
 		<th>Issue Workflow</th>
 		<th>Testing process</th>
-		<th>Guidelines / Conventions</th>
+		<th>Guidelines and Conventions</th>
 	</tr>
 	<tr>
-		<td width="128px">
+		<td width="160px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 			</p>
 		</td>
-		<td width="128px">
+		<td width="160px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 			</p>
 		</td>
-		<td width="128px">
+		<td width="160px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 			</p>
 		</td>
-		<td width="128px">
-			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
-			</p>
-		</td>
-		<td width="128px">
+		<td width="160px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 			</p>
@@ -50,12 +45,8 @@ development process in general
 		<td>
 			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
 		</td>
-		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
-		</td>
 	</tr>
 	<tr>
-		<td>description under construction</td>
 		<td>description under construction</td>
 		<td>description under construction</td>
 		<td>description under construction</td>
