@@ -2,5 +2,5 @@
 
 * [[Home]]
 * [[Project Overview]]
-* [Software Productline Developer] (index-Software-Productline-Developer)
-* [FeatureIDE Developer] (index-FeatureIDE-Developer)
+* [Software-Product-Line Developer] (Software-Product-Line-Developer)
+* [FeatureIDE Developer] (FeatureIDE-Developer)
