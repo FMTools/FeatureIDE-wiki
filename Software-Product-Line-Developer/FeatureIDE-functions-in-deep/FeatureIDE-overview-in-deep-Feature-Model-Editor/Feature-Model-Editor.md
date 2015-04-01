@@ -74,7 +74,7 @@ This page will filled soon.
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Outline-View-Feature-Model">Outline View: Feature Model</a>
+				<a href="/tthuem/FeatureIDE/wiki/Outline-Feature-Model">Outline: Feature Model</a>
 			</p>
 		</td>
 	</tr>
