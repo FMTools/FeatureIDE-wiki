@@ -1,12 +1,12 @@
 under construction!
 
-Main Page section Preparing Eclipse
+Main Page section Getting started
 
 <table>
 	<tr>
-		<th>Eclipse RCP and RAP</th>
-		<th>Checkout FeatureIDE sources</th>
-		<th>Run Configuration</th>
+		<th>Preparing Eclipse</th>
+		<th>FeatureIDE repository structure</th>
+		<th>Git-Introduction</th>
 	</tr>
 	<tr>
 		<td width="160px">
@@ -27,13 +27,13 @@ Main Page section Preparing Eclipse
 	</tr>
 	<tr>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development">Eclipse RCP and RAP</a>
+			<!--a href="/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development">Eclipse RCP and RAP</a-->
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a>
+			<!--a href="/tthuem/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a-->
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a>
+			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
 		</td>
 	</tr>
 	<tr>
