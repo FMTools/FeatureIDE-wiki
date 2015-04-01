@@ -10,7 +10,7 @@
 	* [Plugin-Development-Eclipse] (https://github.com/tthuem/FeatureIDE/wiki/Plugin-Development-Eclipse)
 	* [FeatureIDE Plugins] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Plugins)
 	* [Extensions Points] (https://github.com/tthuem/FeatureIDE/wiki/Extension-Points)
-	* [FeatureIDE Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-extension-example)
+	* [FeatureIDE Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-extension-example)
 * [Development process in general] (index-Development-process-in-general)
 	* Development steps
 	* Issue Workflow
