@@ -54,27 +54,27 @@ This page will filled soon.
 	<tr>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Feature-Diagram-[SPL-Dev]">Feature Diagram</a>
+				<a href="/tthuem/FeatureIDE/wiki/Feature-Diagram">Feature Diagram</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Constraint-Dialog-[SPL-Dev]">Constraint Dialog</a>
+				<a href="/tthuem/FeatureIDE/wiki/Constraint-Dialog">Constraint Dialog</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Feature-Order-[SPL-Dev]">Feature Order</a>
+				<a href="/tthuem/FeatureIDE/wiki/Feature-Order">Feature Order</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Edit-Views-[SPL-Dev]">Edit Views</a>
+				<a href="/tthuem/FeatureIDE/wiki/Edit-Views">Edit Views</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Outline-View-Feature-Model-[SPL-Dev]">Outline View: Feature Model</a>
+				<a href="/tthuem/FeatureIDE/wiki/Outline-View-Feature-Model">Outline View: Feature Model</a>
 			</p>
 		</td>
 	</tr>
