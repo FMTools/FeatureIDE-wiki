@@ -1,9 +1,9 @@
 # FeatureIDE Developer
 
 * [**Home**] (https://github.com/tthuem/FeatureIDE/wiki)
-* Getting started
-	* [Preparing Eclipse] (index-Preparing-Eclipse)
-	* FeatureIDE repository structure
+* [Getting started] (https://github.com/tthuem/FeatureIDE/wiki/index-Getting-started-[FeatureIDE-Dev])
+	* [Preparing Eclipse] (https://github.com/tthuem/FeatureIDE/wiki/index-Preparing-Eclipse)
+	* [FeatureIDE repository structure] (https://github.com/tthuem/FeatureIDE/wiki/)
 	* [Git - Getting started] (https://github.com/tthuem/FeatureIDE/wiki/Git-Documentation)
 * [FeatureIDE Architecture and Extensibility] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-Architecture-and-Extensibility)
 	* [Eclipse: Architecture and Concepts] (https://github.com/tthuem/FeatureIDE/wiki/index-Eclipse-Architecture-and-Concepts)
