@@ -11,7 +11,7 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 	<tr>
 		<!--th>under construction</th-->
 		<th>About FeatureIDE</th>
-		<th>Software Productline Developer</th>
+		<th>Software-Product-Line Developer</th>
 		<th>FeatureIDE Developer</th>
 		<!--th>under construction</th-->
 
