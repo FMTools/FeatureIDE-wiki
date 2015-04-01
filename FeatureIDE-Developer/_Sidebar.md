@@ -22,7 +22,6 @@
 	* [Java-Documentation] (https://github.com/tthuem/FeatureIDE/wiki/General-Java-Documentation)
 * Development process in detail
 	* Eclipse features
-	
 	* Debugging
 	* Update the wiki
 	* Testing process
