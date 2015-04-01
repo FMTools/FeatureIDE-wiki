@@ -1,14 +1,14 @@
 under construction! Development process in detail
 
 ## Quick-Navigation:
-<!--
+
 <table>
 	<tr>
-		<th>XYZ</th>
-		<th>XYZ</th>
-		<th>XYZ</th>
-		<th>XYZ</th>
-		<th>XYZ</th>
+		<th>Eclispe features</th>
+		<th>Debugging</th>
+		<th>Update the wiki</th>
+		<th>Testing process</th>
+		<th>Jobs in FeatureIDE</th>
 	</tr>
 	<tr>
 		<td width="128px">
@@ -62,4 +62,3 @@ under construction! Development process in detail
 		<td>description under construction</td>
 	</tr>
 </table>
--->
