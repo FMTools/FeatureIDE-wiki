@@ -2,10 +2,10 @@
 
 * [**Home**] (https://github.com/tthuem/FeatureIDE/wiki)
 * [Background] (https://github.com/tthuem/FeatureIDE/wiki/index-Background)
-	* [Feature-Oriented Programming] (https://github.com/tthuem/FeatureIDE/wiki/Background-FOP)
 	* [Software Product Lines] (https://github.com/tthuem/FeatureIDE/wiki/Background-Software-Product-Lines)
 	* [Feature Models] (https://github.com/tthuem/FeatureIDE/wiki/Background-Feature-Models)
 	* [FOSD] (https://github.com/tthuem/FeatureIDE/wiki/Background-FOSD)
+	* [Feature-Oriented Programming] (https://github.com/tthuem/FeatureIDE/wiki/Background-FOP)
 * [FeatureIDE Installation and Update] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Installation-and-Update)
 * [FeatureIDE overview] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-overview)
 * [FeatureIDE functions in deep] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-functions-in-deep)
