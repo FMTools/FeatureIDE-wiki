@@ -5,4 +5,4 @@
 * [Constraint Dialog](https://github.com/tthuem/FeatureIDE/wiki/Constraint-Dialog)
 * [Feature Order](https://github.com/tthuem/FeatureIDE/wiki/Feature-Order)
 * [Edit Views](https://github.com/tthuem/FeatureIDE/wiki/Edit-Views)
-* [Outline View: Feature Model](https://github.com/tthuem/FeatureIDE/wiki/Outline-Feature-Model)
+* [Outline: Feature Model](https://github.com/tthuem/FeatureIDE/wiki/Outline-Feature-Model)
