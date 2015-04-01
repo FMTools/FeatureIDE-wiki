@@ -10,6 +10,7 @@
 	* [Plugin-Development-Eclipse](https://github.com/tthuem/FeatureIDE/wiki/General-Plug-in-Development-Eclipse)
 	* FeatureIDE Plug-ins
 	* Extensions Points
+	* [FeatureIDE Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-architecture-and-extensibility-extension-example)
 * Development process in general
 	* Development steps
 	* Issue-Workflow
@@ -21,7 +22,7 @@
 	* [Java-Documentation] (https://github.com/tthuem/FeatureIDE/wiki/General-Java-Documentation)
 * Development process in detail
 	* Eclipse features
-	* [FeatureIDE Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-architecture-and-extensibility-extension-example)
+	
 	* Debugging
 	* Update the wiki
 	* Testing process
