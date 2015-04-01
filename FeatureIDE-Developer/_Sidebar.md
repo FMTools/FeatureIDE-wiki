@@ -7,9 +7,9 @@
 	* [Git-Introduction] (https://github.com/tthuem/FeatureIDE/wiki/index-Git-Introduction)
 * [FeatureIDE Architecture and Extensibility] (https://github.com/tthuem/FeatureIDE/wiki/index-FeatureIDE-Architecture-and-Extensibility)
 	* [Eclipse: Architecture and Concepts] (https://github.com/tthuem/FeatureIDE/wiki/index-Eclipse-Architecture-and-Concepts)
-	* [Plugin-Development-Eclipse](https://github.com/tthuem/FeatureIDE/wiki/General-Plug-in-Development-Eclipse)
-	* FeatureIDE Plug-ins
-	* Extensions Points
+	* [Plugin-Development-Eclipse] (https://github.com/tthuem/FeatureIDE/wiki/Plugin-Development-Eclipse)
+	* [FeatureIDE Plugins] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Plugins)
+	* [Extensions Points] (https://github.com/tthuem/FeatureIDE/wiki/Extension-Points)
 	* [FeatureIDE Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-architecture-and-extensibility-extension-example)
 * [Development process in general] (index-Development-process-in-general)
 	* Development steps
