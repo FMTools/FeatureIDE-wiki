@@ -51,27 +51,27 @@ For a detailed list of the main functionalities you can have a look at this [scr
 	<tr>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/index-FeatureIDE-Diagram-[SPL-Dev]">FeatureIDE Project</a>
+				<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-Diagram">FeatureIDE Project</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/index-Feature-Model-Editor-[SPL-Dev]">Feature Model Editor</a>
+				<a href="/tthuem/FeatureIDE/wiki/Feature-Model-Editor">Feature Model Editor</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Configuration-Editor-[SPL-Dev]">Configuration Editor</a>
+				<a href="/tthuem/FeatureIDE/wiki/Configuration-Editor">Configuration Editor</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Collaboration-Diagram-[SPL-Dev]">Collaboration Diagram</a>
+				<a href="/tthuem/FeatureIDE/wiki/Collaboration-Diagram">Collaboration Diagram</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Statistics-View-[SPL-Dev]">Statistics View</a>
+				<a href="/tthuem/FeatureIDE/wiki/Statistics-View">Statistics View</a>
 			</p>
 		</td>
 	</tr>
