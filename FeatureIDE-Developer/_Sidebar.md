@@ -11,7 +11,7 @@
 	* FeatureIDE Plug-ins
 	* Extensions Points
 	* [FeatureIDE Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-architecture-and-extensibility-extension-example)
-* Development process in general (index-Development-process-in-general)
+* [Development process in general] (index-Development-process-in-general)
 	* Development steps
 	* Issue-Workflow
 	* Testing process
@@ -20,7 +20,7 @@
 		* [[Git-Workflow-Conventions]]
 		* [[Source-Format-Conventions]]
 	* [Java-Documentation] (https://github.com/tthuem/FeatureIDE/wiki/General-Java-Documentation)
-* Development process in detail (index-Development-process-in-detail)
+* [Development process in detail] (index-Development-process-in-detail)
 	* Eclipse features
 	* Debugging
 	* Update the wiki
@@ -48,4 +48,4 @@
 	* [Jobs in FeatureIDE] (https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
 		* [List of UIJobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-UIJobs-created-in-FeatureIDE)
 		* [List of non-UI Jobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-non-UI-Jobs-created-in-FeatureIDE)
-* **FAQ** (index-FAQ-[FeatureIDE-Dev])
+* [**FAQ**] (index-FAQ-[FeatureIDE-Dev])
