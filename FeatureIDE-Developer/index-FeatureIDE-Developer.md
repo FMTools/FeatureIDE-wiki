@@ -4,11 +4,11 @@ under construction!
 
 <table>
 	<tr>
-		<th>XYZ</th>
-		<th>XYZ</th>
-		<th>XYZ</th>
-		<th>XYZ</th>
-		<th>XYZ</th>
+		<th>Getting started</th>
+		<th>FeatureIDE Architecture and Extensibility</th>
+		<th>Development process in general</th>
+		<th>Development process in detail</th>
+		<th>FAQ</th>
 	</tr>
 	<tr>
 		<td width="128px">
