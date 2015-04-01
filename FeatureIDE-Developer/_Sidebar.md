@@ -12,13 +12,10 @@
 	* [Extensions Points] (https://github.com/tthuem/FeatureIDE/wiki/Extension-Points)
 	* [FeatureIDE Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-extension-examples)
 * [Development process in general] (Development-process-in-general)
-	* Development steps
-	* Issue Workflow
-	* Testing process
-	* Guidelines and Conventions
-		* [[Git-Workflow-Conventions]]
-		* [[Source-Format-Conventions]]
-		* [[Code-Conventions]]
+	* [Development Steps] (https://github.com/tthuem/FeatureIDE/wiki/Development-Steps)
+	* [Issue Workflow] (https://github.com/tthuem/FeatureIDE/wiki/Issue-Workflow)
+	* [Testing Process] (https://github.com/tthuem/FeatureIDE/wiki/Testing-Process)
+	* [Guidelines and Conventions] (https://github.com/tthuem/FeatureIDE/wiki/Guidelines-and-Conventions)
 * [Development process in detail] (Development-process-in-detail)
 	* Eclipse features
 	* Debugging
