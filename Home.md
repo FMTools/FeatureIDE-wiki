@@ -2,9 +2,9 @@ Welcome to the FeatureIDE wiki!
 
 
 
-Software product lines (SPL) have a long tradition and will gain momentum in the future. Today's research tries to move software development to a new quality of industrial production. Several solutions concerning different phases of the software development process have been proposed in order to cope with different problems of program family development. A major problem of program family engineering is still the missing tool support. The vision is an IDE that brings all phases of the development process together, consistently and in a user-friendly manner.
 
-FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented software development for the development of SPLs: domain analysis, domain implementation, requirements analysis, and software generation. Different SPL implementation techniques are integrated such as feature-oriented programming (FOP), aspect-oriented programming (AOP), delta-oriented programming (DOP), and preprocessors.
+
+FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented software development for the development of Software product lines(SPLs): domain analysis, domain implementation, requirements analysis, and software generation. Different SPL implementation techniques are integrated such as feature-oriented programming (FOP), aspect-oriented programming (AOP), delta-oriented programming (DOP), and preprocessors.
 
 ### Quick-Navigation:
 
@@ -37,6 +37,8 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 		<td>description under construction</td>
 	</tr>
 </table>
+
+Software product lines have a long tradition and will gain momentum in the future. Today's research tries to move software development to a new quality of industrial production. Several solutions concerning different phases of the software development process have been proposed in order to cope with different problems of program family development. A major problem of program family engineering is still the missing tool support. The vision is an IDE that brings all phases of the development process together, consistently and in a user-friendly manner.
 
 You may also visit FeatureIDE's home page: http://www.fosd.de/featureide/
 
