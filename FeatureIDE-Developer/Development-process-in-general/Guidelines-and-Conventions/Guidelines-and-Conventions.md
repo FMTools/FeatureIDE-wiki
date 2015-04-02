@@ -58,7 +58,7 @@ Main page Guidelines and Conventions
 	</tr>
 	<tr>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Git-Workflow-Conventions">Git-Workflow-Conventions</a>
+			<a href="/tthuem/FeatureIDE/wiki/Designpattern">Designpattern</a>
 		</td>
 	</tr>
 	<tr>
