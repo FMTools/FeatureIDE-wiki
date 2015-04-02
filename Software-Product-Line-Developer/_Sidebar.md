@@ -14,5 +14,5 @@
 	* [Configuration Editor] (https://github.com/tthuem/FeatureIDE/wiki/Configuration-Editor)
 	* [Collaboration Diagram] (https://github.com/tthuem/FeatureIDE/wiki/Collaboration-Diagram)
 	* [Statistics View] (https://github.com/tthuem/FeatureIDE/wiki/Statistics-View)
-* [[Samples]]
-* [[Best-Practice]]
+* [Samples] (https://github.com/tthuem/FeatureIDE/wiki/Samples)
+* [Best-Practice] (https://github.com/tthuem/FeatureIDE/wiki/Best-Practice)
