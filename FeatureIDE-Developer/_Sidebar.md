@@ -19,7 +19,7 @@
 * [Development process in detail] (https://github.com/tthuem/FeatureIDE/wiki/Development-process-in-detail)
 	* [Eclipse features]
 	* [Debugging]
-	* [Testing process] (https://github.com/tthuem/FeatureIDE/wiki/Additional-manual-testing)
+	* [Testing process] (https://github.com/tthuem/FeatureIDE/wiki/Testing-Process)
 	* [Update the wiki]
 	* [Jobs in FeatureIDE] (https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
 		* [List of UIJobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-UIJobs-created-in-FeatureIDE)
