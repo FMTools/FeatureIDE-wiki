@@ -13,11 +13,5 @@
 	* [Collaboration Outline] (https://github.com/tthuem/FeatureIDE/wiki/Collaboration-Outline-[FeatureIDE-Dev])
 * [Provocation of misuse and errors] (https://github.com/tthuem/FeatureIDE/wiki/Provocation-of-misuse-and-errors)
 * [Automated tests] (https://github.com/tthuem/FeatureIDE/wiki/Automated-tests)
-	* general
-	* ahead
-	* aspectj
-	* featurehouse
-	* munge
-	* fm-core
-	* fm.ui
-	* ui
+	* [FeatureIDE test plugins]
+	* [Extending test plugins]
