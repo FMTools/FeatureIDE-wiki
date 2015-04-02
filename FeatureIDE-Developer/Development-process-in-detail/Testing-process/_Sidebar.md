@@ -13,5 +13,5 @@
 	* [Collaboration Outline] (https://github.com/tthuem/FeatureIDE/wiki/Collaboration-Outline-[FeatureIDE-Dev])
 * [Provocation of misuse and errors] (https://github.com/tthuem/FeatureIDE/wiki/Provocation-of-misuse-and-errors)
 * [Automated tests] (https://github.com/tthuem/FeatureIDE/wiki/Automated-tests)
-	* [FeatureIDE test plugins]
-	* [Extending test plugins]
+	* [FeatureIDE Test Plugins] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Test-Plugins)
+	* [Extending the Test Plugins] (https://github.com/tthuem/FeatureIDE/wiki/Extending-the-Test-Plugins)

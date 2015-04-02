@@ -4,8 +4,8 @@ Main page for all automated tests
 
 <table>
 	<tr>
-		<th>FeatureIDE test plugins</th>
-		<th>Extending test plugins</th>
+		<th>FeatureIDE Test Plugins</th>
+		<th>Extending the Test Plugins</th>
 	</tr>
 	<tr>
 		<td width="320px">
