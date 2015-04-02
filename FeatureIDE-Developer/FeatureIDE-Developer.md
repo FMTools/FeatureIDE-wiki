@@ -2,6 +2,7 @@ under construction!
 
 ### Quick-Navigation:
 
+#### Introduction
 <table>
 	<tr>
 		<th>Getting started</th>
@@ -33,6 +34,7 @@ under construction!
 	</tr>
 </table>
 
+#### Development Section
 <table>
 	<tr>
 		<th>FeatureIDE Architecture and Extensibility</th>
