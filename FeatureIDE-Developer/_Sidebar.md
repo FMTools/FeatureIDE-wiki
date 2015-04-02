@@ -14,7 +14,7 @@
 * [Development Process in general] (https://github.com/tthuem/FeatureIDE/wiki/Development-Process-in-general)
 	* [Development Steps] (https://github.com/tthuem/FeatureIDE/wiki/Development-Steps)
 	* [Issue Workflow] (https://github.com/tthuem/FeatureIDE/wiki/Issue-Workflow)
-	* [Testing Process] (https://github.com/tthuem/FeatureIDE/wiki/Testing-Process)
+	* [Testing Process] (https://github.com/tthuem/FeatureIDE/wiki/Testing-Process-overview)
 	* [Guidelines and Conventions] (https://github.com/tthuem/FeatureIDE/wiki/Guidelines-and-Conventions)
 * [Development Process in detail] (https://github.com/tthuem/FeatureIDE/wiki/Development-process-in-detail)
 	* [Debugging] (https://github.com/tthuem/FeatureIDE/wiki/Debugging)
