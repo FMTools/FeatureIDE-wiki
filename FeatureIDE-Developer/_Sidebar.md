@@ -22,6 +22,4 @@
 	* [Update the wiki] (https://github.com/tthuem/FeatureIDE/wiki/Update-the-Wiki)
 	* [Eclipse features] (https://github.com/tthuem/FeatureIDE/wiki/Eclipse-Features)
 	* [Jobs in FeatureIDE] (https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
-		* [List of UIJobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-UIJobs)
-		* [List of non-UI Jobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-non-UI-Jobs)
 * [**FAQ**] (FAQ-[FeatureIDE-Dev])

@@ -7,7 +7,7 @@ under construction!
 		<th>Getting started</th>
 		<th>FeatureIDE Architecture and Extensibility</th>
 		<th>Development process in general</th>
-		<th>Development process in detail</th>
+		<th>Development Process in detail</th>
 		<th>FAQ</th>
 	</tr>
 	<tr>

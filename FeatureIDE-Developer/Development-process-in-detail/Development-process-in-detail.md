@@ -1,4 +1,4 @@
-under construction! Development process in detail
+under construction! Development Process in detail
 
 ## Quick-Navigation:
 
