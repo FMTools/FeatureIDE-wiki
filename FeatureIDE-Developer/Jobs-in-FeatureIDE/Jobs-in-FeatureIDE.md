@@ -1,6 +1,6 @@
 # Jobs in FeatureIDE
 
-## Quick-Navigation:
+### Quick-Navigation:
 
 <table>
 	<tr>

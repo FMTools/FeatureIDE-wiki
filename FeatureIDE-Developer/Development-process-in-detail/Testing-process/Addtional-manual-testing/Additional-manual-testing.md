@@ -1,6 +1,6 @@
 Main page for the description of manual tests, which are not part of the general user functionality but has to be tested after introducing changes to a specific part of FeatureIDE.
 
-## Quick-Navigation:
+### Quick-Navigation:
 
 <table>
 	<tr>

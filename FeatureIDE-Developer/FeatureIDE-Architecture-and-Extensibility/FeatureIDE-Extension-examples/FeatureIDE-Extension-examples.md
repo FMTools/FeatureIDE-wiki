@@ -1,6 +1,6 @@
 Main Page FeatureIDE Extension Examples
 
-## Quick-Navigation:
+### Quick-Navigation:
 
 <table>
 	<tr>

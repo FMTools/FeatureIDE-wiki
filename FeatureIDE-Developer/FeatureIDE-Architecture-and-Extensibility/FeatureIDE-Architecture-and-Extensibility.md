@@ -2,7 +2,7 @@ Once you start developing with FeatureIDE, you may be interested in its architec
 
 Main Page FeatureIDE-Architecture-and-Extensibility
 
-## Quick-Navigation:
+### Quick-Navigation:
 
 <table>
 	<tr>

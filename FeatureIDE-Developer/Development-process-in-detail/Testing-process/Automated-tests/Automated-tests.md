@@ -2,7 +2,7 @@ Currently this page is under construction.
 
 Main page for all automated tests
 
-## Quick-Navigation:
+### Quick-Navigation:
 
 <table>
 	<tr>

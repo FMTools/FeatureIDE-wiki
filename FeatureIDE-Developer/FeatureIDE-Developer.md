@@ -1,6 +1,6 @@
 under construction!
 
-## Quick-Navigation:
+### Quick-Navigation:
 
 <table>
 	<tr>

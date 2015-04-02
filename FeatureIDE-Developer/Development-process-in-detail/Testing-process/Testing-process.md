@@ -2,7 +2,7 @@ under construction
 
 main page describing the testing process for a FeatureIDE developer after applying changes or extensions to FeatureIDE
 
-## Quick-Navigation:
+### Quick-Navigation:
 
 <table>
 	<tr>

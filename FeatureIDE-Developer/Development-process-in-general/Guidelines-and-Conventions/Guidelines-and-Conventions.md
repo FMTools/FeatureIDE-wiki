@@ -1,6 +1,6 @@
 Main page Guidelines and Conventions
 
-## Quick-Navigation:
+### Quick-Navigation:
 
 <table>
 	<tr>
