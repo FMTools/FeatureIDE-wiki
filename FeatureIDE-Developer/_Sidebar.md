@@ -17,30 +17,11 @@
 	* [Testing Process] (https://github.com/tthuem/FeatureIDE/wiki/Testing-Process)
 	* [Guidelines and Conventions] (https://github.com/tthuem/FeatureIDE/wiki/Guidelines-and-Conventions)
 * [Development process in detail] (Development-process-in-detail)
-	* Eclipse features
-	* Debugging
-	* Update the wiki
-	* Testing process
-		* General user functionality
-		* Additional manual testing
-			* [Wizards] (https://github.com/tthuem/FeatureIDE/wiki/Wizards-[FeatureIDE-Dev])
-			* Project Builder
-			* Run/Debug Configurations
-			* Package Explorer
-			* [Feature Model Editor] (https://github.com/tthuem/FeatureIDE/wiki/Testing-instructions-manual-testing-feature-model-editor)
-			* [Configuration editor] (https://github.com/tthuem/FeatureIDE/wiki/Testing-instructions-manual-testing-configuration-editor)
-			* [Collaboration diagram] (https://github.com/tthuem/FeatureIDE/wiki/Testing-instructions-manual-testing-collaboration-diagram)
-			* [Collaboration outline] (https://github.com/tthuem/FeatureIDE/wiki/Testing-instructions-manual-testing-collaboration-outline)
-		* Provocation of misuse and errors
-		* Automated tests (https://github.com/tthuem/FeatureIDE/wiki/Testprocess)
-			* general
-			* ahead
-			* aspectj
-			* featurehouse
-			* munge
-			* fm-core
-			* fm.ui
-			* ui
+	* [Eclipse features]
+	* [Debugging]
+	* [Testing process]
+		
+	* [Update the wiki]
 	* [Jobs in FeatureIDE] (https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
 		* [List of UIJobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-UIJobs-created-in-FeatureIDE)
 		* [List of non-UI Jobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-non-UI-Jobs-created-in-FeatureIDE)
