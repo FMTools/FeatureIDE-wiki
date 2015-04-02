@@ -50,7 +50,7 @@ Main page Guidelines and Conventions
 		<th>Designpattern</th>
 	</tr>
 	<tr>
-		<td width="213px">
+		<td>
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 			</p>
