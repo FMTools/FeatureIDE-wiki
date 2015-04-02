@@ -2,9 +2,6 @@ Main page for the description of manual tests, which are not part of the general
 
 ## Quick-Navigation:
 
-<!--
--->
-
 <table>
 	<tr>
 		<th>Wizards</th>
