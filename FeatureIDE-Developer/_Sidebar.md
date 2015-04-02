@@ -16,11 +16,10 @@
 	* [Issue Workflow] (https://github.com/tthuem/FeatureIDE/wiki/Issue-Workflow)
 	* [Testing Process] (https://github.com/tthuem/FeatureIDE/wiki/Testing-Process)
 	* [Guidelines and Conventions] (https://github.com/tthuem/FeatureIDE/wiki/Guidelines-and-Conventions)
-* [Development process in detail] (Development-process-in-detail)
+* [Development process in detail] (https://github.com/tthuem/FeatureIDE/wiki/Development-process-in-detail)
 	* [Eclipse features]
 	* [Debugging]
-	* [Testing process]
-		
+	* [Testing process] (https://github.com/tthuem/FeatureIDE/wiki/Additional-manual-testing)
 	* [Update the wiki]
 	* [Jobs in FeatureIDE] (https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
 		* [List of UIJobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-UIJobs-created-in-FeatureIDE)
