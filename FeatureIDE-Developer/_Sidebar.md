@@ -5,6 +5,7 @@
 	* [Preparing Eclipse] (https://github.com/tthuem/FeatureIDE/wiki/Preparing-Eclipse)
 	* [FeatureIDE repository structure] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-repository-structure)
 	* [Git-Introduction] (https://github.com/tthuem/FeatureIDE/wiki/Git-Introduction)
+	* [Java-Documentation] (https://github.com/tthuem/FeatureIDE/wiki/General-Java-Documentation)
 * [FeatureIDE Architecture and Extensibility] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Architecture-and-Extensibility)
 	* [Eclipse: Architecture and Concepts] (https://github.com/tthuem/FeatureIDE/wiki/Eclipse-Architecture-and-Concepts)
 	* [Plugin-Development-Eclipse] (https://github.com/tthuem/FeatureIDE/wiki/Plugin-Development-Eclipse)
