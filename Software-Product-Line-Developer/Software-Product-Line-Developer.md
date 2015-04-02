@@ -1,8 +1,81 @@
-<td width="265px">
+this page shows an overview of the next subsection of the Software-Product-Line developer part of the FeatureIDE wiki
+
+## Quick-Navigation:
+
+<table>
+	<tr>
+		<th>Background</th>
+		<th>FeatureIDE Installation and Update</th>
+		<th>FeatureIDE overview</th>
+		<th>FeatureIDE functions in deep</th>
+	</tr>
+	<tr>
+		<td width="160px">
 			<p align="center">
-				<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 			</p>
 		</td>
+		<td width="160px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+			</p>
+		</td>
+		<td width="160px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+			</p>
+		</td>
+		<td width="160px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<!--a href="/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development">Eclipse RCP and RAP</a-->
+		</td>
+		<td>
+			<!--a href="/tthuem/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a-->
+		</td>
+		<td>
+			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
+		</td>
+		<td>
+			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
+		</td>
+	</tr>
+	<tr>
+		<td>description under construction</td>
+		<td>description under construction</td>
+		<td>description under construction</td>
+		<td>description under construction</td>
+	</tr>
+</table>
 
-
-this page shows an overview of the next subsection of the Software-Product-Line developer part of the FeatureIDE wiki
+<table>
+	<tr>
+		<th>Samples</th>
+		<th>Best-Practice</th>
+	</tr>
+	<tr>
+		<td width="320px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+			</p>
+		</td>
+		<td width="320px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<!--a href="/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development">Eclipse RCP and RAP</a-->
+		</td>
+		<td>
+			<!--a href="/tthuem/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a-->
+		</td>
+	</tr>
+</table>

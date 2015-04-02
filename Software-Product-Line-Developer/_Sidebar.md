@@ -1,6 +1,6 @@
 # Software-Product-Line Developer
 
-* [**Home**] (https://github.com/tthuem/FeatureIDE/wiki) << [SPL Developer] (Software-Product-Line-Developer)
+* [**Home**] (https://github.com/tthuem/FeatureIDE/wiki)
 * [Background] (https://github.com/tthuem/FeatureIDE/wiki/Background)
 	* [Software Product Lines] (https://github.com/tthuem/FeatureIDE/wiki/Background-Software-Product-Lines)
 	* [Feature Models] (https://github.com/tthuem/FeatureIDE/wiki/Background-Feature-Models)
