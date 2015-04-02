@@ -11,16 +11,16 @@
 	* [FeatureIDE Plugins] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Plugins)
 	* [Extensions Points] (https://github.com/tthuem/FeatureIDE/wiki/Extension-Points)
 	* [FeatureIDE Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-extension-examples)
-* [Development process in general] (Development-process-in-general)
+* [Development Process in general] (https://github.com/tthuem/FeatureIDE/wiki/Development-Process-in-general)
 	* [Development Steps] (https://github.com/tthuem/FeatureIDE/wiki/Development-Steps)
 	* [Issue Workflow] (https://github.com/tthuem/FeatureIDE/wiki/Issue-Workflow)
 	* [Testing Process] (https://github.com/tthuem/FeatureIDE/wiki/Testing-Process)
 	* [Guidelines and Conventions] (https://github.com/tthuem/FeatureIDE/wiki/Guidelines-and-Conventions)
-* [Development process in detail] (https://github.com/tthuem/FeatureIDE/wiki/Development-process-in-detail)
-	* [Eclipse features]
-	* [Debugging]
+* [Development Process in detail] (https://github.com/tthuem/FeatureIDE/wiki/Development-process-in-detail)
+	* [Debugging] (https://github.com/tthuem/FeatureIDE/wiki/Debugging)
 	* [Testing process] (https://github.com/tthuem/FeatureIDE/wiki/Testing-Process)
-	* [Update the wiki]
+	* [Update the wiki] (https://github.com/tthuem/FeatureIDE/wiki/Update-the-Wiki)
+	* [Eclipse features] (https://github.com/tthuem/FeatureIDE/wiki/Eclipse-Features)
 	* [Jobs in FeatureIDE] (https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
 		* [List of UIJobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-UIJobs-created-in-FeatureIDE)
 		* [List of non-UI Jobs](https://github.com/tthuem/FeatureIDE/wiki/List-of-non-UI-Jobs-created-in-FeatureIDE)
