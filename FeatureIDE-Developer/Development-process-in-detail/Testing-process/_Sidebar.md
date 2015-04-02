@@ -11,7 +11,7 @@
 	* [Configuration Editor] (https://github.com/tthuem/FeatureIDE/wiki/Configuration-Editor-[FeatureIDE-Dev])
 	* [Collaboration Diagram] (https://github.com/tthuem/FeatureIDE/wiki/Collaboration-Diagram-[FeatureIDE-Dev])
 	* [Collaboration Outline] (https://github.com/tthuem/FeatureIDE/wiki/Collaboration-Outline-[FeatureIDE-Dev])
-* [Provocation of misuse and errors]
+* [Provocation of misuse and errors] (https://github.com/tthuem/FeatureIDE/wiki/Provocation-of-misuse-and-errors)
 * [Automated tests] (https://github.com/tthuem/FeatureIDE/wiki/Automated-tests)
 	* general
 	* ahead
