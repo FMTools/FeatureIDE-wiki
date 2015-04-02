@@ -2,6 +2,7 @@ Main page Guidelines and Conventions
 
 ### Quick-Navigation:
 
+#### Conventions
 <table>
 	<tr>
 		<th>Git-Workflow-Conventions</th>
@@ -39,6 +40,28 @@ Main page Guidelines and Conventions
 	<tr>
 		<td>description under construction</td>
 		<td>description under construction</td>
+		<td>description under construction</td>
+	</tr>
+</table>
+
+#### Guidelines
+<table>
+	<tr>
+		<th>Designpattern</th>
+	</tr>
+	<tr>
+		<td width="213px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="/tthuem/FeatureIDE/wiki/Git-Workflow-Conventions">Git-Workflow-Conventions</a>
+		</td>
+	</tr>
+	<tr>
 		<td>description under construction</td>
 	</tr>
 </table>
