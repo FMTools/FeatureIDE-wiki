@@ -52,7 +52,6 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 		<td>description under construction</td>
 	</tr>
 </table>
-
 <table>
 	<tr>
 		<th>Samples</th>
@@ -77,5 +76,9 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 		<td>
 			<!--a href="/tthuem/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a-->
 		</td>
+	</tr>
+		<tr>
+		<td>description under construction</td>
+		<td>description under construction</td>
 	</tr>
 </table>
