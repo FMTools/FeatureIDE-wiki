@@ -6,8 +6,8 @@ under construction! Development process in detail
 	<tr>
 		<th>Eclipse features</th>
 		<th>Debugging</th>
-		<th>Update the wiki</th>
 		<th>Testing process</th>
+		<th>Update the wiki</th>
 		<th>Jobs in FeatureIDE</th>
 	</tr>
 	<tr>
