@@ -1,5 +1,6 @@
-The **statistic view** for FOP-projects displays basic information about the current opened feature-project. This contains information about the feature model, the implementation and the specification. 
-The toolbar of the view provides a button to refresh ![refresh button](http://i.imgur.com/Bz6LPp8.png) and one ![export button](http://i.imgur.com/7qftgkG.png) to export the information to a “*.cvs” file. 
+The **statistic view** for FeatureIDE-projects displays general information about a FeatureIDE project (the project of the current file in the editor). The statistics contain information about the feature model, the implementation, and the specification of the product line. 
+
+The toolbar of the view provides a button to refresh ![refresh button](https://raw.githubusercontent.com/tthuem/FeatureIDE/master/plugins/de.ovgu.featureide.ui/icons/refresh_tab.gif) and one ![export button](https://raw.githubusercontent.com/tthuem/FeatureIDE/master/plugins/de.ovgu.featureide.ui/icons/export_wiz.gif) to export the information to a “*.cvs” file. 
 
 [ ![statistic view image]( http://i.imgur.com/Xi96sVK.png) ](http://i.imgur.com/Xi96sVK.png)
 (FeatureIDE Statistics: example)
@@ -22,7 +23,7 @@ In addition to the features of the class-node, the field-node and the method-nod
 The fourth node displays the lines of code (LOC) sorted by extensions or features. In expanded state the extension-node informs about LOC in existing extensions in the project (with LOC- no images!) in sum and on the next level in detail. The feature-node works analogue. By double-click again on the expanded node the sub-nodes are sortable by alphabetical or descent order. 
 Recently following extensions ignore comments for LOC-counting: java, c, h, jj, jak, cs. Default solution only counts the lines of code without spaces and empty lines. 
 
-[![implementation example]( http://i.imgur.com/SlHKcGk.png)](http://i.imgur.com/SlHKcGk.png)
+[![implementation example]( http://i.imgur.com/SlHKcGk.png)](https://github.com/tthuem/FeatureIDE/wiki/Assets/StatisticsView/example.png)
 
 ## 3 Statistic of product- line specification
 

@@ -33,16 +33,16 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 	</tr>
 	<tr>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development">Eclipse RCP and RAP</a-->
+			<a href="/tthuem/FeatureIDE/wiki/Background">Background</a>
 		</td>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a-->
+			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-Installation-and-Update">Installation</a>
 		</td>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
+			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-overview">Overview</a>
 		</td>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
+			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-functions-in-deep">Functionality</a>
 		</td>
 	</tr>
 	<tr>
