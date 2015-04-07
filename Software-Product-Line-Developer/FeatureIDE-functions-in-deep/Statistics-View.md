@@ -29,7 +29,7 @@ The second and third nodes show statistics about **contracts** and **methods wit
 
 The fourth node shows statistics about the usage of **contract refinement strategies**.
 
-The fifth node shows the method contracts sorted by feature.
+The fifth node shows details on **method contracts**.
 
 [![specification example](http://i.imgur.com/QWGNgtk.png)](http://i.imgur.com/QWGNgtk.png)
 
