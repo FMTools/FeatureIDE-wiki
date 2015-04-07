@@ -1,5 +1,11 @@
 A FeatureIDE project is our type of eclipse project to develop software product lines. The FeatureIDE projects defines how to model, implement, and build your product line.
 
+Create a new FeatureIDE project vie new > project > FeatureIDE project:
+
+
+
+<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Wizards/NewProjectWizard1.PNG">
+<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Wizards/NewProjectWizard2.PNG">
 ### Quick Navigation:
 
 <table>
