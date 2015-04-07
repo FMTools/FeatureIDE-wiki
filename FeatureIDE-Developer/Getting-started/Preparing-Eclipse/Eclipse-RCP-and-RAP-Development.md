@@ -8,7 +8,7 @@
    Avoids out of memory errors
 - Start Eclipse and create a new workspace
    
-   is is recommended to use a folder that is not indexed by Windows as this may cause interactions with git
+   Is is recommended to use a folder that is not indexed by Windows as this may cause interactions with git
 - Install required plug-ins:
  1. Install CDT (only required if you are working C or C++)
  - Install AJDT (only required if you are working with AspectJ)
