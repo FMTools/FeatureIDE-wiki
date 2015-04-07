@@ -6,9 +6,9 @@ The toolbar of the view provides a button to refresh ![refresh button](https://r
 
 ## 1 Statistics of the feature model
 
-General information about the feature-model.
+General information about the feature-model. Such as number of features and number of valid configurations.
 
-## 2 Statistic of product- line implementation
+## 2 Statistic of product-line implementation
 
 Double-click to the main-node opens the detailed tree. 
 
