@@ -48,8 +48,8 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 	<tr>
 		<td>description under construction</td>
 		<td>description under construction</td>
-		<td>description under construction</td>
-		<td>description under construction</td>
+		<td>A general overview on current functionalities of FeatureIDE</td>
+		<td>A detailed description of the functionalities of FeatureIDE</td>
 	</tr>
 </table>
 <table>

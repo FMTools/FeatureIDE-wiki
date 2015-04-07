@@ -5,11 +5,11 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 <table>
 	<tr>
 		<th>
-			Creation Wizards
-		</th>
-		<th>
 			Project Structure
 		</th>		
+<th>
+			Creation Wizards
+		</th>
 		<th>
 			Project Builder
 		</th>
@@ -42,17 +42,17 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 	<tr>
 		<td>
 			<p align="center">
+				<a href="/tthuem/FeatureIDE/wiki/Project-Structure">Project Structure</a>
+			</p>
+		</td>
+		<td>
+			<p align="center">
 				<a href="/tthuem/FeatureIDE/wiki/Creation-Wizards">Creation Wizards</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
 				<a href="/tthuem/FeatureIDE/wiki/Project-Builder">Project Builder</a>
-			</p>
-		</td>
-		<td>
-			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Run-Configurations">Run Configurations</a>
 			</p>
 		</td>
 		<td>
