@@ -16,12 +16,12 @@ Main Page section Preparing Eclipse
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+				<img height="75" width="150" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/FeatureIDElogo.png">
 			</p>
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="http://help.eclipse.org/luna/topic/org.eclipse.jdt.doc.user/images/org.eclipse.jdt.debug.ui/etool16/run_exc.png">
 			</p>
 		</td>
 	</tr>
