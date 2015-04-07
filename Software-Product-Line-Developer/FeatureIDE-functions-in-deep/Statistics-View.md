@@ -2,9 +2,7 @@ The **statistic view** for FeatureIDE-projects displays general information abou
 
 The toolbar of the view provides a button to refresh ![refresh button](https://raw.githubusercontent.com/tthuem/FeatureIDE/master/plugins/de.ovgu.featureide.ui/icons/refresh_tab.gif) and one ![export button](https://raw.githubusercontent.com/tthuem/FeatureIDE/master/plugins/de.ovgu.featureide.ui/icons/export_wiz.gif) to export the information to a “*.cvs” file. 
 
-[ ![statistic view image]( http://i.imgur.com/Xi96sVK.png) ](http://i.imgur.com/Xi96sVK.png)
-(FeatureIDE Statistics: example)
-
+![Example](https://github.com/tthuem/FeatureIDE/wiki/Assets/StatisticsView/example.png)
 
 ## 1 Statistics of the feature model
 
