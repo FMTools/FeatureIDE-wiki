@@ -13,7 +13,7 @@ Prepare two FeatureIDE projects (A and B) that contain the feature models you wa
 Open the feature model of project A, switch to the tab Source, and copy the whole document.
 Open the feature model of project B, switch to the tab Source, and paste the clipboard.
 Switch back to the tab Feature Diagram in editor of project B and the feature model edit view will show the results.
-Checkout this video to see how to do it.
+Checkout this [video](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/videos/CompareFMs.avi) to see how to do it.
 
 **How can I import/export the feature model from/to other tools?**
 
