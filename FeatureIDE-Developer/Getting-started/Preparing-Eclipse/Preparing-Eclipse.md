@@ -1,12 +1,10 @@
-under construction!
-
-Main Page section Preparing Eclipse
+Setup guide to develop FeatureIDE and new extensions with eclipse
 
 <table>
 	<tr>
-		<th>Eclipse RCP and RAP</th>
-		<th>Checkout FeatureIDE sources</th>
-		<th>Run Configuration</th>
+		<th>1. Setup Eclipse</th>
+		<th>2. Checkout FeatureIDE sources</th>
+		<th>3. Setup FeatureIDE</th>
 	</tr>
 	<tr>
 		<td width="160px">
@@ -36,9 +34,9 @@ Main Page section Preparing Eclipse
 			<a href="/tthuem/FeatureIDE/wiki/Run-configuration">Run Configuration</a>
 		</td>
 	</tr>
-	<tr>
-		<td>description under construction</td>
-		<td>description under construction</td>
-		<td>description under construction</td>
-	</tr>
+	<!--<tr>
+		<td>Setup Eclipse</td>
+		<td>Get FeatureIDE</td>
+		<td>Setup FeatureIDE</td>
+	</tr>--!
 </table>
