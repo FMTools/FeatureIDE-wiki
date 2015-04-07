@@ -83,7 +83,7 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 <a href="https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Best-Practice</a>
 		</td>
 <td>
-<a href="https://github.com/tthuem/FeatureIDE/wiki/FAQ-[FeatureIDE-Dev]">FAQ</a>
+<a href="https://github.com/tthuem/FeatureIDE/wiki/FAQ">FAQ</a>
 		</td>
 		</td>
 	</tr>

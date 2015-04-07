@@ -26,4 +26,4 @@
 * [Deployment Process] (https://github.com/tthuem/FeatureIDE/wiki/Deployment-Process)
 	* [Nightly Build] (https://github.com/tthuem/FeatureIDE/wiki/Nightly-Build)
 	* [New Releases] (https://github.com/tthuem/FeatureIDE/wiki/New-Releases)
-* [**FAQ**] (FAQ-[FeatureIDE-Dev])
+* [**FAQ**] (FAQ)
