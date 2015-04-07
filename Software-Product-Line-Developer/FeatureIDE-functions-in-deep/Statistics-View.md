@@ -1,4 +1,5 @@
-The **statistic view** for FOP-projects displays basic information about the current opened feature-project. This contains information about the feature model, the implementation and the specification. 
+The **statistic view** for FeatureIDE-projects displays general information about a FeatureIDE project (the project of the current file in the editor). The statistics contain information about the feature model, the implementation, and the specification. 
+
 The toolbar of the view provides a button to refresh ![refresh button](http://i.imgur.com/Bz6LPp8.png) and one ![export button](http://i.imgur.com/7qftgkG.png) to export the information to a “*.cvs” file. 
 
 [ ![statistic view image]( http://i.imgur.com/Xi96sVK.png) ](http://i.imgur.com/Xi96sVK.png)
