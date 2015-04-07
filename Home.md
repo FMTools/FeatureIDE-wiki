@@ -30,7 +30,7 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 		<!--td></td-->
 	</tr>
 	<tr>
-		<td>description under construction</td>
+		<td>What is FeatureIDE</td>
 		<td>How to use FeatureIDE to develop software product lines</td>
 		<td>Hwo to extend FeatureIDE to support software-product-line development</td>
 	</tr>
