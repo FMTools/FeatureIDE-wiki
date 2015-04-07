@@ -21,13 +21,13 @@ Comments are not counted for the following file extensions: java, c, h, jj, jak,
 
 ## 3 Statistic of product-line specification
 
-It shows detailed information about the invariants and the methods of project which implements these features. 
+It shows detailed information about the specification of the product line. Currently only for feature-oriented contracts in JML with FeatureHouse. 
 
-The first node is about the invariants in classes. It delivers the package and the feature of the invariant and the names of them. Double-click on the name and the editor will open and the cursor jumps to the line of interest.
+The first node shows statistics about **invariants**. The sub-nodes show detailed information on ionvariants for each class.
 
-The second and third nodes are about contracts and work analogue.
+The second and third nodes show statistics about **contracts** and **methods with contracts** work analogue.
 
-The fourth node shows the number of all explicit contract refinements.
+The fourth node shows statistics about the usage of **contract refinement strategies**.
 
 The fifth node shows the method contracts sorted by feature.
 
@@ -35,6 +35,5 @@ The fifth node shows the method contracts sorted by feature.
 
 
  
-
 
 
