@@ -17,6 +17,6 @@
     - The plug-in "Feature Modelling" is required for modeling
      - The plug-in "FeatureIDE" is required for software product line development
      - The plug-in "FetureIDE example projects" contains several examples you may want to check out
-     - The other plugins are specialized composition tools
+     - The other plug-ins are specialized composition tools
 
 For installation details you might have a look in this [presentation](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/slides/featureide-2-getstarted.pdf). 
