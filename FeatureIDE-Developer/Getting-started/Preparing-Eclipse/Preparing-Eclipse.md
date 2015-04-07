@@ -16,7 +16,7 @@ Main Page section Preparing Eclipse
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="75" width="150" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/FeatureIDElogo.png">
+				<img height="70" width="140" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/FeatureIDElogo.png">
 			</p>
 		</td>
 		<td width="160px">
