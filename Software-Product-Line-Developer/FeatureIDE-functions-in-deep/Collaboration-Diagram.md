@@ -1,7 +1,10 @@
 # Collaboration Diagram
-The **collaboration view** shows a table of all classes and features. Features are displayed in columns and the attached classes are displayed in rows. The collaboration view can filter for fields, methods, refinements, contracts, invariants, nested classes and access-modifiers; also you can select multiple rows, columns or fields and filter for similarities. A field in the table shows fields, methods and nested classes ordered by classes. Methods and classes with refinements have bold letters. New roles can be created and deleted within the collaboration diagram. If you hover over a role it shows a tooltip with informations about the number of fields , methods and nested classes per role. In the top right you have buttons in a toolbar to filter equal to the context menu. 
+The **collaboration view** gives a detailed overview on the implementation of the product line, such as classes, features, and methods similar to the known Eclipse outline view, however for the whole product line. Features are displayed as columns. The attached classes are displayed as rows. If a class contains a implementation of a feature (e.g., a feature module of a processor annotation), a role is displayed as box at the intersection of the class and the feature.
+The order of features is equivalent to the order defined in the feature model. Thus, if relevant for the composition tool, roles are introduced at the top and refined by roles below. 
 
-The function of the **toolbar** from left to right are: 
+The collaboration view can be filtered for fields, methods, refinements, contracts, invariants, nested classes, and access-modifiers. You can select multiple rows, columns or fields. Methods and classes with refinements are displayed bold (i.e., methods that are refined in several features). New roles can be created and deleted within the collaboration diagram. If you hover over a role it shows a tooltip with informations about the number of fields, methods and nested classes per role. In the top right you have buttons in a toolbar.
+
+The function of the **toolbar** from left to right: 
 
 ![Collaboration-view_toolbar](http://i.imgur.com/uRXr0ez.jpg)
 * access-modifiers-filter: filter for "private","public","protected" and "default" modifiers
@@ -16,7 +19,6 @@ The function of the **toolbar** from left to right are:
 * refresh: refresh the collaboration view
 
 ## nested-classes-toggle:
-
 
 nested-classes-button **OFF** :  
 
