@@ -23,7 +23,7 @@ In addition to the features of the class-node, the field-node and the method-nod
 The fourth node displays the lines of code (LOC) sorted by extensions or features. In expanded state the extension-node informs about LOC in existing extensions in the project (with LOC- no images!) in sum and on the next level in detail. The feature-node works analogue. By double-click again on the expanded node the sub-nodes are sortable by alphabetical or descent order. 
 Recently following extensions ignore comments for LOC-counting: java, c, h, jj, jak, cs. Default solution only counts the lines of code without spaces and empty lines. 
 
-[![implementation example]( http://i.imgur.com/SlHKcGk.png)](http://i.imgur.com/SlHKcGk.png)
+[![implementation example]( http://i.imgur.com/SlHKcGk.png)](https://github.com/tthuem/FeatureIDE/wiki/Assets/StatisticsView/example.png)
 
 ## 3 Statistic of product- line specification
 
