@@ -8,6 +8,9 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 			Creation Wizards
 		</th>
 		<th>
+			Project Structure
+		</th>		
+		<th>
 			Project Builder
 		</th>
 		<th>
@@ -15,6 +18,11 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 		</th>
 	</tr>
 	<tr>
+		<td width="213px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+			</p>
+		</td>
 		<td width="213px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
@@ -47,8 +55,16 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 				<a href="/tthuem/FeatureIDE/wiki/Run-Configurations">Run Configurations</a>
 			</p>
 		</td>
+		<td>
+			<p align="center">
+				<a href="/tthuem/FeatureIDE/wiki/Run-Configurations">Run Configurations</a>
+			</p>
+		</td>
 	</tr>
 	<tr>
+		<td>
+			description follows
+		</td>
 		<td>
 			description follows
 		</td>
