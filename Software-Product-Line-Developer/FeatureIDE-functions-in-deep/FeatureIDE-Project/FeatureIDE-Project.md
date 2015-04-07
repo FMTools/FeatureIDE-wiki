@@ -36,17 +36,17 @@ This page will filled soon.
 	<tr>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Creation-Wizards-[SPL-Dev]">Creation Wizards</a>
+				<a href="/tthuem/FeatureIDE/wiki/Creation-Wizards">Creation Wizards</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Project-Builder-[SPL-Dev]">Project Builder</a>
+				<a href="/tthuem/FeatureIDE/wiki/Project-Builder">Project Builder</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Run-Configurations-[SPL-Dev]">Run Configurations</a>
+				<a href="/tthuem/FeatureIDE/wiki/Run-Configurations">Run Configurations</a>
 			</p>
 		</td>
 	</tr>
