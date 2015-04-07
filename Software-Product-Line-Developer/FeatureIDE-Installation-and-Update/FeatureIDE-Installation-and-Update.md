@@ -1,1 +1,1 @@
-For installation details you might have a look in this [presentation](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/slides/featureide-3-development.pdf). 
+For installation details you might have a look in this [presentation](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/slides/featureide-2-getstarted.pdf). 
