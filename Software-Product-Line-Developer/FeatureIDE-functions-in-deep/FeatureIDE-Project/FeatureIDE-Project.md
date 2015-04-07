@@ -5,11 +5,11 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 <table>
 	<tr>
 		<th>
-			Creation Wizards
-		</th>
-		<th>
 			Project Structure
 		</th>		
+<th>
+			Creation Wizards
+		</th>
 		<th>
 			Project Builder
 		</th>
