@@ -10,20 +10,16 @@ General information about the feature-model. Such as number of features and numb
 
 ## 2 Statistic of product-line implementation
 
-Double-click to the main-node opens the detailed tree. 
+The first node in the line informs about the number of the **classes** (including nested classes) and roles. The child nodes show the different classes and files of the product line. The number of each node indicates how often the class is refined. The child of these classes show the corresponding features; the corresponding files can be opened via double-click. 
 
-The first node in the line informs about the number of the classes (also supported nested classes) and roles in this project. Double-click on this Node expands the sub-nodes, which display the package and the name of these classes and their number of roles. On double-click again the next sub-node-level expands and shows the name of these roles, double-click on these names will open the file and jumps to the first line of the editor to edit the class.
+The second node shows statistics about **fields** and the third about **methods**. The number of unique methods contains only method resp. field introductions, thus each element is counted only once. The first part shows the unique names, which will be expanded on the next tree-level. The second-part count the whole number of fields respectively methods. Double clicking on the root node for features respectively methods sort the Objects in alphabetical or descending order. 
 
-The second and the third node works similar. The first part shows the unique names, which will be expanded on the next tree-level. The second-part count the whole number of fields respectively methods and inform about the double-named. 
-The second will expand on the first double-click. If expanded, clicking on this node again sort the Objects in alphabetical or descending order.
-In addition to the features of the class-node, the field-node and the method-node shows there type respectively the type of the parameter and the return-value-type. 
+The fourth node displays the **Lines Of Code** (LOC). The sub-nodes orde the lines of code by file extension and feature. The subentries can be sorted alphabetically or in descending order via double-click.
+Comments are not counted for the following file extensions: java, c, h, jj, jak, and cs. The default solution LOC counting only counts the lines of code without spaces and empty lines. 
 
-The fourth node displays the lines of code (LOC) sorted by extensions or features. In expanded state the extension-node informs about LOC in existing extensions in the project (with LOC- no images!) in sum and on the next level in detail. The feature-node works analogue. By double-click again on the expanded node the sub-nodes are sortable by alphabetical or descent order. 
-Recently following extensions ignore comments for LOC-counting: java, c, h, jj, jak, cs. Default solution only counts the lines of code without spaces and empty lines. 
+[![implementation example](http://i.imgur.com/SlHKcGk.png)](https://github.com/tthuem/FeatureIDE/wiki/Assets/StatisticsView/example.png)
 
-[![implementation example]( http://i.imgur.com/SlHKcGk.png)](https://github.com/tthuem/FeatureIDE/wiki/Assets/StatisticsView/example.png)
-
-## 3 Statistic of product- line specification
+## 3 Statistic of product-line specification
 
 It shows detailed information about the invariants and the methods of project which implements these features. 
 
