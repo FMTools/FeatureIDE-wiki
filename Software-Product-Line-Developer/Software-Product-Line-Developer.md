@@ -33,7 +33,7 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 	</tr>
 	<tr>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Background</a>
+			<a href="/tthuem/FeatureIDE/wiki/Background">Background</a>
 		</td>
 		<td>
 			<a href="/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Installation</a>
