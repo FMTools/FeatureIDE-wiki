@@ -13,6 +13,6 @@
  - Install [AJDT](https://eclipse.org/ajdt/downloads/) (only required if you are working with AspectJ)
  - Restart eclipse after installation of new plug-ins 
 - Install FeatureIDE via our [update site](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/deploy/)
-
+ - you may alo use our nightly build [update site](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/nightly/p2-updateSite/)
 
 For installation details you might have a look in this [presentation](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/slides/featureide-2-getstarted.pdf). 
