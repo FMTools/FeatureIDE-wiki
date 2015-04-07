@@ -36,13 +36,13 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 			<a href="/tthuem/FeatureIDE/wiki/Background">Background</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Installation</a>
+			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-Installation-and-Update">Installation</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Overview</a>
+			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-overview">Overview</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Functions</a>
+			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-functions-in-deep">Functionality</a>
 		</td>
 	</tr>
 	<tr>
