@@ -1,5 +1,5 @@
-permissions are not required for checkout
+1. Import the plug-ins you need from the subfolder "plugins" (do not search for nested projects)
+- Import the tests from the subfolder "tests"
 
-1. import the plug-ins you need from the subfolder "plugins" (do not search for nested projects)
-- import the tests from the subfolder "tests"
+permissions are not required for checkout
 
