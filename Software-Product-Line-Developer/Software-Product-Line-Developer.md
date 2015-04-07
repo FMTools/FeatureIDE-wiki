@@ -78,9 +78,13 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 	<tr>
 		<td>
 			<a href="https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Samples</a>
-<a href="https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Samples</a>
-		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a-->
+</td>
+<td>
+<a href="https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Best-Practice</a>
+		</td>
+<td>
+<a href="https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">FAQ</a>
+		</td>
 		</td>
 	</tr>
 		<tr>
