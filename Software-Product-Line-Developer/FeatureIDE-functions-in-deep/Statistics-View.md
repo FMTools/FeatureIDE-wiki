@@ -17,7 +17,7 @@ The second node shows statistics about **fields** and the third about **methods*
 The fourth node displays the **Lines Of Code** (LOC). The sub-nodes orde the lines of code by file extension and feature. The subentries can be sorted alphabetically or in descending order via double-click.
 Comments are not counted for the following file extensions: java, c, h, jj, jak, and cs. The default solution LOC counting only counts the lines of code without spaces and empty lines. 
 
-[![implementation example](http://i.imgur.com/SlHKcGk.png)](https://github.com/tthuem/FeatureIDE/wiki/Assets/StatisticsView/example.png)
+![Example](https://github.com/tthuem/FeatureIDE/wiki/Assets/StatisticsView/implementation.png)
 
 ## 3 Statistic of product-line specification
 
@@ -31,7 +31,7 @@ The fourth node shows statistics about the usage of **contract refinement strate
 
 The fifth node shows details on **method contracts**.
 
-[![specification example](http://i.imgur.com/QWGNgtk.png)](http://i.imgur.com/QWGNgtk.png)
+![Example](https://github.com/tthuem/FeatureIDE/wiki/Assets/StatisticsView/specification.png)
 
 
  
