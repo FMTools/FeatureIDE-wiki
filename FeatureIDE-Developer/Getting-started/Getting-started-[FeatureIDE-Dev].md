@@ -12,7 +12,7 @@ Main Page section Getting started
 	<tr>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+				<img width="150" alt="under_construction" src="https://eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-800x188.png">
 			</p>
 		</td>
 		<td width="160px">
