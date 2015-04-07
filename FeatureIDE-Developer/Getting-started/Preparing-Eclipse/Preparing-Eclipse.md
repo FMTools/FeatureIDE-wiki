@@ -21,7 +21,7 @@ Main Page section Preparing Eclipse
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="http://help.eclipse.org/luna/topic/org.eclipse.jdt.doc.user/images/org.eclipse.jdt.debug.ui/etool16/run_exc.png">
+				<img height="50" width="50" alt="under_construction" src="http://help.eclipse.org/luna/topic/org.eclipse.jdt.doc.user/images/org.eclipse.jdt.debug.ui/etool16/run_exc.png">
 			</p>
 		</td>
 	</tr>
