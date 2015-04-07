@@ -1,6 +1,4 @@
-For installation details you might have a look in this [presentation](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/slides/featureide-2-getstarted.pdf). 
-
-1. Download "Eclipse for RCP and RAP Developers" from https://eclipse.org/downloads/
+1. Download Eclipse from https://eclipse.org/downloads/
 - Unzip eclipse into a folder where you have full permissions (it is recommended not to use the "program files" folder) 
 - Create shortcut to start eclipse with the folowing VM options:
  
@@ -13,5 +11,6 @@ For installation details you might have a look in this [presentation](http://www
 - Install required plug-ins:
  1. Install [CDT](https://eclipse.org/cdt/downloads.php) (only required if you are working C or C++)
  - Install [AJDT](https://eclipse.org/ajdt/downloads/) (only required if you are working with AspectJ)
- - Install a git plug-in (e.g. [EGit](http://eclipse.org/egit/download/)) to manage the repository from within Eclipse (not required)
  - Restart eclipse after installation of new plug-ins 
+
+For installation details you might have a look in this [presentation](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/slides/featureide-2-getstarted.pdf). 
