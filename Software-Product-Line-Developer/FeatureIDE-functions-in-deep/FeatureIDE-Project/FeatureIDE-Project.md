@@ -1,6 +1,4 @@
-Index page for the description of the FeatureIDE Project structure.
-
-This page will filled soon.
+A FeatureIDE project is our type of eclipse project to develop software product lines. The FeatureIDE projects defines how to model, implement, and build your product line.
 
 ### Quick Navigation:
 
