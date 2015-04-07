@@ -1,4 +1,4 @@
-Welcome to the FeatureIDE wiki!
+**Welcome to the FeatureIDE wiki!**
 
 <p align="justify">
 FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented software development for the development of Software product lines(SPLs): domain analysis, domain implementation, requirements analysis, and software generation. Different SPL implementation techniques are integrated such as feature-oriented programming (FOP), aspect-oriented programming (AOP), delta-oriented programming (DOP), and preprocessors.
