@@ -56,6 +56,7 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 	<tr>
 		<th>Samples</th>
 		<th>Best-Practice</th>
+		<th>FAQ</th>
 	</tr>
 	<tr>
 		<td width="320px">
@@ -64,6 +65,11 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 			</p>
 		</td>
 		<td width="320px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+			</p>
+		</td>
+<td width="320px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 			</p>
@@ -71,8 +77,8 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 	</tr>
 	<tr>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development">Eclipse RCP and RAP</a-->
-		</td>
+			<a href="https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Samples</a>
+<a href="https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Samples</a>
 		<td>
 			<!--a href="/tthuem/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a-->
 		</td>
