@@ -33,7 +33,7 @@ Main Page section Preparing Eclipse
 			<a href="/tthuem/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a>
+			<a href="/tthuem/FeatureIDE/wiki/Run-configuration">Run Configuration</a>
 		</td>
 	</tr>
 	<tr>
