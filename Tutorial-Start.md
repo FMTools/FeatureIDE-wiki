@@ -5,7 +5,13 @@ The first step for your product line is domain engineering. Here you think about
 
 ## Introduction
 ### Open the FeatureIDE perspective
-When using FeatureIDE it is best to activate the FeatureIDE perspective. Your first step is to switch the active perspective to the FeatureIDE Perspective. You can use the button on the upper right corner of the workbench or <code>Window / Open Perspective / Others...</code> and select Feature IDE. 
+When using FeatureIDE it is best to activate the FeatureIDE perspective. Your first step is to switch the active perspective to the FeatureIDE Perspective. You can use the button on the upper right corner of the workbench
+
+<img align="center" height="100%" width="100%" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/switch-perspective.png">
+
+ or <code>Window / Open Perspective / Others...</code> and select Feature IDE. 
+
+<img align="center" height="100%" width="100%" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/perspective.png">
 
 
 ### Create a FeatureIDE Project
