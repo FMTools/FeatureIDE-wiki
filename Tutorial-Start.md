@@ -3,37 +3,31 @@
 This tutorial will help you to build your first FeatureIDE project. After you have finished this tutorial, you will have a simple *Hello World* software product line. If you have problemes at a certain step, you can get the final result using <code>File-> New-> Example</code> in Eclipse's main menu.
 The first step for your product line is domain engineering. Here you think about what features to provide for your product.
 
-**More Information:** For further information about software product line engineering use the help button. This picture will show you the basic idea between domain engineering and application engineering.
-
 ## Introduction
 ### Open the FeatureIDE perspective
-When using FeatureIDE it is best to activate the FeatureIDE perspective. Thus, the first Next, create a new project. You can find the Feature IDE Project wizard under <code>File / New </code>. On the next page, choose a project name. For example <code>HelloWorld</code>;. Then, close the wizard by clicking *Finish*.
-In the wizard you can select different composition engines. You can choose any composition engine but remember your decision. Because each composition engine is slight different in use, you have to choose your selection later in this tutorial.
-**Info:** You can find a short introduction to alternative composition engines at the end of this cheat sheet.e first step is to switch the active perspective to the FeatureIDE Perspective. You can use the button on the upper right corner of the workbench or <code>Window / Open Perspective / Others...</code> and select Feature IDE. 
+When using FeatureIDE it is best to activate the FeatureIDE perspective. Your first step is to switch the active perspective to the FeatureIDE Perspective. You can use the button on the upper right corner of the workbench or <code>Window / Open Perspective / Others...</code> and select Feature IDE. 
+
+
 ### Create a FeatureIDE Project
-Next, create a new project. You can find the FeatureProject wizard under <code>File-> New</code>. You can also start the wizard by clicking on the button below.
-In the wizard you can select different composition engines. You can choose any composition engine but remember your decision for later steps in this tutorial.
-(You can find a short introduction to alternative composition engines at the end of this cheat sheet)
-On the next page, choose a project name. For example *"HelloWorld"*. Then, close the wizard by clicking *Finish*. 
+Let's start with creating of your first Feature IDE Project. You can find the Feature IDE Project wizard under <code>File / New / Feature IDE Project </code>. The wizard will prompt you to select a **composer engine**. You can choose any composition engine but we will start with **AHEAD**. Because each composition engine is slight different in use, you have can see the handling of another composer later in this tutorial.
+
+On the next page, choose a project name. For example <code>HelloWorld</code> Then, close the wizard by clicking *Finish*.
+
 ## Create a feature model
 Now its time to create a feature model specifying the features and their valid combinations.
 
 1. After creation of the project, FeatureIDE opens the <code>model.xml</code> file. You will see a graphical editor where you can edit the feature model of your software product line.
 
-First, create two additional layers under your root feature. Right click on the root feature and select <code>Create Feature (below)</code> twice. Rename the first new feature to <code>Hello</code>, and the second to <code>World</code>. You can rename features using **F2**, a single click on a selected feature, or using a right click with the option at the context menu.
+First, create two additional layers under your root feature. Right click on the root feature <code>HelloWorld</code> and select <code>Create Feature (below)</code> twice. Rename the first new feature to <code>Hello</code>, and the second to <code>World</code>. You can rename features using **F2**, a single click on a selected feature, or using a right click with the option at the context menu.
 
 2. Rename the feature <code>Base</code> to <code>Beautiful</code> and move it between the features <code>Hello</code> and <code>World</code>. Now, create a feature <code>Wonderful</code> and move it between the features <code>Beautiful</code> and <code>World</code>.
 
 3. Now, we want to make the features <code>Beautiful</code> and <code>Wonderful</code> exclusive to each other. Select both features, create a new compound above using right click menu, and name it <code>Feature</code>. As this feature has no according implementation mark it as abstract using the context menu.
 
-4. Connections between feature and its group of children are distinguished as **And**- (no arc), **Or**- (filled ar) and **Alternative**-groups (unfilled arc). 
-
-The children of And-groups can either be **mandatory** (filled circle) or **optional** (unfilled circle).
-
-5. Double click on the connection below the feature <code>Feature</code> to change it to an *Or*-group and again to change it to an *Alternative*-group. Then double click on the features <code>Hello</code> and <code>World</code> to mark them as *mandatory*. Click on the help button, to see how your feature model should look like. 
+4. Connections between feature and its group of children are distinguished as **And**- (no arc), **Or**- (filled ar) and **Alternative**-groups (unfilled arc). The children of And-groups can either be **mandatory** (filled circle) or **optional** (unfilled circle). Double click on the connection below the feature <code>Feature</code> to change it to an *Or*-group and again to change it to an *Alternative*-group. Then double click on the features <code>Hello</code> and <code>World</code> to mark them as *mandatory*. 
 
 ## Implementing features
-It is now time to implement the features. The implementation details depend on the composer you have chosen. Please select the task that explains the implementation for the composer you have chosen during project creation.
+It is now time to implement the features. The implementation details depend on the composer you have chosen. Please select the task that explains the implementation for the composer you have chosen during project creation. We will start with AHEAD, but feel free to start with another.
 
 ### AHEAD
 This tutorial guides you through the implementation of features using AHEAD. It supports composition of <code>Jak</code> files. <code>Jak</code> extends Java with keywords for Feature-Oriented-Programming which are
@@ -311,7 +305,6 @@ You can access our examples using
 - <code>File / New -> Others</code> in Eclipse main menu by selecting <code>Feature IDE -> Feature IDE Examples</code> under the node Examples the dialog's tree control. 
 
 We provide a *HelloWorld* example for every FeatureIDE extension, which may help to create projects in other languages and with other composition mechanisms. 
-
 
 
 
