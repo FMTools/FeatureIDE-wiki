@@ -28,7 +28,7 @@ On the next page, choose a project name. For example <code>HelloWorld</code> The
 ## Create a feature model
 Now its time to create a feature model specifying the features and their valid combinations.
 
-1. After creation of the project, FeatureIDE opens the <code>model.xml</code> file. You will see a graphical editor where you can edit the feature model of your software product line.
+After creation of the project, FeatureIDE opens the <code>model.xml</code> file. You will see a graphical editor where you can edit the feature model of your software product line.
 
 <img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/model1.png">
 
@@ -36,7 +36,7 @@ First, create two additional layers under your root feature. Right click on the 
 
 <img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/model2.png">
 
-2. Rename the feature <code>Base</code> to <code>Beautiful</code> and move it between the features <code>Hello</code> and <code>World</code>. 
+Rename the feature <code>Base</code> to <code>Beautiful</code> and move it between the features <code>Hello</code> and <code>World</code>. 
 
 <img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/model3.png">
 
@@ -44,11 +44,11 @@ Now, create a feature <code>Wonderful</code> and move it between the features <c
 
 <img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/model4.png">
 
-3. Now, we want to make the features <code>Beautiful</code> and <code>Wonderful</code> exclusive to each other. Select both features, create a new compound above using right click menu, and name it <code>Feature</code>. As this feature has no according implementation mark it as abstract using the context menu.
+Now, we want to make the features <code>Beautiful</code> and <code>Wonderful</code> exclusive to each other. Select both features, create a new compound above using right click menu, and name it <code>Feature</code>. As this feature has no according implementation mark it as abstract using the context menu.
 
 <img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/model5.png">
 
-4. Connections between feature and its group of children are distinguished as **And**- (no arc), **Or**- (filled ar) and **Alternative**-groups (unfilled arc). The children of And-groups can either be **mandatory** (filled circle) or **optional** (unfilled circle). Double click on the connection below the feature <code>Feature</code> to change it to an *Or*-group and again to change it to an *Alternative*-group. Then double click on the features <code>Hello</code> and <code>World</code> to mark them as *mandatory*. 
+Connections between feature and its group of children are distinguished as **And**- (no arc), **Or**- (filled ar) and **Alternative**-groups (unfilled arc). The children of And-groups can either be **mandatory** (filled circle) or **optional** (unfilled circle). Double click on the connection below the feature <code>Feature</code> to change it to an *Or*-group and again to change it to an *Alternative*-group. Then double click on the features <code>Hello</code> and <code>World</code> to mark them as *mandatory*. 
 
 <img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/model6.png">
 
