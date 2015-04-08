@@ -168,8 +168,8 @@ In the other files you can insert the same code and just change the print method
 
 **Example:**
 ``` CPP
-printf(" wonderful"); in feature "Wonderful".
-printf(" beautiful"); in feature "Beautiful". 
+printf(" wonderful"); // in feature "Wonderful".
+printf(" beautiful"); // in feature "Beautiful". 
 ```
 
 ### FeatureHouse
@@ -291,12 +291,15 @@ public class Main {
       /*if[Hello]*/
       System.out.print("Hello");
       /*end[Hello]*/
+
       /*if[Beautiful]*/ 
       System.out.print(" beautiful");
       /*end[Beautiful]*/
+      
       /*if[Wonderful]*/ 
       System.out.print(" wonderful"); 
       /*end[Wonderful]*/
+      
       /*if[World]*/ 
       System.out.print(" world!");
       /*end[World]*/
@@ -312,18 +315,24 @@ Antenna is a Java preprocessor. You can use Antenna-style Java comments to speci
 **Example:**
 
 ``` Java
-//#if Hello
-System.out.print("Hello");
-//#endif
-//#if Beautiful
-System.out.print(" beautiful");
-//#endif
-//#if Wonderful
-System.out.print(" wonderful"); 
-//#endif
-//#if World
-System.out.print(" world!");
-//#endif
+public class Main {
+   public static void main(String[] args){
+      //#if Hello
+      System.out.print("Hello");
+      //#endif
+   
+      //#if Beautiful
+      System.out.print(" beautiful");
+      //#endif
+   
+      //#if Wonderful
+      System.out.print(" wonderful"); 
+      //#endif
+   
+      //#if World
+      System.out.print(" world!");
+      //#endif
+   }
 }
 ```
 
