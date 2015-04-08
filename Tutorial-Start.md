@@ -1,6 +1,6 @@
 # Getting started with FeatureIDE
 
-This tutorial will help you to build your first FeatureIDE project. After you have finished this tutorial, you will have a simple *Hello World* software product line. If you have problemes at a certain step, you can get the final result using <code>File-> New-> Example</code> in Eclipse's main menu.
+This tutorial will help you to build your first FeatureIDE project. After you have finished this tutorial, you will have a simple *Hello World* software product line. If you have problems at a certain step, you can get the final result using <code>File-> New-> Example</code> in Eclipse's main menu.
 The first step for your product line is domain engineering. Here you think about what features to provide for your product.
 
 ## Introduction
@@ -61,34 +61,53 @@ This tutorial guides you through the implementation of features using AHEAD. It 
 * <code>Super()</code>: used to call a refined method . 
 
 #### Create new JAK files
-After you have saved your feature model, FeatureIDE will create directories for each feature. In these directories you can create <code>Jak</code>-Files.
+After you have saved your feature model, FeatureIDE will create directories for each feature.
+
+<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/ahead-feature-list.png">
+
+
+In these directories you can create <code>Jak</code>-Files.
 Start with creating a new <code>Jak</code>-file in the directory <code>Hello</code>.
-Right click on the directory <code>Hello</code> and use the command <code>New / FeatureIDE File</code> of the popup menu. Choose the identifier <code>Main</code> for the class name and press the *Finish* button.
+Right click on the directory <code>Hello</code> and use the command <code>New / FeatureIDE Source File</code> of the popup menu. 
+
+<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/ahead-add-source-file.png">
+
+Set the class name to <code>Main</code> and press the *Finish* button.
+
+<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/ahead-set-class-name.png">
+
 FeatureIDE opens the file and you can write the following code:
 ``` Java
-public void print(){
-   System.out.print("Hello");
-}
+public class Main {
+   public void print(){
+      System.out.print("Hello");
+   }
 
-public static void main(String[] args) {
-   new Main().print();
-} 
+   public static void main(String[] args) {
+      new Main().print();
+   } 
+}   
 ```
 
 Now create more <code>Jak</code> files, one in each of the directories <code>Beautiful</code>, <code>Wonderful</code> and <code>World</code>. In these cases, activate the option **Refines** in the Wizard. Furthermore, all the <code>Jak</code> files must have the same name <code>Main</code>.
+
+<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/ahead-set-class-name-refines.png">
 
 #### Source code for the JAK files
 Now edit the remaining <code>Jak</code>-Files. Every feature will refine the method <code>print()</code> in the class <code>Main</code>.
 
 Now insert the following code in your world feature: 
+
 ``` Java
-public void print() {
-   Super().print();
-   System.out.print(" world!");
+public refines class Main {
+   public void print() {
+      Super().print();
+      System.out.print(" world!");
+   }
 }
 ```
 
-In the other files you can insert the same code and just change the print method.
+In the other files you can insert the same code and just change the <code>print</code> method.
 
 **Example**
 ``` Java
