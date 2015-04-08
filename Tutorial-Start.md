@@ -16,10 +16,13 @@ When using FeatureIDE it is best to activate the FeatureIDE perspective. Your fi
 
 ### Create a FeatureIDE Project
 Let's start with creating of your first Feature IDE Project. You can find the Feature IDE Project wizard under <code>File / New / Feature IDE Project </code>. The wizard will prompt you to select a **composer engine**. You can choose any composition engine but we will start with **AHEAD**. 
+
 <img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/new_composer.png">
+
 Because each composition engine is slight different in use, you have can see the handling of another composer later in this tutorial.
 
 On the next page, choose a project name. For example <code>HelloWorld</code> Then, close the wizard by clicking *Finish*.
+
 <img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/new_name.png">
 
 ## Create a feature model
