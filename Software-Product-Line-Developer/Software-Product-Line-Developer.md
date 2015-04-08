@@ -82,6 +82,8 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 		</td>
 	</tr>
 	<tr>
+<td>
+			<a href="https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Tutorial</a>
 		<td>
 			<a href="https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Samples</a>
 </td>
