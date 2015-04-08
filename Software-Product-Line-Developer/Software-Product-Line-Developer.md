@@ -54,11 +54,17 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 </table>
 <table>
 	<tr>
+		<th>Getting started</th>
 		<th>Samples</th>
 		<th>Best-Practice</th>
 		<th>FAQ</th>
 	</tr>
 	<tr>
+<td width="320px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+			</p>
+		</td>
 		<td width="320px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
@@ -88,6 +94,7 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 		</td>
 	</tr>
 		<tr>
+<td>A quick tutorial which shows you how to create a first *Hello World* software product line in different composer engines</td>
 		<td>description under construction</td>
 		<td>description under construction</td>
 <td>description under construction</td>
