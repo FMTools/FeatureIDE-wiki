@@ -17,7 +17,7 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 			Run Configurations
 		</th>
 	</tr>
-	<tr>
+	<!--<tr>
 		<td width="213px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
@@ -38,7 +38,7 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 			</p>
 		</td>
-	</tr>
+	</tr>-->
 	<tr>
 		<td>
 			<p align="center">
