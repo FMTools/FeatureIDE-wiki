@@ -1,18 +1,33 @@
-The current configuration is build/composed/preprocessed from the feature folder into the source folder of the underlying project. 
+A main goal of software-product-line engineering is to derive customized products from a common code base.
+With FeatureIDE we automated this process.
 
-You set the current configuration with right-click on the configuration you want to generate and select _FeatureIDE > Set as current configuration_
+In FeatureIDE you always have on current configuration that is generated. 
+The current configuration is built from the feature folder into the source folder of the underlying project.
 
-To automatically build the current configuration (marked the the green pen) you can activate _Project > Build Automatically_
-The product is there are changes in the feature files of the selected features or the feature model has changed.
+_You can set the current configuration with right-click on the configuration you want to generate and select _FeatureIDE > Set as current configuration__. The current configruration is marked with the green pen.
 
-After the source files are generated the underlying compiler should automatically detect changes and thus should compile the program. 
+To automatically build the current configuration if there are changes in the project activate _Project > Build Automatically_.
+The product is only generated if there are changes in the feature files of the selected features or the feature model has changed (i.e., the generated product would differ).
 
-You should not change the generated files (except if the feature files are the same as the source files) as your changes are lost after you start the build process again.
+After the source files are generated, the underlying compiler automatically detects changes and thus compiles the program.
 
-<img width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Antenna.PNG">
+_You should not change the generated files (except if the feature files are the same as the source files) as your changes are lost after you start the build process again._
+
+The build process of the generation tools is specialized for their approaches. We illustrate the general process as follows.
+
+Preprocessors (Antenna, CPP) do not have a separate folder for their source files. They compile the files in the source folder directly. 
+
+<img width="200" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Antenna.PNG">
+
+The preprocessor Munge generates new preprocessed source files from a feature folder. 
+
+<img width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Munge.PNG">
+
+AspectJ weaves the aspects into the class files. Aspects that are not selected are not in the build path, and thus are not includes in the generated product.
 
 <img width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/AspectJ.PNG">
 
-<img width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/FH.PNG">
+Feature-oriented composition tools have one feature module (i.e. folder) for each concrete feature.
+The selected feature modules are composed by the composition tool into the source folder. 
 
-<img width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Munge.PNG">
+<img width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/FH.PNG">
