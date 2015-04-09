@@ -52,7 +52,7 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Project-Builder">Project Builder</a>
+				<a href="/tthuem/FeatureIDE/wiki/Project-Builder">Product Generation</a>
 			</p>
 		</td>
 		<td>
