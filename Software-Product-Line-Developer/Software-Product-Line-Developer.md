@@ -1,4 +1,4 @@
-this page shows an overview of the next subsection of the Software-Product-Line developer part of the FeatureIDE wiki
+This part of the wiki describes how to use FeatureIDE as a developer of software product lines.
 
 ## Quick-Navigation:
 
