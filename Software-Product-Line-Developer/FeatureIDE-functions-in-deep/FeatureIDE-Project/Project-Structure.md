@@ -14,7 +14,7 @@
 <img height="300" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Configuration.PNG">
 
 * Source Files
-  - Generated files for the current configuraiton that are used for compilation
+  - Generated files for the current configuration that are used for compilation
 
   <img height="300" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Build.PNG">
 
