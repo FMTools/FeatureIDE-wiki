@@ -5,8 +5,9 @@ _You can open a configuration with the configuration editor with a double-click 
 
 The default page shows the configuration as tree similar to the structure defined in the feature model.
 
-src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/configuration.PNG">
 <img width="200" 
+src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/configuration.PNG">
+
 
 <img width="200" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/advancedpage.PNG">
 <img width="200" 
