@@ -1,5 +1,5 @@
 The configuration editor helps to customize you program. The editor is always in sync with the feature model of the FeatureIDE project. For example, if you rename a feature in the model, also the feature in configuration file is renamed, too. 
-Furthermore, the configuration editor checks whether the configuration is valid to the feature model.
+Furthermore, the configuration editor checks whether the configuration is valid to the feature model. The validity of the configuration is shown in the header of the editor. Furthermore, the number of configurations that can have the configuration as partial configuration is shown in the header, too.
 
 _You can open a configuration with the configuration editor with a double-click on a configuration file._
 
@@ -15,12 +15,15 @@ The configuration editor gives some help to guide you to a valid configuration. 
 
 <img width="300" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/configurationhelp.PNG">
 
+The configuration editor has several pages. You can select other pages at the bottom of the editor.
+The "**Advanced Configuration**" page provides some additional functionality to the first page. 
+Here you can additionally mark features to be deselected by right-clicking the feature. You can also see the connection type of the features (e.g., whether it is a mandatory feature). 
+
 <img width="300" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/advancedpage.PNG">
 
+The "**source page**" shows the content of the file. You can use this page to copy other configuration. After you go back to one of the configuration pages the editor features are automatically selected.
 
+We recommend not to use the source view to editor the configuration, as you do not have assists such as checks whether the feature exists or the configuration is valid.
 
 <img width="300" 
 src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/sourcepage.PNG">
-
-# Default Page
-# Advanced Page
