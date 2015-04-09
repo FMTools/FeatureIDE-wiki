@@ -8,7 +8,7 @@
 - Start Eclipse and create a new workspace
    
    It is recommended to use a folder that is not indexed by Windows as this may cause interactions with git
-- Install required plug-ins:
+- Install required plug-ins _Help > Install new Software..._ or _Help > Eclipse Marketplace..._:
  1. Install [CDT](https://eclipse.org/cdt/downloads.php) (only required if you are working C or C++)
  - Install [AJDT](https://eclipse.org/ajdt/downloads/) (only required if you are working with AspectJ)
  - Restart eclipse after installation of new plug-ins 
