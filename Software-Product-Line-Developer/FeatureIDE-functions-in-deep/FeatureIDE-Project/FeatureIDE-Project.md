@@ -72,7 +72,7 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 			How to build a specific product for a configuration.
 		</td>
 		<td>
-			description follows
+			How to execute a generated product.
 		</td>
 	</tr>
 </table>
