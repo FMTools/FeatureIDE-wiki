@@ -4,7 +4,7 @@ Please make sure that the font "Arial Unicode MS" is installed on your operating
 
 **How can I use external jar files in my FeatureIDE project?**
 
-FeatureIDE (2.5 and newer) is on top of other projects, such as Java. Thus, you can use jar files by adding them to the Java build path.
+FeatureIDE (2.5 and newer) is on top of standard eclipse projects, such as Java projects. Thus, you can use jar files by adding them to the Java build path.
 For FeatureIDE 2.4 and older: Please create a folder named "lib" at the project root and insert all jar files which you intent to reference. The jar files are detected by the compiler and added as parameters if you run your FeatureIDE application. 
 
 **How can I compare two different feature models in FeatureIDE?**
