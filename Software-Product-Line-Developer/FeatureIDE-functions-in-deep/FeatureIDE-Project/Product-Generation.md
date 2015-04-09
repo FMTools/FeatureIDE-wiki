@@ -27,7 +27,7 @@ AspectJ weaves the aspects into the class files. Aspects that are not selected a
 
 <img width="250" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/AspectJ.PNG">
 
-Feature-oriented composition tools have one feature module (i.e. folder) for each concrete feature.
+Feature-oriented composition tools (FeatureHouse, AHEAD, FeatureC++) have one feature module (i.e. folder) for each concrete feature.
 The selected feature modules are composed by the composition tool into the source folder. 
 
 <img width="250" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/FH.PNG">
