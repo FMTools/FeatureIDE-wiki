@@ -11,7 +11,7 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 			Creation Wizards
 		</th>
 		<th>
-			Project Builder
+			Product Generation
 		</th>
 		<th>
 			Run Configurations
