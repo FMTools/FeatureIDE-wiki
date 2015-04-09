@@ -1,4 +1,4 @@
-**Why are the symbols in cross-tree constraints below the feature diagram are not displayed correctly?**
+**Why are the symbols in cross-tree constraints below the feature diagram not displayed correctly?**
 
 Please make sure that the font "Arial Unicode MS" is installed on your operating system so that FeatureIDE can use it to display the cross-tree constraints.
 
