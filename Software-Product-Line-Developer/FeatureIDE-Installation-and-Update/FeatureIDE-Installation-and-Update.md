@@ -12,7 +12,7 @@
  1. Install [CDT](https://eclipse.org/cdt/downloads.php) (only required if you are working C or C++)
  - Install [AJDT](https://eclipse.org/ajdt/downloads/) (only required if you are working with AspectJ)
  - Restart eclipse after installation of new plug-ins 
-- Install FeatureIDE via Eclipse marketplace or with our [update site](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/deploy/) (_you may alo use our [nightly build](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/nightly/p2-updateSite/)_)
+- Install FeatureIDE via Eclipse marketplace or with our [update site](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/deploy/) (_you may also use our [nightly build](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/nightly/p2-updateSite/)_)
  - Select all plugins you need:
     - The plug-in "Feature Modelling" is required for modeling
      - The plug-in "FeatureIDE" is required for software product line development
