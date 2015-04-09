@@ -20,24 +20,24 @@ The function of the **toolbar** from left to right:
 
 ## nested-classes-toggle:
 
-nested-classes-button **OFF** :  
+nested-classes-button **OFF** (nested classes **are not** displayed):
 
-[![nestedclasses_off](http://i.imgur.com/yKoFjewm.jpg)](http://i.imgur.com/yKoFjew.jpg) here are no nested classes displayed
+[![nestedclasses_off](http://i.imgur.com/yKoFjewm.jpg)](http://i.imgur.com/yKoFjew.jpg) 
 
-nested-classes-button **ON**  :
+nested-classes-button **ON** (nested classes **are** displayed):
 
-[![nestedclasses_on](http://i.imgur.com/xKIsKnIm.jpg)](http://i.imgur.com/xKIsKnI.jpg) here are the nested classes displayed
+[![nestedclasses_on](http://i.imgur.com/xKIsKnIm.jpg)](http://i.imgur.com/xKIsKnI.jpg) 
 
 
 ## Filtered for methods with refinements:
 
-methods-with-refinements-filter **OFF** :                    
+methods-with-refinements-filter **OFF** (Only methods without refinements are displayed):                    
     
-[![methods_refinements_off](http://i.imgur.com/EJLJ9bwm.jpg)](http://i.imgur.com/EJLJ9bw.jpg) Only methods without refinements are displayed
+[![methods_refinements_off](http://i.imgur.com/EJLJ9bwm.jpg)](http://i.imgur.com/EJLJ9bw.jpg) 
 
-methods-with-refinements-filter **ON** :    
+methods-with-refinements-filter **ON** (All methods are displayed):    
  
-[![Methods_refinements_on](http://i.imgur.com/kHdFgd7m.jpg)](http://i.imgur.com/kHdFgd7.jpg) Methods without **and with** are displayed
+[![Methods_refinements_on](http://i.imgur.com/kHdFgd7m.jpg)](http://i.imgur.com/kHdFgd7.jpg) 
 
 ##**Example project:**
 
