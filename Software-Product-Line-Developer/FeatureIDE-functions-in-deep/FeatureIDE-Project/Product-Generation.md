@@ -17,17 +17,17 @@ The build process of the generation tools is specialized for their approaches. W
 
 Preprocessors (Antenna, CPP) do not have a separate folder for their source files. They compile the files in the source folder directly. 
 
-<img width="200" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Antenna.PNG">
+<img width="250" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Antenna.PNG">
 
 The preprocessor Munge generates new preprocessed source files from a feature folder. 
 
-<img width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Munge.PNG">
+<img width="250" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Munge.PNG">
 
 AspectJ weaves the aspects into the class files. Aspects that are not selected are not in the build path, and thus are not includes in the generated product.
 
-<img width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/AspectJ.PNG">
+<img width="250" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/AspectJ.PNG">
 
 Feature-oriented composition tools have one feature module (i.e. folder) for each concrete feature.
 The selected feature modules are composed by the composition tool into the source folder. 
 
-<img width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/FH.PNG">
+<img width="250" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/FH.PNG">
