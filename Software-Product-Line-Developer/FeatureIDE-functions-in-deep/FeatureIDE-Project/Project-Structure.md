@@ -3,7 +3,7 @@
 
 <img height="300" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/FeatureModel.PNG">
 
-* Source Files
+* Feature Files
   - Defines the implementation of the product line
 
 <img height="300" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/SourceFile.PNG">
@@ -13,8 +13,8 @@
 
 <img height="300" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Configuration.PNG">
 
-* Build Files
-  - Generated files for the current configuraiton
+* Source Files
+  - Generated files for the current configuraiton that are used for compilation
 
   <img height="300" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Build.PNG">
 
