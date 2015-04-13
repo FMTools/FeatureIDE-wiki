@@ -13,6 +13,7 @@ under construction
 	* [Subsection_13] (#subsection_13)
 * [Section_2] (#section_2)
 * [Section_3] (#section_3)
+* [Another test Name for a Section] (#another-test-name-for-a-section)
 
 <!-- Content -->
 
@@ -77,3 +78,5 @@ under construction
 		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 	</p>
 </td>
+
+# Another test Name for a Section
