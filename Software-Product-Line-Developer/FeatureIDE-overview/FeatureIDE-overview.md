@@ -1,3 +1,12 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer)
+
+<!-- Introduction -->
+under construction
+
+<!-- Outline -->
+
+<!-- Content -->
 - Feature Model Editor, graphical and text based.
    - Highlighting of dead and false-optional features and their corresponding constraints based on Sat4j.
    - Constraint Editor with content assist, syntax, and semantic checking, e.g., dead feature detection.

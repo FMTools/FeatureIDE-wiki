@@ -1,6 +1,11 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer)
+
+<!-- Introduction -->
+under construction
 For a detailed list of the main functionalities you can have a look at this [screenshots and videos](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/#screenshots).
 
-
+<!-- Quick-Navigation-Table -->
 ### Quick Navigation:
 
 <table>
@@ -93,3 +98,5 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		</td>
 	</tr>
 </table>
+
+<!-- Additonal content -->
