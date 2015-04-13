@@ -4,14 +4,14 @@
 <!-- Introduction -->
 
 <!-- Outline -->
-* [Section 1] (https://github.com/tthuem/FeatureIDE/wiki/Background-Feature-Models#Section-1)
-	* [Subsection 1]
-	* [Subsection 2]
-		* [Subsubsection 1]
-		* [Subsubsection 2]
-	* [Subsection 3]
-* [Section 2]
-* [Section 3]
+* [Section_1] (https://github.com/tthuem/FeatureIDE/wiki/Background-Feature-Models#Section_1)
+	* [Subsection_11] (https://github.com/tthuem/FeatureIDE/wiki/Background-Feature-Models#Subsection_11)
+	* [Subsection_12] (https://github.com/tthuem/FeatureIDE/wiki/Background-Feature-Models#Subsection_12)
+		* [Subsubsection_121] (https://github.com/tthuem/FeatureIDE/wiki/Background-Feature-Models#Subsubsection_121)
+		* [Subsubsection_122] (https://github.com/tthuem/FeatureIDE/wiki/Background-Feature-Models#Subsubsection_122)
+	* [Subsection_13] (https://github.com/tthuem/FeatureIDE/wiki/Background-Feature-Models#Subsection_13)
+* [Section_2] (https://github.com/tthuem/FeatureIDE/wiki/Background-Feature-Models#Section_2)
+* [Section_3] (https://github.com/tthuem/FeatureIDE/wiki/Background-Feature-Models#Section_3)
 
 <!-- Content -->
 
@@ -21,11 +21,11 @@
 	</p>
 </td>
 
-# Section 1
-## Subsection 1
-## Subsection 2
-### Subsubsection 1
-### Subsubsection 2
-## Subsection 3
-# Section 2
-# Section 3
+# Section_1
+## Subsection_11
+## Subsection_12
+### Subsubsection_121
+### Subsubsection_122
+## Subsection_13
+# Section_2
+# Section_3
