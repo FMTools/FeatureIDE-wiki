@@ -1,3 +1,10 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer)
+
+<!-- Introduction -->
+under construction
+
+<!-- Quick-Navigation-Table -->
 ### Quick-Navigation:
 
 <table>
@@ -50,3 +57,5 @@
 		<td>description under construction</td>
 	</tr>
 </table>
+
+<!-- Additional content -->
