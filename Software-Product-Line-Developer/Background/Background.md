@@ -1,4 +1,4 @@
-## Quick-Navigation:
+### Quick-Navigation:
 
 <table>
 	<tr>

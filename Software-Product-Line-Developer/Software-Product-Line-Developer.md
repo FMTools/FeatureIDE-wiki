@@ -1,6 +1,11 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki)
+
+<!-- Introduction -->
 This part of the wiki describes how to use FeatureIDE as a developer of software product lines.
 
-## Quick-Navigation:
+<!-- Quick-Navigation-Table -->
+### Quick-Navigation:
 
 <table>
 	<tr>
@@ -102,3 +107,5 @@ This part of the wiki describes how to use FeatureIDE as a developer of software
 <td>description under construction</td>
 	</tr>
 </table>
+
+<!-- Additional content -->

@@ -1,3 +1,7 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki)
+
+<!-- Introduction -->
 under construction!
 
 ### Quick-Navigation:
