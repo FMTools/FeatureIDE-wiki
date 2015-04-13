@@ -5,6 +5,7 @@ Setup guide to develop FeatureIDE and new extensions with eclipse
 		<th>1. Setup Eclipse</th>
 		<th>2. Checkout FeatureIDE sources</th>
 		<th>3. Setup FeatureIDE</th>
+		<th>4. Setting Up Code Format</th>
 	</tr>
 	<tr>
 		<td width="160px">
@@ -33,7 +34,11 @@ Setup guide to develop FeatureIDE and new extensions with eclipse
 		<td>
 			<a href="/tthuem/FeatureIDE/wiki/Run-configuration">Run Configuration</a>
 		</td>
+		<td>
+			<a href="/tthuem/FeatureIDE/wiki/Setting-Up-Code-Format">Setting Up Code Format</a>
+		</td>
 	</tr>
+
 	<!--<tr>
 		<td>Setup Eclipse</td>
 		<td>Get FeatureIDE</td>
