@@ -5,7 +5,7 @@ Setup guide to develop FeatureIDE and new extensions with eclipse
 		<th>1. Setup Eclipse</th>
 		<th>2. Checkout FeatureIDE sources</th>
 		<th>3. Setup FeatureIDE</th>
-		<th>3. Setting Up Code Format</th>
+		<th>4. Setting Up Code Format</th>
 	</tr>
 	<tr>
 		<td width="160px">
