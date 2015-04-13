@@ -1,7 +1,7 @@
-Welcome to the FeatureIDE wiki!
+**Welcome to the FeatureIDE wiki!**
 
 <p align="justify">
-FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented software development for the development of Software product lines(SPLs): domain analysis, domain implementation, requirements analysis, and software generation. Different SPL implementation techniques are integrated such as feature-oriented programming (FOP), aspect-oriented programming (AOP), delta-oriented programming (DOP), and preprocessors.
+FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented software development for the development of Software product lines: domain analysis, domain implementation, requirements analysis, and software generation. Different SPL implementation techniques are integrated such as feature-oriented programming (FOP), aspect-oriented programming (AOP), delta-oriented programming (DOP), and preprocessors.
 </p>
 
 ### Quick-Navigation:
@@ -26,17 +26,15 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 		<!--td></td-->
 		<td><a href="/tthuem/FeatureIDE/wiki/About-FeatureIDE">About FeatureIDE</a></td>
 		<td><a href="/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Software-Product-Line Developer</a></td>
-		<td><a href="/tthuem/FeatureIDE/wiki/index-FeatureIDE-Developer">FeatureIDE Developer</a></td>
+		<td><a href="/tthuem/FeatureIDE/wiki/FeatureIDE-Developer">FeatureIDE Developer</a></td>
 		<!--td></td-->
 	</tr>
 	<tr>
-		<td>description under construction</td>
-		<td>description under construction</td>
-		<td>description under construction</td>
+		<td>What is FeatureIDE</td>
+		<td>How to use FeatureIDE to develop software product lines</td>
+		<td>How to extend FeatureIDE to support software-product-line development</td>
 	</tr>
 </table>
-
-You may also visit FeatureIDE's home page: http://www.fosd.de/featureide/
 
 <!--
 | under construction | About FeatureIDE | Software-Product-Line Developer | FeatureIDE Developer | under construction |

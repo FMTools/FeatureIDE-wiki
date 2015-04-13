@@ -1,4 +1,4 @@
-this page shows an overview of the next subsection of the Software-Product-Line developer part of the FeatureIDE wiki
+This part of the wiki describes how to use FeatureIDE as a developer of software product lines.
 
 ## Quick-Navigation:
 
@@ -33,32 +33,34 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 	</tr>
 	<tr>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development">Eclipse RCP and RAP</a-->
+			<a href="/tthuem/FeatureIDE/wiki/Background">Background</a>
 		</td>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a-->
+			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-Installation-and-Update">Installation</a>
 		</td>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
+			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-overview">Overview</a>
 		</td>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
+			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-functions-in-deep">Functionality</a>
 		</td>
 	</tr>
 	<tr>
 		<td>description under construction</td>
 		<td>description under construction</td>
-		<td>description under construction</td>
-		<td>description under construction</td>
+		<td>A general overview on current functionalities of FeatureIDE</td>
+		<td>A detailed description of the functionalities of FeatureIDE</td>
 	</tr>
 </table>
 <table>
 	<tr>
+		<th>Getting started</th>
 		<th>Samples</th>
 		<th>Best-Practice</th>
+		<th>FAQ</th>
 	</tr>
 	<tr>
-		<td width="320px">
+<td width="320px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 			</p>
@@ -68,17 +70,35 @@ this page shows an overview of the next subsection of the Software-Product-Line 
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
 			</p>
 		</td>
+		<td width="320px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+			</p>
+		</td>
+<td width="320px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+			</p>
+		</td>
 	</tr>
 	<tr>
+<td>
+			<a href="https://github.com/tthuem/FeatureIDE/wiki/Tutorial-Start">Tutorial</a>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development">Eclipse RCP and RAP</a-->
+			<a href="https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Samples</a>
+</td>
+<td>
+<a href="https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Best-Practice</a>
 		</td>
-		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a-->
+<td>
+<a href="https://github.com/tthuem/FeatureIDE/wiki/FAQ">FAQ</a>
+		</td>
 		</td>
 	</tr>
 		<tr>
+<td>A quick tutorial which shows you how to create a first *Hello World* software product line in different composer engines</td>
 		<td>description under construction</td>
 		<td>description under construction</td>
+<td>description under construction</td>
 	</tr>
 </table>
