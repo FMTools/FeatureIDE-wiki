@@ -1,6 +1,5 @@
 # Testing process
 
-* [**Home**] (https://github.com/tthuem/FeatureIDE/wiki) **<<** [**FeatureIDE Developer**] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer) **<<** [**Development Process in detail**] (https://github.com/tthuem/FeatureIDE/wiki/Development-process-in-detail)
 * [General user functionality] (https://github.com/tthuem/FeatureIDE/wiki/General-user-functionality)
 * [Additional manual testing] (https://github.com/tthuem/FeatureIDE/wiki/Additional-manual-testing)
 	* [Wizards] (https://github.com/tthuem/FeatureIDE/wiki/Wizards-[FeatureIDE-Dev])
