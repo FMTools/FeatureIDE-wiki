@@ -8,7 +8,7 @@
 * [FeatureIDE Installation and Update] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Installation-and-Update)
 * [FeatureIDE Overview] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Overview)
 	* [Plugin List] (https://github.com/tthuem/FeatureIDE/wiki/Plugin-List)
-* [FeatureIDE functions in deep] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-functions-in-deep)
+* [FeatureIDE Functions in Deep] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
 	* [FeatureIDE Project] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Project)
 	* [Feature Model Editor] (https://github.com/tthuem/FeatureIDE/wiki/Feature-Model-Editor)
 	* [Configuration Editor] (https://github.com/tthuem/FeatureIDE/wiki/Configuration-Editor)

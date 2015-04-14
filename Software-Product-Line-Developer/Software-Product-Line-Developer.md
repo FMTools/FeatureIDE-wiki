@@ -47,7 +47,7 @@ This part of the wiki describes how to use FeatureIDE as a developer of software
 			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-overview">Overview</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-functions-in-deep">Functionality</a>
+			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep">Functionality</a>
 		</td>
 	</tr>
 	<tr>

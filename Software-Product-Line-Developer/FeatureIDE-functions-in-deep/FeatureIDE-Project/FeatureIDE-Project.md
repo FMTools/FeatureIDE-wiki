@@ -1,5 +1,10 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
+
+<!-- Introduction -->
 A FeatureIDE project is our type of eclipse project to develop software product lines. The FeatureIDE projects defines how to model, implement, and build your product line.
 
+<!-- Quick-Navigation-Table -->
 ### Quick Navigation:
 
 <table>
@@ -76,3 +81,5 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 		</td>
 	</tr>
 </table>
+
+<!-- Additional Content -->

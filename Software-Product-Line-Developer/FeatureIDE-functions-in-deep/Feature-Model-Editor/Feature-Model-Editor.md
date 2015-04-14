@@ -1,11 +1,15 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
+
+<!-- Introduction -->
 For a detailed list of the main functionalities you can have a look at this [screenshots and videos](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/#screenshots).
 
 Index page for the description of the Feature Model Editor.
 
 This page will filled soon.
 
+<!-- Quick-Navigation-Table -->
 ### Quick Navigation:
-
 <table>
 	<tr>
 		<th>
@@ -96,3 +100,5 @@ This page will filled soon.
 		</td>
 	</tr>
 </table>
+
+<!-- Additonal Content -->
