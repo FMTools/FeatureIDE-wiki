@@ -5,9 +5,9 @@
 The **statistic view** for FeatureIDE-projects displays general information about a FeatureIDE project (the project of the current file in the editor). The statistics contain information about the feature model, the implementation, and the specification of the product line. 
 
 <!-- Outline -->
-[1. Statistics of the feature model] (#1-statistics-of-the-feature-model)
-[2. Statistic of product-line implementation] (#2-statistic-of-product-line-implementation)
-[3. Statistic of product-line specification] (#3-statistic-of-product-line-specification)
+1. [Statistics of the feature model] (#1-statistics-of-the-feature-model)
+2. [Statistic of product-line implementation] (#2-statistic-of-product-line-implementation)
+3. [Statistic of product-line specification] (#3-statistic-of-product-line-specification)
 
 <!-- Content -->
 The toolbar of the view provides a button to refresh ![refresh button](https://raw.githubusercontent.com/tthuem/FeatureIDE/master/plugins/de.ovgu.featureide.ui/icons/refresh_tab.gif) and one ![export button](https://raw.githubusercontent.com/tthuem/FeatureIDE/master/plugins/de.ovgu.featureide.ui/icons/export_wiz.gif) to export the information to a “*.cvs” file. 
