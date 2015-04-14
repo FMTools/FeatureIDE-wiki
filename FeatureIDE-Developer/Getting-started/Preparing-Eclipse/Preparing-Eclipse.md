@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer) < [**FeatureIDE Architecture and Extensibility**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Architecture-and-Extensibility)
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer) < [**Getting started**](https://github.com/tthuem/FeatureIDE/wiki/Getting-started)
 
 <!-- Introduction -->
 Setup guide to develop FeatureIDE and new extensions with eclipse
