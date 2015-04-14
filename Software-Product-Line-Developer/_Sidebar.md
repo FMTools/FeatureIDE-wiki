@@ -6,7 +6,7 @@
 	* [FOSD] (https://github.com/tthuem/FeatureIDE/wiki/Background-FOSD)
 	* [Feature-Oriented Programming] (https://github.com/tthuem/FeatureIDE/wiki/Background-FOP)
 * [FeatureIDE Installation and Update] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Installation-and-Update)
-* [FeatureIDE overview] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-overview)
+* [FeatureIDE Overview] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Overview)
 	* [Plugin List] (https://github.com/tthuem/FeatureIDE/wiki/Project-Overview)
 * [FeatureIDE functions in deep] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-functions-in-deep)
 	* [FeatureIDE Project] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Project)
