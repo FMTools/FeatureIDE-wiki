@@ -2,6 +2,10 @@
 [**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
 
 <!-- Introduction -->
+
+<!-- Outline -->
+
+<!-- Content -->
 The configuration editor helps to customize you program. The editor is always in sync with the feature model of the FeatureIDE project. For example, if you rename a feature in the model, also the feature in configuration file is renamed, too. 
 Furthermore, the configuration editor checks whether the configuration is valid to the feature model. The validity of the configuration is shown in the header of the editor. Furthermore, the number of configurations that can have the configuration as partial configuration is shown in the header, too.
 
