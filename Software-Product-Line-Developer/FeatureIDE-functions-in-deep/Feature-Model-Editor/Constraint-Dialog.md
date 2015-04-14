@@ -50,7 +50,7 @@ When you finished your work, you can save you constraint to your model. Afterwar
 
 ## 2. More in Detail
 
-### 2.i Elements of the dialog
+### 2.i. Elements of the dialog
 The dialog contains of five regions, from up to down: 
 
 #### 2.i.a. The status information panel
