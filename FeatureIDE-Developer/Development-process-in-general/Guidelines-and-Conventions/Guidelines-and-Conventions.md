@@ -1,5 +1,10 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer) < [**Development Process in general**] (https://github.com/tthuem/FeatureIDE/wiki/
+
+<!-- Introduction -->
 Main page Guidelines and Conventions
 
+<!-- Quick-Navigation-Table -->
 ### Quick-Navigation:
 
 #### Conventions
@@ -65,3 +70,4 @@ Main page Guidelines and Conventions
 		<td>description under construction</td>
 	</tr>
 </table>
+<!-- Additional Content -->
