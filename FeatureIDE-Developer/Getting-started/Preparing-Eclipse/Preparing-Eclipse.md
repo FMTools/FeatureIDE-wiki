@@ -1,5 +1,13 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer) < [**FeatureIDE Architecture and Extensibility**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Architecture-and-Extensibility)
+
+<!-- Introduction -->
 Setup guide to develop FeatureIDE and new extensions with eclipse
 
+
+<!-- Quick-Navigation-Table -->
+
+### Quick-Navigation:
 <table>
 	<tr>
 		<th>1. Setup Eclipse</th>
@@ -45,3 +53,4 @@ Setup guide to develop FeatureIDE and new extensions with eclipse
 		<td>Setup FeatureIDE</td>
 	</tr>--!
 </table>
+<!-- Addition Content -->

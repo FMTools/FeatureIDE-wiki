@@ -1,3 +1,11 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < ... < [**Getting started**](https://github.com/tthuem/FeatureIDE/wiki/Getting-started) < [**Preparing Eclipse**](https://github.com/tthuem/FeatureIDE/wiki/Preparing-Eclipse)
+
+<!-- Introduction -->
+
+<!-- Outline -->
+
+<!-- Content -->
 1. Download "Eclipse for RCP and RAP Developers" from https://eclipse.org/downloads/
 - Unzip eclipse into a folder where you have full permissions (it is recommended not to use the "program files" folder) 
 - Create shortcut to start eclipse with the folowing VM options:

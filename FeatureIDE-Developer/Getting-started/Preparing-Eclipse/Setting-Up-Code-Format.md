@@ -1,3 +1,11 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < ... < [**Getting started**](https://github.com/tthuem/FeatureIDE/wiki/Getting-started) < [**Preparing Eclipse**](https://github.com/tthuem/FeatureIDE/wiki/Preparing-Eclipse)
+
+<!-- Introduction -->
+
+<!-- Outline -->
+
+<!-- Content -->
 ### 1. Line Endings and Encoding
   * Go to **Window -> Preferences**.
   * Open page **General -> Workspace**.

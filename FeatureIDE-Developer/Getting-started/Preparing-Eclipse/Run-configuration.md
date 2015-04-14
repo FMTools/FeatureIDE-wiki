@@ -1,3 +1,11 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < ... < [**Getting started**](https://github.com/tthuem/FeatureIDE/wiki/Getting-started) < [**Preparing Eclipse**](https://github.com/tthuem/FeatureIDE/wiki/Preparing-Eclipse)
+
+<!-- Introduction -->
+
+<!-- Outline -->
+
+<!-- Content -->
 1. Create a new run configuration to start Eclipse with FeatureIDE plug-ins
 
    1. Run > Run Configurations... 

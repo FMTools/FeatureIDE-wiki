@@ -1,7 +1,10 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer)
+
+<!-- Introduction -->
 under construction!
 
-Main Page section Getting started
-
+<!-- Quick-Navigation-Table -->
 ### Quick-Navigation:
 <table>
 	<tr>
@@ -43,3 +46,4 @@ Main Page section Getting started
 		<td>description under construction</td>
 	</tr>
 </table>
+<!-- Additional content -->
