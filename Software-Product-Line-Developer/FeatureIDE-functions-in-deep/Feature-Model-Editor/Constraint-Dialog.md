@@ -1,7 +1,19 @@
-## Introduction
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < **...** < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep) < [**Feature Model Editor**](https://github.com/tthuem/FeatureIDE/wiki/Feature-Model-Editor)
 
+<!-- Introduction -->
 Sometimes it is required to express more complex constraints inside a feature model than e.g. "feature *A* requires parent feature". However, to formulate such constraints you can use the *ConstraintDialog* which is a text-editor with auto-completion supported, auto-validity checks and other tools. 
 
+<!-- Outline -->
+1. Overview
+	1.1. Create New Constraints
+	1.2. Create New Constraints Starting with Selection
+	1.3. Editing of Existing Constraints
+	1.4. Remove Existing Constraints
+	1.5. Saving changes
+2. More in Detail
+
+<!-- Content -->
 ![Constraint Dialog ](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/ConstraintDialog.png)
 
 #### Create New Constraints
@@ -20,14 +32,14 @@ You can edit a constraint inside a feature model by right-clicking on it, follow
 ![Edit existing Constraint](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/EditConstraint.png)
 
 #### Remove Existing Constraints
-By hitting *DEL* on you keyboard you can remove a selected constraint from your model. Alternatively, you can also use the popup menu by right-clicking on the constraint you want to remove.
+By hitting *DEL* on your keyboard you can remove a selected constraint from your model. Alternatively, you can also use the popup menu by right-clicking on the constraint you want to remove.
 
 #### Saving changes
 When you finished your work, you can save you constraint to your model. Afterwards your constraint will be displayed below your feature model view where you can edit or remove it by right-clicking on it.
 
 ## More in Detail
 
-The dialog containts of five regions, from up to down: 
+The dialog contains of five regions, from up to down: 
 
 
 ### 1. The status information panel
@@ -47,7 +59,7 @@ Here you can click on to automatically copy-paste a operator into the free-text 
 
 ![Operator List](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/OperatorList.png)
 
-### 4. A free-text editor where you can formulate constraints acording to the grammar
+### 4. A free-text editor where you can formulate constraints according to the grammar
 This control is the central element inside the *ConstraintDialog*. Here you can formulate your constraint as a first-order-logic like text, containing feature names and operators. Please note the grammar below.
 
 ![TextField](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/ConstraintDialogText.png)
@@ -60,7 +72,7 @@ Where you can save or abort your constraint.
 Please note, that depending on the complexity of your model some constraint/feature model checks could be delayed and not finished when you want to save your constraint. In this case the dialog presents a **Save anyway** OK-Button and a short description inside the info-area (see list item 1, above). However, as long as your constraint matches the grammar, you can store/update it. Only if your constraint contains syntax error, you won't be able to store it.
 
 ## Creating Constraints with or without the keyboard
-The *ConstraintDialog* is designed to be used with both - mouse or keyboard. You can completely edit your constraint by using the feature list and operator list without hitting any key on your keyboard. Alternatively you can input you constraint as text directly. In this case an automatic **Content Proposal Popup** will assist you while writing. This proposal opens either after 500ms or immediately by pressing *Ctrl+Space* shortcut. It contains the list of features and operators and supports auto-completition.
+The *ConstraintDialog* is designed to be used with both - mouse or keyboard. You can completely edit your constraint by using the feature list and operator list without hitting any key on your keyboard. Alternatively you can input you constraint as text directly. In this case an automatic **Content Proposal Popup** will assist you while writing. This proposal opens either after 500ms or immediately by pressing *Ctrl+Space* shortcut. It contains the list of features and operators and supports auto-completion.
 
 ## Constraint Free Style Text Input and it's Grammar	
 A constraint is built of features, operators and braces, e.g. 
@@ -82,7 +94,7 @@ where *My Feature* contains white spaces and the user feature *Operators* requir
 ## Live-Checks On Your Constraint	
 Depending on your model, your input will have some affects to the model which may not be wanted or may not be obvious. One can image a constraint to exclude some features when a specific one is selected. But this could lead to a feature inside the feature model that could never be selected anymore (*Dead feature*). As the feature modeler assist you with those analysis, the ConstraintEditor does it too while you are writing you constraint. Here, the following checks are executed on your model (those checks *assume* that you will save your constraint and check how this influences the model):
 
-1. Is your cosntraint a tautology?
+1. Is your constraint a tautology?
 2. Is the model satisfiable at all with you constraint?
 3. Does your constraint voids the model?
 4. Does your constraint produce features which are not optional although they should be?
