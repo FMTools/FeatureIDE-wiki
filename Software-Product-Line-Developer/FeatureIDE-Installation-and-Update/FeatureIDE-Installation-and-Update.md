@@ -6,6 +6,7 @@ under construction
 
 <!-- Outline -->
 
+
 <!-- Content -->
 1. Download Eclipse from https://eclipse.org/downloads/
 - Unzip Eclipse into a folder where you have full permissions (it is recommended not to use the "program files" folder) 
