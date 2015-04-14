@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer) < [**Development Process in detail**](https://github.com/tthuem/FeatureIDE/wiki/Development-Process-in-detail) < [**Jobs in FeatureIDE**](https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < ... < [**Development Process in detail**](https://github.com/tthuem/FeatureIDE/wiki/Development-Process-in-detail) < [**Jobs in FeatureIDE**](https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
 
 <!-- Introduction -->
 This table gives an overview of all classes extending UIJob. They might affect the responsiveness of the UI if they are nonperformant, high load, or scheduled with too high priority.
