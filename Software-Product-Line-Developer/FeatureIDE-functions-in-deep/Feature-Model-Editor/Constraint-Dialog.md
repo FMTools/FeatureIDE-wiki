@@ -6,7 +6,7 @@ Sometimes it is required to express more complex constraints inside a feature mo
 
 <!-- Outline -->
 1. [Overview] (#overview)
-	1. [Create New Constraints] (create-new-constraints)
+	1. [Create New Constraints] (#create-new-constraints)
 	2. [Create New Constraints Starting with Selection] (#create-new-constraints-starting-with-selection)
 	3. [Editing of Existing Constraints](#editing-of-existing-constraints)
 	4. [Remove Existing Constraints](#remove-existing-constraints)
@@ -15,7 +15,7 @@ Sometimes it is required to express more complex constraints inside a feature mo
 
 <!-- Content -->
 
-## Overview
+### Overview
 
 #### Create New Constraints
 To open the *ConstraintDialog*, right-click on a feature name inside a feature model and select *"Create Constraint"* in the popup menu. This will open the ConstraintDialog with an empty input textfield. 
@@ -38,7 +38,7 @@ By hitting *DEL* on your keyboard you can remove a selected constraint from your
 #### Saving changes
 When you finished your work, you can save you constraint to your model. Afterwards your constraint will be displayed below your feature model view where you can edit or remove it by right-clicking on it.
 
-## More in Detail
+### More in Detail
 
 The dialog contains of five regions, from up to down: 
 
