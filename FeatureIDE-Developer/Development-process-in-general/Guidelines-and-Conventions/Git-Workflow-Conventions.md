@@ -1,3 +1,12 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < *** < [**Development Process in general**](https://github.com/tthuem/FeatureIDE/wiki/Development Process in general) < [**Guidelines and Conventions**](https://github.com/tthuem/FeatureIDE/wiki/Guidelines-and-Conventions)
+
+<!-- Introduction -->
+
+<!-- Outline -->
+
+
+<!-- Content -->
 FeatureIDE is, as you might already have seen, hosted at github. So the main tool we are using is git.
 As FeatureIDE has a wide range of developers we need to set up a common git workflow. For a full overview of the most common best-practice stuff, see this link: http://sethrobertson.github.io/GitBestPractices/
 

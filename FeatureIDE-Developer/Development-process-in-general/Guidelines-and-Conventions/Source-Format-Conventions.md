@@ -1,3 +1,12 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < *** < [**Development Process in general**](https://github.com/tthuem/FeatureIDE/wiki/Development Process in general) < [**Guidelines and Conventions**](https://github.com/tthuem/FeatureIDE/wiki/Guidelines-and-Conventions)
+
+<!-- Introduction -->
+
+<!-- Outline -->
+
+<!-- Content -->
+
 To customize the FeatureIDE source conventions edit the conventions file:
 de.ovgu.featureide.fm.core.Conventions.xml
 
