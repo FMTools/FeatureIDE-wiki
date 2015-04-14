@@ -5,7 +5,7 @@
 The **statistic view** for FeatureIDE-projects displays general information about a FeatureIDE project (the project of the current file in the editor). The statistics contain information about the feature model, the implementation, and the specification of the product line. 
 
 <!-- Outline -->
-[1. Statistics of the feature model (#1-statistics-of-the-feature-model)
+[1. Statistics of the feature model] (#1-statistics-of-the-feature-model)
 [2. Statistic of product-line implementation] (#2-statistic-of-product-line-implementation)
 [3. Statistic of product-line specification] (#3-statistic-of-product-line-specification)
 
