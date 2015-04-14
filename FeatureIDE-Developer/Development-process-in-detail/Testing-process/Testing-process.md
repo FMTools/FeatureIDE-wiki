@@ -1,7 +1,11 @@
-under construction
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer) < [**Development Process in detail**](https://github.com/tthuem/FeatureIDE/wiki/Development-Process-in-detail)
 
+<!-- Introduction -->
+under construction
 main page describing the testing process for a FeatureIDE developer after applying changes or extensions to FeatureIDE
 
+<!-- Quick-Navigation-Table -->
 ### Quick-Navigation:
 
 <table>
@@ -54,3 +58,5 @@ main page describing the testing process for a FeatureIDE developer after applyi
 		<td>description under construction</td>
 	</tr>
 </table>
+
+<!-- Additional Content -->
