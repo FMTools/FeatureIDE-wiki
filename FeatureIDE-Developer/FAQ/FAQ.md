@@ -3,8 +3,6 @@
 
 <!-- Introduction -->
 
-<!-- Introduction -->
-
 <!-- Outline -->
 
 <!-- Content -->
