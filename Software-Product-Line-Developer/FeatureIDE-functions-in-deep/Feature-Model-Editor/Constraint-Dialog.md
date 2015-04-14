@@ -18,9 +18,13 @@ Sometimes it is required to express more complex constraints inside a feature mo
 		3. [The list of available operators (and, or, ...)] (#3-the-list-of-available-operators-and-or-)
 		4. [A free-text editor where you can formulate constraints according to the grammar] (#4-a-free-text-editor-where-you-can-formulate-constraints-according-to-the-grammar)
 		5. [The dialog's control buttons] (#5-the-dialogs-control-buttons)
+	2. [About different States to Leaving the Dialog] (#about-different-states-to-leaving-the-dialog)
+	3. [Creating Constraints with or without the keyboard] (#creating-constraints-with-or-without-the-keyboard)
+	4. [Constraint Free Style Text Input and it's Grammar] (#constraint-free-style-text-input-and-its-grammar)
+		1. [The Need and Use of Quotes] (#the-need-and-use-of-quotes)
+	5. [Live-Checks On Your Constraint](#live-checks-on-your-constraint)
 
 <!-- Content -->
-
 ## 1. Overview
 
 ### 1.i. Create New Constraints
@@ -46,43 +50,39 @@ When you finished your work, you can save you constraint to your model. Afterwar
 
 ## 2. More in Detail
 
-### 2.i.1 Elements of the dialog
+### 2.i Elements of the dialog
 The dialog contains of five regions, from up to down: 
 
-
-### 2.i. The status information panel
+#### 2.i.a. The status information panel
 This panel contains a short info about the current dialog's state. This could be either creating or editing a constraint. Moreover it displays information, warnings or and details if an error occurs.
 
 ![Info Panel](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/InfoPanel.png)
 
-
-### 2.ii. A list of available features and a filtering method for this list 
+#### 2.i.b. A list of available features and a filtering method for this list 
 Here you can click on to automatically copy-paste your selected feature into the free-text editor (see list item 4) at the current caret position. 
 
 ![Feature List](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/FeatureList.png)
 
-
-### 2.iii. The list of available operators (and, or, ...)
+#### 2.i.c. The list of available operators (and, or, ...)
 Here you can click on to automatically copy-paste a operator into the free-text editor (see list item 4).
 
-![Operator List](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/OperatorList.png)
+![Operator List](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/OperatorList.png)
 
-### 2.iv. A free-text editor where you can formulate constraints according to the grammar
+#### 2.i.d. A free-text editor where you can formulate constraints according to the grammar
 This control is the central element inside the *ConstraintDialog*. Here you can formulate your constraint as a first-order-logic like text, containing feature names and operators. Please note the grammar below.
 
 ![TextField](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/ConstraintDialogText.png)
 
-
-### 2.v. The dialog's control buttons
+#### 2.i.e. The dialog's control buttons
 Where you can save or abort your constraint. 
 
-## About different States to Leaving the Dialog
+### 2.ii. About different States to Leaving the Dialog
 Please note, that depending on the complexity of your model some constraint/feature model checks could be delayed and not finished when you want to save your constraint. In this case the dialog presents a **Save anyway** OK-Button and a short description inside the info-area (see list item 1, above). However, as long as your constraint matches the grammar, you can store/update it. Only if your constraint contains syntax error, you won't be able to store it.
 
-## Creating Constraints with or without the keyboard
+### 2.iii. Creating Constraints with or without the keyboard
 The *ConstraintDialog* is designed to be used with both - mouse or keyboard. You can completely edit your constraint by using the feature list and operator list without hitting any key on your keyboard. Alternatively you can input you constraint as text directly. In this case an automatic **Content Proposal Popup** will assist you while writing. This proposal opens either after 500ms or immediately by pressing *Ctrl+Space* shortcut. It contains the list of features and operators and supports auto-completion.
 
-## Constraint Free Style Text Input and it's Grammar	
+### 2.iv. Constraint Free Style Text Input and it's Grammar	
 A constraint is built of features, operators and braces, e.g. 
 
 ```FeatureA and not(FeatureB implies not (FeatureC or (FeatureD iff FeatureE)))```
@@ -92,14 +92,14 @@ The editor supports you with syntax-highlighting for keywords. Those keywords ar
 * **Operators**: (and, or, not, implies, iff) and
 * **Braces**: ( and )
 
-### The Need and Use of Quotes
+#### 2.iv.a. The Need and Use of Quotes
 If a feature to insert contains *white spaces* or conflicts to on **keywords** above, it has to be surrounded with quotes, e.g. 
 
 ```("My Feature" implies Operators) and (Operators implies ("or" or "and"))``` 
 
 where *My Feature* contains white spaces and the user feature *Operators* requires two other feature which names are exactly like the operators in the constraint grammar. However, both the list of features and the content proposal assist you with this handling. If you select a feature where quotes are needed both controls will automatically insert them.
 
-## Live-Checks On Your Constraint	
+### 2.v. Live-Checks On Your Constraint	
 Depending on your model, your input will have some affects to the model which may not be wanted or may not be obvious. One can image a constraint to exclude some features when a specific one is selected. But this could lead to a feature inside the feature model that could never be selected anymore (*Dead feature*). As the feature modeler assist you with those analysis, the ConstraintEditor does it too while you are writing you constraint. Here, the following checks are executed on your model (those checks *assume* that you will save your constraint and check how this influences the model):
 
 1. Is your constraint a tautology?
