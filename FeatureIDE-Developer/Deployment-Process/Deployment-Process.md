@@ -24,10 +24,10 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Nightly-Builds">Nightly Builds</a>
+			<a align="center" href="/tthuem/FeatureIDE/wiki/Nightly-Builds">Nightly Builds</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/New-Releases">New Releases</a>
+			<a align="center" href="/tthuem/FeatureIDE/wiki/New-Releases">New Releases</a>
 		</td>
 	</tr>
 	<tr>
