@@ -6,11 +6,11 @@ Sometimes it is required to express more complex constraints inside a feature mo
 
 <!-- Outline -->
 1. Overview
-	1.1. Create New Constraints
-	1.2. Create New Constraints Starting with Selection
-	1.3. Editing of Existing Constraints
-	1.4. Remove Existing Constraints
-	1.5. Saving changes
+	1. Create New Constraints
+	2. Create New Constraints Starting with Selection
+	3. Editing of Existing Constraints
+	4. Remove Existing Constraints
+	5. Saving changes
 2. More in Detail
 
 <!-- Content -->
