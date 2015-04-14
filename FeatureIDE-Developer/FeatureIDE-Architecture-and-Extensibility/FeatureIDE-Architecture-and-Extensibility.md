@@ -1,7 +1,11 @@
-Once you start developing with FeatureIDE, you may be interested in its architecure. For a detailed description you can view this [presentation](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/slides/featureide-2-getstarted.pdf).
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer)
 
+<!-- Introduction -->
+Once you start developing with FeatureIDE, you may be interested in its architecure. For a detailed description you can view this [presentation](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/slides/featureide-2-getstarted.pdf).
 Main Page FeatureIDE-Architecture-and-Extensibility
 
+<!-- Quick-Navigation-Table -->
 ### Quick-Navigation:
 
 <table>
@@ -54,3 +58,4 @@ Main Page FeatureIDE-Architecture-and-Extensibility
 		<td>description under construction</td>
 	</tr>
 </table>
+<!-- Additional Content -->

@@ -1,5 +1,10 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer) < [**FeatureIDE Architecture and Extensibility**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Architecture-and-Extensibility)
+
+<!-- Introduction -->
 under construction!
 
+<!-- Quick-Navigation-Table -->
 ### Quick-Navigation:
 
 <table>
@@ -62,3 +67,5 @@ under construction!
 		<td>description under construction</td>
 	</tr>
 </table>
+
+<!-- Additional Content -->

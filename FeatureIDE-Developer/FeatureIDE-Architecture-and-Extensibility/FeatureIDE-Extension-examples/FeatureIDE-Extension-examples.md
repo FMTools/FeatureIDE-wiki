@@ -1,5 +1,10 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer) < [**FeatureIDE Architecture and Extensibility**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Architecture-and-Extensibility)
+
+<!-- Introduction -->
 Main Page FeatureIDE Extension Examples
 
+<!-- Quick-Navigation-Table -->
 ### Quick-Navigation:
 
 <table>
@@ -52,3 +57,4 @@ Main Page FeatureIDE Extension Examples
 		<td>description under construction</td>
 	</tr>
 </table>
+<!-- Additional Content -->
