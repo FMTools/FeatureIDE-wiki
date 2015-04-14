@@ -1,3 +1,12 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Overview**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Overview)
+
+<!-- Introduction -->
+under construction
+
+<!-- Outline -->
+
+<!-- Content -->
 Plugins
 
 * de.ovgu.featureide.core - common functionality of FeatureIDE: nature, builders, marker, common model, CollaborationModel/FSTModel
