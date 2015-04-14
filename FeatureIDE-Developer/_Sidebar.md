@@ -23,6 +23,6 @@
 	* [Eclipse features] (https://github.com/tthuem/FeatureIDE/wiki/Eclipse-Features)
 	* [Jobs in FeatureIDE] (https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
 * [Deployment Process] (https://github.com/tthuem/FeatureIDE/wiki/Deployment-Process)
-	* [Nightly Build] (https://github.com/tthuem/FeatureIDE/wiki/Nightly-Build)
+	* [Nightly Build] (https://github.com/tthuem/FeatureIDE/wiki/Nightly-Builds)
 	* [New Releases] (https://github.com/tthuem/FeatureIDE/wiki/New-Releases)
 * [**FAQ**] (FAQ)
