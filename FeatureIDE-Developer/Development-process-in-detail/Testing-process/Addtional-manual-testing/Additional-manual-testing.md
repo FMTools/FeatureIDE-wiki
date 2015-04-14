@@ -4,6 +4,7 @@
 <!-- Introduction -->
 Main page for the description of manual tests, which are not part of the general user functionality but has to be tested after introducing changes to a specific part of FeatureIDE.
 
+<!-- Quick-Navigation-Table -->
 ### Quick-Navigation:
 
 <table>
@@ -106,3 +107,5 @@ Main page for the description of manual tests, which are not part of the general
 		<td>description under construction</td>
 	</tr>
 </table>
+
+<!-- Content -->
