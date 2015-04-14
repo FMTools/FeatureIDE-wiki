@@ -5,24 +5,24 @@
 Sometimes it is required to express more complex constraints inside a feature model than e.g. "feature *A* requires parent feature". However, to formulate such constraints you can use the *ConstraintDialog* which is a text-editor with auto-completion supported, auto-validity checks and other tools. 
 
 <!-- Outline -->
-1. [Overview] (#overview)
-	1. [Create New Constraints] (#create-new-constraints)
-	2. [Create New Constraints Starting with Selection] (#create-new-constraints-starting-with-selection)
-	3. [Editing of Existing Constraints](#editing-of-existing-constraints)
-	4. [Remove Existing Constraints](#remove-existing-constraints)
-	5. [Saving changes](#saving-changes)
-2. [More in Detail](#more-in-detail)
-	1. [Elements of the dialog]
-		1. [The status information panel] (#1-the-status-information-panel)
-		2. [A list of available features and a filtering method for this list] (#2-a-list-of-available-features-and-a-filtering-method-for-this-list)
-		3. [The list of available operators (and, or, ...)] (#3-the-list-of-available-operators-and-or-)
-		4. [A free-text editor where you can formulate constraints according to the grammar] (#4-a-free-text-editor-where-you-can-formulate-constraints-according-to-the-grammar)
-		5. [The dialog's control buttons] (#5-the-dialogs-control-buttons)
-	2. [About different States to Leaving the Dialog] (#about-different-states-to-leaving-the-dialog)
-	3. [Creating Constraints with or without the keyboard] (#creating-constraints-with-or-without-the-keyboard)
-	4. [Constraint Free Style Text Input and it's Grammar] (#constraint-free-style-text-input-and-its-grammar)
-		1. [The Need and Use of Quotes] (#the-need-and-use-of-quotes)
-	5. [Live-Checks On Your Constraint](#live-checks-on-your-constraint)
+1. [Overview] (#1-overview)
+	1. [Create New Constraints] (#1i-create-new-constraints)
+	2. [Create New Constraints Starting with Selection] (#1ii-create-new-constraints-starting-with-selection)
+	3. [Editing of Existing Constraints](#1iii-editing-of-existing-constraints)
+	4. [Remove Existing Constraints](#1iv-remove-existing-constraints)
+	5. [Saving changes](#1v-saving-changes)
+2. [More in Detail](#2-more-in-detail)
+	1. [Elements of the dialog](#2-elements-of-the-dialog)
+		1. [The status information panel] (#2ia-the-status-information-panel)
+		2. [A list of available features and a filtering method for this list] (#2ib-a-list-of-available-features-and-a-filtering-method-for-this-list)
+		3. [The list of available operators (and, or, ...)] (2ic-#the-list-of-available-operators-and-or-)
+		4. [A free-text editor where you can formulate constraints according to the grammar] (#2id-a-free-text-editor-where-you-can-formulate-constraints-according-to-the-grammar)
+		5. [The dialog's control buttons] (#2ie-the-dialogs-control-buttons)
+	2. [About different States to Leaving the Dialog] (#2ii-about-different-states-to-leaving-the-dialog)
+	3. [Creating Constraints with or without the keyboard] (#2iii-creating-constraints-with-or-without-the-keyboard)
+	4. [Constraint Free Style Text Input and it's Grammar] (#2iv-constraint-free-style-text-input-and-its-grammar)
+		1. [The Need and Use of Quotes] (#2iva-the-need-and-use-of-quotes)
+	5. [Live-Checks On Your Constraint](#2v-live-checks-on-your-constraint)
 
 <!-- Content -->
 ## 1. Overview
