@@ -17,7 +17,7 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 	</tr>
 	<tr>
 		<!--td width="120px"><p align="center"><img align="center" height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td-->
-		<td width="120px"><p align="center"><img width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/FeatureIDElogo.png"></p></td>
+		<td width="120px"><p align="center"><img width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDElogo.png"></p></td>
 		<td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
 		<td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
 		<!--td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td-->
