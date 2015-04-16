@@ -5,5 +5,5 @@
 under construction
 
 <p align="center">
-	<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+	<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 </p>

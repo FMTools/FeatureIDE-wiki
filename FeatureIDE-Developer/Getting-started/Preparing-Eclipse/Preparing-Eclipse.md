@@ -23,7 +23,7 @@ Setup guide to develop FeatureIDE and new extensions with eclipse
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="70" width="140" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/FeatureIDElogo.png">
+				<img height="70" width="140" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDElogo.png">
 			</p>
 		</td>
 		<td width="160px">

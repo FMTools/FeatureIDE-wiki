@@ -19,63 +19,63 @@ under construction
 
 <td width="265px">
 	<p align="center">
-		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 	</p>
 </td>
 
 # Section_1
 <td width="265px">
 	<p align="center">
-		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 	</p>
 </td>
 
 ## Subsection_11
 <td width="265px">
 	<p align="center">
-		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 	</p>
 </td>
 
 ## Subsection_12
 <td width="265px">
 	<p align="center">
-		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 	</p>
 </td>
 
 ### Subsubsection_121
 <td width="265px">
 	<p align="center">
-		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 	</p>
 </td>
 
 ### Subsubsection_122
 <td width="265px">
 	<p align="center">
-		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 	</p>
 </td>
 
 ## Subsection_13
 <td width="265px">
 	<p align="center">
-		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 	</p>
 </td>
 
 # Section_2
 <td width="265px">
 	<p align="center">
-		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 	</p>
 </td>
 
 # Section_3
 <td width="265px">
 	<p align="center">
-		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png">
+		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 	</p>
 </td>
 

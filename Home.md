@@ -16,11 +16,11 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 
 	</tr>
 	<tr>
-		<!--td width="120px"><p align="center"><img align="center" height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td-->
+		<!--td width="120px"><p align="center"><img align="center" height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png"></p></td-->
 		<td width="120px"><p align="center"><img width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDElogo.png"></p></td>
-		<td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
-		<td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td>
-		<!--td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p></td-->
+		<td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png"></p></td>
+		<td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png"></p></td>
+		<!--td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png"></p></td-->
 	</tr>
 	<tr>
 		<!--td></td-->
@@ -39,7 +39,7 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 <!--
 | under construction | About FeatureIDE | Software-Product-Line Developer | FeatureIDE Developer | under construction |
 | ------------------ | ---------------- | ------------------------------ | -------------------- | ------------------ |
-| <p align="center"><img align="center" height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Home/under_construction.png"></p> | empty | empty | empty | empty |
+| <p align="center"><img align="center" height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png"></p> | empty | empty | empty | empty |
 |  |  |  |  |  |
 |  |  |  |  |  |
 -->
