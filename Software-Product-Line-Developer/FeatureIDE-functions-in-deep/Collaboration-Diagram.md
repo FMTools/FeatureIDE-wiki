@@ -29,23 +29,24 @@ The function of the **toolbar** from left to right:
 
 nested-classes-button **OFF** (nested classes **are not** displayed):
 
-![nestedclasses_off](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_off.PNG) 
+[![nestedclasses_off](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_off.PNG)](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_off.PNG) 
 
 nested-classes-button **ON** (nested classes **are** displayed):
 
-![nestedclasses_on](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_on.PNG) 
+[![nestedclasses_on](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_on.PNG)](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_on.PNG) 
 
 
 ## Filtered for methods with refinements:
 
 methods-with-refinements-filter **OFF** (Only methods without refinements are displayed):                    
     
-![methods_refinements_off](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_off.PNG)
+[![methods_refinements_off](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_off.PNG)](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_off.PNG)
 
 methods-with-refinements-filter **ON** (All methods are displayed):    
  
-![Methods_refinements_on](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_on.PNG)
+[![Methods_refinements_on](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_on.PNG)
+](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_on.PNG)
 
 ##**Example project:**
 
-![Example](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/example.PNG)
+[![Example](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/example.PNG)](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/example.PNG)
