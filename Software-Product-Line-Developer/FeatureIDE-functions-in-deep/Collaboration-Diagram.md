@@ -12,7 +12,8 @@ The collaboration view can be filtered for fields, methods, refinements, contrac
 
 The function of the **toolbar** from left to right: 
 
-![Collaboration-view_toolbar](http://i.imgur.com/uRXr0ez.jpg)
+![Collaboration-view_toolbar](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/toolbar.PNG) 
+
 * access-modifiers-filter: filter for "private","public","protected" and "default" modifiers
 * fields-with-refinements-filter: toggles the display of fields with refinements
 * fields-without-refinements-filter: toggles the display of fields without refinements
@@ -28,23 +29,24 @@ The function of the **toolbar** from left to right:
 
 nested-classes-button **OFF** (nested classes **are not** displayed):
 
-[![nestedclasses_off](http://i.imgur.com/yKoFjewm.jpg)](http://i.imgur.com/yKoFjew.jpg) 
+[![nestedclasses_off](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_off.PNG)](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_off.PNG) 
 
 nested-classes-button **ON** (nested classes **are** displayed):
 
-[![nestedclasses_on](http://i.imgur.com/xKIsKnIm.jpg)](http://i.imgur.com/xKIsKnI.jpg) 
+[![nestedclasses_on](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_on.PNG)](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_on.PNG) 
 
 
 ## Filtered for methods with refinements:
 
 methods-with-refinements-filter **OFF** (Only methods without refinements are displayed):                    
     
-[![methods_refinements_off](http://i.imgur.com/EJLJ9bwm.jpg)](http://i.imgur.com/EJLJ9bw.jpg) 
+[![methods_refinements_off](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_off.PNG)](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_off.PNG)
 
 methods-with-refinements-filter **ON** (All methods are displayed):    
  
-[![Methods_refinements_on](http://i.imgur.com/kHdFgd7m.jpg)](http://i.imgur.com/kHdFgd7.jpg) 
+[![Methods_refinements_on](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_on.PNG)
+](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_on.PNG)
 
 ##**Example project:**
 
-[![example](http://i.imgur.com/fWFuEJDl.png)](http://i.imgur.com/fWFuEJD.png)
+[![Example](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/example.PNG)](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/example.PNG)
