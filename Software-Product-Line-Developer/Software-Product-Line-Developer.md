@@ -88,7 +88,7 @@ This part of the wiki describes how to use FeatureIDE as a developer of software
 	</tr>
 	<tr>
 <td>
-			<a href="https://github.com/tthuem/FeatureIDE/wiki/Tutorial-Start">Tutorial</a>
+			<a href="https://github.com/tthuem/FeatureIDE/wiki/Tutorial">Tutorial</a>
 		<td>
 			<a href="https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Samples</a>
 </td>
