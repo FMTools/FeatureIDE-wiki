@@ -19,43 +19,19 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		<th>
 			Configuration Editor
 		</th>
-		<th>
-			Collaboration Diagram
-		</th>
-		<th>
-			Statistic View
-		</th>
-		<th>
-			FeatureIDE Outline
-		</th>
 	</tr>
 	<tr>
-		<td width="106px">
+		<td width="213px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
-		<td width="106px">
+		<td width="213px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
-		<td width="106px">
-			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
-			</p>
-		</td>
-		<td width="106px">
-			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
-			</p>
-		</td>
-		<td width="106px">
-			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
-			</p>
-		</td>
-		<td width="106px">
+		<td width="213px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
@@ -77,6 +53,49 @@ For a detailed list of the main functionalities you can have a look at this [scr
 				<a href="/tthuem/FeatureIDE/wiki/Configuration-Editor">Configuration Editor</a>
 			</p>
 		</td>
+	</tr>
+	<tr>
+		<td>
+			description follows
+		</td>
+		<td>
+			description follows
+		</td>
+		<td>
+			description follows
+		</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th>
+			Collaboration Diagram
+		</th>
+		<th>
+			Statistic View
+		</th>
+		<th>
+			FeatureIDE Outline
+		</th>
+	</tr>
+	<tr>
+		<td width="213px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+			</p>
+		</td>
+		<td width="213px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+			</p>
+		</td>
+		<td width="213px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+			</p>
+		</td>
+	</tr>
+	<tr>
 		<td>
 			<p align="center">
 				<a href="/tthuem/FeatureIDE/wiki/Collaboration-Diagram">Collaboration Diagram</a>
@@ -94,15 +113,6 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		</td>
 	</tr>
 	<tr>
-		<td>
-			description follows
-		</td>
-		<td>
-			description follows
-		</td>
-		<td>
-			description follows
-		</td>
 		<td>
 			description follows
 		</td>
