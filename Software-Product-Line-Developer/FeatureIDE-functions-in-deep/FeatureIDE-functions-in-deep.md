@@ -25,29 +25,37 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		<th>
 			Statistic View
 		</th>
+		<th>
+			FeatureIDE Outline
+		</th>
 	</tr>
 	<tr>
-		<td width="128px">
+		<td width="106px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
-		<td width="128px">
+		<td width="106px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
-		<td width="128px">
+		<td width="106px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
-		<td width="128px">
+		<td width="106px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
-		<td width="128px">
+		<td width="106px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+			</p>
+		</td>
+		<td width="106px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
@@ -79,8 +87,16 @@ For a detailed list of the main functionalities you can have a look at this [scr
 				<a href="/tthuem/FeatureIDE/wiki/Statistics-View">Statistics View</a>
 			</p>
 		</td>
+		<td>
+			<p align="center">
+				<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-Outline">FeatureIDE Outline</a>
+			</p>
+		</td>
 	</tr>
 	<tr>
+		<td>
+			description follows
+		</td>
 		<td>
 			description follows
 		</td>
