@@ -10,10 +10,11 @@ This page gives an overview of different topics like structure or guidelines whi
 	1. [Structure of folder and files and the table of contents] (#i-structure-of-folders-and-files-and-the-table-of-contents)
 	2. [Naming Scheme] (#ii-naming-scheme)
 	3. [Naming conflicts] (#iii-naming-conflicts)
-3. [Standard page elements] ()
-4. [Types and structure of wiki pages] ()
+3. [Types and structure of wiki pages] ()
 	1. [Overview page] ()
 	2. [Details page] ()
+4. [Standard page elements] ()
+
 
 <!-- Content -->
 ## 1. Wiki edit and update process
@@ -38,16 +39,29 @@ The name of a page file is decisive to the title shown on this page. It works ba
 ### iii. Naming conflicts
 Naming conflicts occur if two pages have the same file name. The wiki needs unique names and ignores the folder structure at the same time. In the current version some of those section files exist. We need the same topic twice. One in each of both main sections. Therefore as a sub-element of the FeatureIDE developer main section the suffix *-[FeatureIDE-Dev]* is appended to the file name.
 
-## 3. Standard page elements
+## 3. Types and structure of wiki pages
+In the FeatureIDE wiki we differentiate two types of pages. The first one is an overview page to cover all information about a topic and is used every time we going to branch into subtopics and therefore link into subsections. Those subsections may contain overview pages or concentrate on a special topic with all of its characteristics in a detailed page. The structure and used elements are described in the next two sections.
 
-## 4. Types and structure of wiki pages
-
-### 4.i. Overview page
-
-### 4.ii. Details page
+### 3.i. Overview page
 
 
+### 3.ii. Detailed page
 
+## 4. Standard page elements
+In this section we give an overview of some page elements to define the usage on the wiki pages.
+
+### i. Heading
+Headings are used in a depth with a maximum of 3 and begin at the markdown command ("##"). That's why the commands are used in the hierarchy "##, ###, ####". The headings on overview pages are not numbered. On a detailed page headings are used in a numbered way to build up a structured content. A heading isn't numbered automatically. 
+The correct numbering has to be added manually based on the markdown numbering of the outline hierarchy (i.e. 2.i.b or 3.iv). The first level uses Arabic numbers followed by Latin numbers on the second level and small letters on the third level. 
+A heading has to be extended by adding the correct numbering as prefix in front of the heading title (i.e. 1.i.b. this a heading on level three).
+
+### ii. Breadcrumb navigation
+On every page a breadcrumb navigation is shown to provide an easier navigation to user. The breadcrumb has to be build manually and is based the following characteristics:
+* "**HOME**" < "**PPP**" < "**PP**" < "**P**"
+It starts with a link to the wiki itself as HOME. Considering the site hierarchy every parent (P) or parent of the parent (PP) and so on is shown in the breadcrumb. The breadcrumb navigation should be limited to a single line on the site. Therefore some parts of the hierarchy were left out. It's necessary to show the HOME link in front and the link to the direct parent and if it's possible higher parent (PP). In case of hiding some levels they are substituted by "..." (i.e. HOME < ... < PP < P).
+
+### iii. Images
+Every image is saved in the Assets folder. The images are stored in a folder hierarchy, which should be identical to the wiki structure. If a folder is not present it has to be generated. In contrast to the pages of the FeatureIDE wiki the images are referenced with a deep link. This may lead to long image references but is necessary to have a traceability for images as well.
 
 
 
