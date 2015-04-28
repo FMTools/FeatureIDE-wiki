@@ -7,7 +7,7 @@ This page gives an overview of different topics like structure or guidelines whi
 <!-- Outline -->
 1. [Wiki editing and  update process] (#1-wiki-edit-and-update-process)
 2. [Wiki structure in general] (#2-wiki-structure-in-general)
-	1. [Structure of folder, files and table of contents] (#i-structure-of-folder-files-and-table-of-contents)
+	1. [Structure of folder and files and the table of contents] (#i-structure-of-folder-and-files-and-the-table-of-contents)
 	2. [Naming Scheme] (#ii-naming-scheme)
 	3. [Naming conflicts] (#iii-naming-conflicts)
 3. [Standard page elements] ()
@@ -29,7 +29,7 @@ ssh://git@github.com/tthuem/FeatureIDE.wiki.git
 
 ## 2. Wiki structure in general
 This section describes some basic topics concerning the structure of the FeatureIDE wiki.
-### i. Structure of folders, files and table of contents
+### i. Structure of folders and files and the table of contents
 The files and folders have to be synchronized with the structure of the topics in the table of contents (TOC) side to have an easier traceability of the specific pages. A page and its subpages are organized in a single folder named liked the page. A folder may also contain other folders to organize a subpage and its subsubpage. In general a depth of 3 the maximum amount of sublevels for the TOC. To use a deeper structure its necessary to follow the existing organization of folders and pages. Additional you have to build a special TOC (_Sidebar.md) to cover all of the content for the content on the levels 4 to 6 considering the maximum depth of 3 also. The TOC is used for all files in the same and underlying folders.
 
 ### ii. Naming Scheme
