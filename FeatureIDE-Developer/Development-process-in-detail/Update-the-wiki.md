@@ -47,9 +47,9 @@ In the FeatureIDE wiki we differentiate two types of pages. The first one is an 
 
 ### 3.i. Overview page
 The overview pages are structured as follows:
-* Breadcrumb navigation:  We use a manually build breadcrumb navigation to have an easier overview of the page hierarchy and allows a quick navigation to a parent site. The concrete structure of the breadcrumb navigation is shown in section [4.ii] (#ii-breadcrumb-navigation)
-* Short description: This part of the page gives a short description of the content of the current page.
-* Quick navigation: As a central part of the overview page the quick navigation, especially the navigation table, is used to give an overview of the child pages. Therefore a table structure is used. It contains the following informations.
+* **Breadcrumb navigation:**  We use a manually build breadcrumb navigation to have an easier overview of the page hierarchy and allows a quick navigation to a parent site. The concrete structure of the breadcrumb navigation is shown in section [4.ii] (#ii-breadcrumb-navigation)
+* **Short description:** This part of the page gives a short description of the content of the current page.
+* **Quick navigation:** As a central part of the overview page the quick navigation, especially the navigation table, is used to give an overview of the child pages. Therefore a table structure is used. It contains the following informations.
   * If you create a new overview page it should be the easiest way to copy the html table from an existing page and modify it for the special needs. We are not using the markdown commands. The table is directly build in html.
   * The table has to be modified to have a fixed width in its tds. It has to be calculated based on the table width value of 640px. According to the amount of columns the table with is divided and rounded to have all parts of equal width. (640px/3 = 213,333 -> 213px)
   * If you want use more than five columns the content has to be spread into two separate tables. There are overview pages which use two of those tables you may take a look at and copying it.
@@ -61,10 +61,10 @@ The overview pages are structured as follows:
 	
 ### 3.ii. Detailed page
 Such a page describes a topic in detail. This page has no subpages and is based on a fixed structure also:
-* Breadcrumb navigation:  We use a manually build breadcrumb navigation to have an easier overview of the page hierarchy and allows a quick navigation to a parent site. The concrete structure of the breadcrumb navigation is shown in section [4.ii] (#ii-breadcrumb-navigation)
-* Short description: This part of the page gives a short description of the content of the current page.
-* Outline: Overview of the content structure by referencing the headings in the page. How to deal with headings and how to reference them is described in section [4.i.](#i-heading)
-* Content: The content represents the main part of page.
+* **Breadcrumb navigation:**  We use a manually build breadcrumb navigation to have an easier overview of the page hierarchy and allows a quick navigation to a parent site. The concrete structure of the breadcrumb navigation is shown in section [4.ii] (#ii-breadcrumb-navigation)
+* **Short description:** This part of the page gives a short description of the content of the current page.
+* **Outline:** Overview of the content structure by referencing the headings in the page. How to deal with headings and how to reference them is described in section [4.i.](#i-heading)
+* **Content:** The content represents the main part of page.
 
 ## 4. Standard page elements
 In this section we give an overview of some page elements to define the usage on the wiki pages.
