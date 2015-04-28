@@ -7,7 +7,7 @@ This page gives an overview of different topics like structure or guidelines whi
 <!-- Outline -->
 1. [Wiki editing and  update process] (#1-wiki-edit-and-update-process)
 2. [Wiki structure in general] (#2-wiki-structure-in-general)
-	1. [Structure of folder and files and the table of contents] (#i-structure-of-folder-and-files-and-the-table-of-contents)
+	1. [Structure of folder and files and the table of contents] (#i-structure-of-folders-and-files-and-the-table-of-contents)
 	2. [Naming Scheme] (#ii-naming-scheme)
 	3. [Naming conflicts] (#iii-naming-conflicts)
 3. [Standard page elements] ()
