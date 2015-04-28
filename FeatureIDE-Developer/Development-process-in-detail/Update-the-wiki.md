@@ -66,6 +66,8 @@ Such a page describes a topic in detail. This page has no subpages and is based 
 * **Outline:** Overview of the content structure by referencing the headings in the page. How to deal with headings and how to reference them is described in section [4.i.](#i-heading)
 * **Content:** The content represents the main part of page.
 
+The current page is an example for a detailed page.
+
 ## 4. Standard page elements
 In this section we give an overview of some page elements to define the usage on the wiki pages.
 
