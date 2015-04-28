@@ -25,10 +25,10 @@ In the development process one step is the edit or update of one or more pages o
 
 To have a consistent edit or update process its necessary to work with a local copy of the wiki. Therefore you have to clone it from the git. To prevent errors in the file structure its considered to add new page only after cloning the wiki repository locally. 
 
-To work this way causes a disadvantage for windows users. Every change to the wiki has to be deployed and checked in the live system. There is a way for other os to run the wiki locally. (https://github.com/gollum/gollum)
+To work this way causes a disadvantage for windows users. Every change to the wiki has to be deployed and checked in the live system. There is a way for other OS to run the wiki locally. (https://github.com/gollum/gollum)
 
 To clone the wiki locally follow the usual steps to clone a repository. On github only the https-link is given. 
-Following link allows you to use ssh and prevents to provide username and password everytime you are pushing, pulling and so on:
+Following link allows you to use ssh and prevents to provide user name and password every time you are pushing, pulling and so on:
 ssh://git@github.com/tthuem/FeatureIDE.wiki.git
 
 ## 2. Wiki structure in general
@@ -46,9 +46,25 @@ Naming conflicts occur if two pages have the same file name. The wiki needs uniq
 In the FeatureIDE wiki we differentiate two types of pages. The first one is an overview page to cover all information about a topic and is used every time we going to branch into subtopics and therefore link into subsections. Those subsections may contain overview pages or concentrate on a special topic with all of its characteristics in a detailed page. The structure and used elements are described in the next two sections.
 
 ### 3.i. Overview page
-
-
+The overview pages are structured as follows:
+* Breadcrumb navigation:  We use a manually build breadcrumb navigation to have an easier overview of the page hierarchy and allows a quick navigation to a parent site. The concrete structure of the breadcrumb navigation is shown in section [4.ii] (#ii-breadcrumb-navigation)
+* Short description: This part of the page gives a short description of the content of the current page.
+* Quick navigation: As a central part of the overview page the quick navigation, especially the navigation table, is used to give an overview of the child pages. Therefore a table structure is used. It contains the following informations.
+  * If you create a new overview page it should be the easiest way to copy the html table from an existing page and modify it for the special needs. We are not using the markdown commands. The table is directly build in html.
+  * The table has to be modified to have a fixed width in its tds. It has to be calculated based on the table width value of 640px. According to the amount of columns the table with is divided and rounded to have all parts of equal width. (640px/3 = 213,333 -> 213px)
+  * If you want use more than five columns the content has to be spread into two separate tables. There are overview pages which use two of those tables you may take a look at and copying it.
+  * Every subsection or subpage you want to lead to is represented by a column with the following rows:
+    * Topic of the subsection. (Title of the page behind this topic)
+	* Representative image for the topic. It may be difficult to create a matching image. Therefore its meaningful to reuse an existing one or the "under construction" image in the root folder.
+	* The third row covers a link to the subpage.
+	* In the last row you have to provide a short description of the content of the subpage.
+	
 ### 3.ii. Detailed page
+Such a page describes a topic in detail. This page has no subpages and is based on a fixed structure also:
+* Breadcrumb navigation:  We use a manually build breadcrumb navigation to have an easier overview of the page hierarchy and allows a quick navigation to a parent site. The concrete structure of the breadcrumb navigation is shown in section [4.ii] (#ii-breadcrumb-navigation)
+* Short description: This part of the page gives a short description of the content of the current page.
+* Outline: Overview of the content structure by referencing the headings in the page. How to deal with headings and how to reference them is described in section [4.i.](#i-heading)
+* Content: The content represents the main part of page.
 
 ## 4. Standard page elements
 In this section we give an overview of some page elements to define the usage on the wiki pages.
