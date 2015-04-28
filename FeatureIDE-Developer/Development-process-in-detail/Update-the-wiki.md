@@ -14,6 +14,9 @@ This page gives an overview of different topics like structure or guidelines whi
 	1. [Overview page] ()
 	2. [Details page] ()
 4. [Standard page elements] ()
+	1. Heading ()
+	2. Breadcrumb navigation ()
+	3. Images ()
 
 
 <!-- Content -->
@@ -57,8 +60,9 @@ A heading has to be extended by adding the correct numbering as prefix in front 
 
 ### ii. Breadcrumb navigation
 On every page a breadcrumb navigation is shown to provide an easier navigation to user. The breadcrumb has to be build manually and is based the following characteristics:
-* "**HOME**" < "**PPP**" < "**PP**" < "**P**"
-It starts with a link to the wiki itself as HOME. Considering the site hierarchy every parent (P) or parent of the parent (PP) and so on is shown in the breadcrumb. The breadcrumb navigation should be limited to a single line on the site. Therefore some parts of the hierarchy were left out. It's necessary to show the HOME link in front and the link to the direct parent and if it's possible higher parent (PP). In case of hiding some levels they are substituted by "..." (i.e. HOME < ... < PP < P).
+* "**HOME**" < "**PPP**" < "**PP**" < "**P**" It starts with a link to the wiki itself as HOME. Considering the site hierarchy every parent (P) or parent of the parent (PP) and so on is shown in the breadcrumb. 
+* The breadcrumb navigation should be limited to a single line on the site. Therefore some parts of the hierarchy were left out. It's necessary to show the HOME link in front and the link to the direct parent and if it's possible higher parent (PP). 
+* In case of hiding some levels they are substituted by "..." (i.e. HOME < ... < PP < P).
 
 ### iii. Images
 Every image is saved in the Assets folder. The images are stored in a folder hierarchy, which should be identical to the wiki structure. If a folder is not present it has to be generated. In contrast to the pages of the FeatureIDE wiki the images are referenced with a deep link. This may lead to long image references but is necessary to have a traceability for images as well.
