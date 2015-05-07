@@ -13,7 +13,7 @@ On the upper right there is a toolbar with buttons to filter/sort fields and met
 <!-- Content -->
 The functions of the **toolbar** from left to right are:       
 
-![Collaboration Outline Toolbar](http://i.imgur.com/X7MM4Im.jpg)
+![Collaboration Outline Toolbar](https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEOutline/toolbar.PNG)
 
 * Collapse all
 * Expand all
@@ -23,16 +23,16 @@ The functions of the **toolbar** from left to right are:
 * Drop down menu to switch between the Feature Context Outline and the Collaboration Outline
 
 ## Example for a project with nested classes
-![Collaboration Outline nested Classes Support](http://i.imgur.com/AqTfxeN.jpg)
+![Collaboration Outline nested Classes Support](https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEOutline/nestedClasses.PNG)
 
 ## Example CSharp project
-![Collaboration Outline CSharp Project](http://i.imgur.com/A4Ko7Mp.jpg)
+![Collaboration Outline CSharp Project](https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEOutline/CSharp.PNG)
 
 ## Example haskell project
-![Collaboration Outline Haskell Project](http://i.imgur.com/ENrTKcu.jpg)
+![Collaboration Outline Haskell Project](https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEOutline/haskell.PNG)
 
 ## Example C project
-![Collaboration Outline C Project](http://i.imgur.com/il1EWiH.jpg)
+![Collaboration Outline C Project](https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEOutline/C.PNG)
 
 
 
