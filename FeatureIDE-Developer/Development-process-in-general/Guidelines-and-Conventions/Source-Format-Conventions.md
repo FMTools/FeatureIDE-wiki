@@ -14,3 +14,6 @@ de.ovgu.featureide.fm.core.Conventions.xml
 2. Edit the imported convention with the "Edit.." button
 3. Activate the format for all FeatureIDE plug-ins: Project>Properties select FeatureIDE Convnetions in the drop down menu
 
+To format you source files use the auto format: Menu > Source > Format (Ctrl + Shift + F)
+
+**If you change the conventions apply it to all FeatureIDE plug-ins and save it to the Conventions.xml.**
