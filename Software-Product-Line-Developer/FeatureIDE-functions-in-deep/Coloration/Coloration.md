@@ -2,7 +2,8 @@
 [**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
 
 <!-- Introduction -->
-The coloration of the specific elements gives an overview.
+
+An example of how to colorate a featureHouse project.
 
 <!-- Outline -->
 1. [How to manipulate ColorProfiles] (#1-how-to-manipulate-colorprofiles)
@@ -32,7 +33,7 @@ Rightclick on a Featureproject to get into the FeatureIDE menu. To be able to co
 		
 ![Create new ColorProfile](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Coloration/DynamicMenuStructure.png)
 		
-Click Add Colorscheme to add a new Colorscheme
+Click Add Colorscheme to add a new Colorscheme.
 		
 ![Create new Colorscheme Wizard](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Coloration/AddProfile.png)
 		
@@ -102,24 +103,32 @@ If you press cancel changes will be discarded.
 ###3.iv. Project Explorer
 
 A general overview how the Project Explorer looks.
+
 ![Project Explorer](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Coloration/FH_explorer_overview.png)
 
 How the Package and composed Files look.
+<br>
+
 ![Project Explorer Package](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Coloration/FH_explorer_main_3colors.PNG)
-
+<br>
 How the Feature Folder Coloration looks in Feature House or AHEAD.
+<br>
 ![Project Explorer Features](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Coloration/FH_explorer_features.PNG)
-
+<br>
 ###3.v. Annotations and Highlighting
 
+Annotations in the composed File including Highlighting. Highlighting can be enabled or disabled in the JavaEditor context menu.
 ![Annotations and Highlighting](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Coloration/FOP_background_code.png)
-		
+
+Annotations in the feature File.
 ![Annotations and Highlighting2](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Coloration/FOP_background_code_red.png)
 
 ###3.vi. Configuration Tree/Advanced Configuration Tree		
 	
 ![Configuration Tree](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Coloration/configTree.png)
-		
+
+Advanced Configuration
+<br>
 ![Advanced Configuration Tree](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Coloration/advancedConfigTree.png)
 
 ##4. Different Composers
@@ -132,7 +141,7 @@ These projects do not have feature folders. The Preview of what kind of Feature 
 
 ###4.ii. FeatureHouse and AHEAD
 
-FeatureHouse and AHEAD both have feature folders. The previous Screenshot of our Project Explorer applies for AHEAD.
+FeatureHouse and AHEAD both have feature folders. The previous Screenshot in 3.iv. of our Project Explorer applies for AHEAD.
 		
 		
 		 

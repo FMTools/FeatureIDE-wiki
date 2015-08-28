@@ -36,7 +36,7 @@ The functions of the **toolbar** from left to right are:
 
 ## Coloration
 
-[coloration](https://github.com/tthuem/FeatureIDE/wiki/Coloration) is supported.
+[Coloration](https://github.com/tthuem/FeatureIDE/wiki/Coloration) is supported.
 
 
 

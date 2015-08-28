@@ -53,4 +53,4 @@ methods-with-refinements-filter **ON** (All methods are displayed):
 
 ## Coloration
 
-[coloration](https://github.com/tthuem/FeatureIDE/wiki/Coloration) is supported.
+[Coloration](https://github.com/tthuem/FeatureIDE/wiki/Coloration) is supported.

@@ -27,4 +27,4 @@
 
 For some generation tools, such as Antenna and AspectJ, the source and the build folder are the same.
 
-[coloration](https://github.com/tthuem/FeatureIDE/wiki/Coloration) is supported.
+[Coloration](https://github.com/tthuem/FeatureIDE/wiki/Coloration) is supported.
