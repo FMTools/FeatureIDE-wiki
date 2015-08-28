@@ -19,19 +19,27 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		<th>
 			Configuration Editor
 		</th>
+		<th>
+			Coloration
+		</th>
 	</tr>
 	<tr>
-		<td width="213px">
+		<td width="160px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
-		<td width="213px">
+		<td width="160px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
-		<td width="213px">
+		<td width="160px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+			</p>
+		</td>
+		<td width="160px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
@@ -53,6 +61,11 @@ For a detailed list of the main functionalities you can have a look at this [scr
 				<a href="/tthuem/FeatureIDE/wiki/Configuration-Editor">Configuration Editor</a>
 			</p>
 		</td>
+		<td>
+			<p align="center">
+				<a href="/tthuem/FeatureIDE/wiki/Coloration">Coloration</a>
+			</p>
+		</td>
 	</tr>
 	<tr>
 		<td>
@@ -63,6 +76,9 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		</td>
 		<td>
 			description follows
+		</td>
+		<td>
+			Coloration in FeatureIDE explained in detail.
 		</td>
 	</tr>
 </table>

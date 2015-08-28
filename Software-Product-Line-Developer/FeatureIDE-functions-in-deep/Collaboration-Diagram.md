@@ -50,3 +50,7 @@ methods-with-refinements-filter **ON** (All methods are displayed):
 ##**Example project:**
 
 [![Example](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/example.PNG)](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/example.PNG)
+
+## Coloration
+
+[coloration](https://github.com/tthuem/FeatureIDE/wiki/Coloration) is supported.
