@@ -20,7 +20,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 			Configuration Editor
 		</th>
 		<th>
-			Coloration
+			Colors
 		</th>
 	</tr>
 	<tr>
@@ -63,7 +63,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Coloration">Coloration</a>
+				<a href="/tthuem/FeatureIDE/wiki/Coloration">Colors</a>
 			</p>
 		</td>
 	</tr>

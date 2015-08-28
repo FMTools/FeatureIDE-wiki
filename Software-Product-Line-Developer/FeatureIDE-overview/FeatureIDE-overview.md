@@ -35,7 +35,7 @@ under construction
    - The guidsl Tool, S.P.L.O.T., Velvet, fmp: Feature Modeling Plug-in, SPL Conqueror
    - Export of cnf in dimacs format.
 
-[Coloration](https://github.com/tthuem/FeatureIDE/wiki/Coloration) is supported.
+[Colors](https://github.com/tthuem/FeatureIDE/wiki/Colors) are supported.
 
 For a detailed list of the main functionalities you can have a look at this [screenshots and videos](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/#screenshots).
 

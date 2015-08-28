@@ -37,4 +37,4 @@ We recommend not to use the source view to editor the configuration, as you do n
 src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/sourcepage.PNG">
 
 
-[Coloration](https://github.com/tthuem/FeatureIDE/wiki/Coloration) is supported.
+[Colors](https://github.com/tthuem/FeatureIDE/wiki/Colors) are supported.
