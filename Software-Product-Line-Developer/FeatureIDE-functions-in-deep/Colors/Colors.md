@@ -85,6 +85,7 @@ Overview of the colored Views in Eclipse.
 ###3.i. Feature DiagramEditor
 
 Colored Features in the Feature DiagramEditor.
+<br>
 ![colored Model](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Colors/coloredModel.png)
 
 ###3.ii. Collaboration Diagram
@@ -95,6 +96,7 @@ Colored Features in the Collaboration Diagram.
 ###3.iii. FeatureIDE Outline
 
 Colored Features in the FeatureIDE Outline.
+<br>
 ![FeautreIDE Outline](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Colors/FIDEOutline.png)
 
 ###3.iv. Project Explorer
