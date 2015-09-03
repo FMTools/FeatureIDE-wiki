@@ -115,7 +115,7 @@ Munge and Antenna projects do not have feature folders. The Preview which kind o
 
 ###3.v. Annotations and Highlighting
 
-Annotations in the composed File including Highlighting. Highlighting can be enabled or disabled in the JavaEditor context menu.
+Highlighting of composed files for FOP. COlors show from which module each method and fiels comes from.
 ![Annotations and Highlighting](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Colors/FOP_background_code.png)
 
 Annotations in the feature File.
