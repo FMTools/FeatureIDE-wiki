@@ -119,7 +119,7 @@ Highlighting of composed files for FOP. COlors show from which module each metho
 ![Annotations and Highlighting](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Colors/FOP_background_code.png)
 
 Annotations in the feature File.
-![Annotations and Highlighting2](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Colors/FOP_background_code_red.png)
+![Annotations and Highlighting2](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/Colors/FeatureAnnotation.png)
 
 ###3.vi. Configuration Tree/Advanced Configuration Tree		
 
