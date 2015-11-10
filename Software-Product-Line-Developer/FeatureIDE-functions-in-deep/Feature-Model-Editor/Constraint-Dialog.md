@@ -77,7 +77,7 @@ This control is the central element inside the *ConstraintDialog*. Here you can 
 Where you can save or abort your constraint. 
 
 ### 2.ii. About different States to Leaving the Dialog
-Please note, that depending on the complexity of your model some constraint/feature model checks could be delayed and not finished when you want to save your constraint. In this case the dialog presents a **Save anyway** OK-Button and a short description inside the info-area (see list item 1, above). However, as long as your constraint matches the grammar, you can store/update it. Only if your constraint contains syntax error, you won't be able to store it.
+Please note, that depending on the complexity of your model some constraint/feature model checks could be delayed and not finished when you want to save your constraint. In this case the dialog presents a **Save (Unchecked)** OK-Button and a short description inside the info-area (see list item 1, above). However, as long as your constraint matches the grammar, you can store/update it. Only if your constraint contains syntax error, you won't be able to store it.
 
 ### 2.iii. Creating Constraints with or without the keyboard
 The *ConstraintDialog* is designed to be used with both - mouse or keyboard. You can completely edit your constraint by using the feature list and operator list without hitting any key on your keyboard. Alternatively you can input you constraint as text directly. In this case an automatic **Content Proposal Popup** will assist you while writing. This proposal opens either after 500ms or immediately by pressing *Ctrl+Space* shortcut. It contains the list of features and operators and supports auto-completion.
