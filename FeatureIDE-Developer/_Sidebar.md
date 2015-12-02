@@ -12,7 +12,6 @@
 	* [Extensions Points] (https://github.com/tthuem/FeatureIDE/wiki/Extension-Points)
 	* [FeatureIDE Extension examples] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-extension-examples)
 * [Development Process in general] (https://github.com/tthuem/FeatureIDE/wiki/Development-Process-in-general)
-	* [Development Steps] (https://github.com/tthuem/FeatureIDE/wiki/Development-Steps)
 	* [Issue Workflow] (https://github.com/tthuem/FeatureIDE/wiki/Issue-Workflow)
 	* [Testing Process] (https://github.com/tthuem/FeatureIDE/wiki/Testing-Process-overview)
 	* [Guidelines and Conventions] (https://github.com/tthuem/FeatureIDE/wiki/Guidelines-and-Conventions)
