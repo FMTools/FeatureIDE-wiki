@@ -45,7 +45,6 @@ under construction!
 		<th>FeatureIDE Architecture and Extensibility</th>
 		<th>Development Process in general</th>
 		<th>Development Process in detail</th>
-		<th>Deployment Process</th>
 	</tr>
 	<tr>
 		<td width="160px">
@@ -63,11 +62,7 @@ under construction!
 				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
-		<td width="160px">
-			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
-			</p>
-		</td>
+		
 	</tr>
 	<tr>
 		<td>
@@ -79,12 +74,9 @@ under construction!
 		<td>
 			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
 		</td>
-		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
-		</td>
+
 	</tr>
 	<tr>
-		<td>description under construction</td>
 		<td>description under construction</td>
 		<td>description under construction</td>
 		<td>description under construction</td>
