@@ -193,7 +193,7 @@ public class Main {
 }
 ```
 
-Now create more <code>Java</code> files. Create one in each of the directories <code>Beautiful</code>, <code>Wonderful</code> and <code>World</code>. In these cases, activate the option **Refines** in the Wizard. Furthermore, all the <code>Java</code> files must have the same name <code>Main</code>.
+Now create more <code>Java</code> files. Create one in each of the directories <code>Beautiful</code>, <code>Wonderful</code> and <code>World</code>. All the <code>Java</code> files must have the same name <code>Main</code>.
 
 #### Source code for the Java-files
 Now edit the remaining <code>Java</code>-Files. Every feature will refine the method <code>print()</code> in the class <code>Main</code>.
