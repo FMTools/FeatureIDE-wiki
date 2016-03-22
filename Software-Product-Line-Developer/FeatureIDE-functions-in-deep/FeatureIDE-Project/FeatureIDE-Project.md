@@ -82,4 +82,24 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 	</tr>
 </table>
 
+<table>
+	<tr>
+		<th>
+			Composer
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<p align="center">
+				<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-Composer">Composer</a>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			List of different composers
+		</td>
+	</tr>
+</table>
+
 <!-- Additional Content -->
