@@ -8,7 +8,7 @@ There is a subproject inside the feature folder of the main project for each fea
 
 <img src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Framework.png">
 
-The classes inside the feature projects uses interfaces or abstract classes from the source folder inside the main project. Additionally, each feature project contains a file named "info.xml". This file is used for making the different classes inside the jar "visible". If the class is not referenced, it will be ignored during execution.
+The classes inside the feature projects us interfaces or abstract classes from the source folder inside the main project. Additionally, each feature project contains a file named "info.xml". This file is used for making the different classes inside the jar "visible". If the class is not referenced, it will be ignored during execution.
 
 <img src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Framework_Subproject.png">
 
