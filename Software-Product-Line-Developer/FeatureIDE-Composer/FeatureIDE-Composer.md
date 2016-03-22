@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep) < [**Composer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Composer)
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < **...** < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep) < [**Composer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Composer)
 
 <!-- Introduction -->
 
@@ -11,14 +11,24 @@
 		<th>
 			Composer
 		</th>
+		<th>
+			Description
+		</th>
 	</tr>
 	<tr>
 		<td>
-			<ul>
-				<li>
-					<a href="/tthuem/FeatureIDE/wiki/Framework-Composer">Framework</a>
-				</li>
-			</ul>
+			<a href="/tthuem/FeatureIDE/wiki/Framework-Composer">Framework</a>
+		</td>
+		<td>
+			Runtime Variability using plugins
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="/tthuem/FeatureIDE/wiki/Runtime-Composer">Framework</a>
+		</td>
+		<td>
+			Runtime Variability using Runtime Properties
 		</td>
 	</tr>
 </table>
