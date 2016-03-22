@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < **...** < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)  < [**Composer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Composer)
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < **...**  < [**FeatureIDE Project**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Project) < [**FeatureIDE Composer**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Composer)
 
 <!-- Introduction -->
 This composer creates runtime variability using plugins.
