@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < **...** < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep) < [**Composer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Composer)
+[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep) 
 
 <!-- Introduction -->
 
@@ -25,7 +25,7 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Runtime-Composer">Framework</a>
+			<!--<a href="/tthuem/FeatureIDE/wiki/Runtime-Composer">Runtime</a>-->
 		</td>
 		<td>
 			Runtime Variability using Runtime Properties
