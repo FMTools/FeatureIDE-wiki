@@ -20,7 +20,7 @@
 			<a href="/tthuem/FeatureIDE/wiki/Framework-Composer">Framework</a>
 		</td>
 		<td>
-			Runtime Variability using plugins
+			Support for frameworks using plugins
 		</td>
 	</tr>
 	<tr>
