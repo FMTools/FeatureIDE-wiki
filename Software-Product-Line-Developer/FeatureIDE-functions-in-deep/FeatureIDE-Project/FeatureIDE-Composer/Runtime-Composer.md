@@ -30,7 +30,7 @@ With this implementation of the RuntimeComposer, the current feature configurati
 ###1.3. User-defined program arguments
 The program arguments which you have already set will be considered and not be overwritten.
 
-<img src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Runtime/run_config.png">
+<img src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Runtime/run_config.PNG">
 
 
 ##2. Using properties
