@@ -25,10 +25,10 @@
 	</tr>
 	<tr>
 		<td>
-			<!--<a href="/tthuem/FeatureIDE/wiki/Runtime-Composer">Runtime</a>-->
+			<a href="/tthuem/FeatureIDE/wiki/Runtime-Composer">Runtime</a>
 		</td>
 		<td>
-			Runtime Variability using Runtime Properties
+			Runtime Variability using .propertiy file or the programm arguments 
 		</td>
 	</tr>
 </table>
