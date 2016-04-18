@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
 
 <!-- Introduction -->
 For a detailed list of the main functionalities you can have a look at this [screenshots and videos](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/#screenshots).
@@ -31,54 +31,54 @@ This page will filled soon.
 	<tr>
 		<td width="128px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="128px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="128px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="128px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="128px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Feature-Diagram">Feature Diagram</a>
+				<a href="/FeatureIDE/FeatureIDE/wiki/Feature-Diagram">Feature Diagram</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Constraint-Dialog">Constraint Dialog</a>
+				<a href="/FeatureIDE/FeatureIDE/wiki/Constraint-Dialog">Constraint Dialog</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Feature-Order">Feature Order</a>
+				<a href="/FeatureIDE/FeatureIDE/wiki/Feature-Order">Feature Order</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Edit-Views">Edit Views</a>
+				<a href="/FeatureIDE/FeatureIDE/wiki/Edit-Views">Edit Views</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Outline-Feature-Model">Outline: Feature Model</a>
+				<a href="/FeatureIDE/FeatureIDE/wiki/Outline-Feature-Model">Outline: Feature Model</a>
 			</p>
 		</td>
 	</tr>

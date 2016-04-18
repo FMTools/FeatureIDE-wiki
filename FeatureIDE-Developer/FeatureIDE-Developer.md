@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki)
 
 <!-- Introduction -->
 under construction!
@@ -16,21 +16,21 @@ under construction!
 	<tr>
 		<td width="320px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="320px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
+			<!--a href="/FeatureIDE/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
 		</td>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
+			<!--a href="/FeatureIDE/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
 		</td>
 	</tr>
 	<tr>
@@ -49,30 +49,30 @@ under construction!
 	<tr>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>		
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		
 	</tr>
 	<tr>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
+			<!--a href="/FeatureIDE/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
 		</td>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
+			<!--a href="/FeatureIDE/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
 		</td>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
+			<!--a href="/FeatureIDE/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
 		</td>
 
 	</tr>

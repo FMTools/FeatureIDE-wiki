@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer) < [**Development Process in general**](https://github.com/tthuem/FeatureIDE/wiki/Development-Process-in-general)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Developer) < [**Development Process in general**](https://github.com/FeatureIDE/FeatureIDE/wiki/Development-Process-in-general)
 
 <!-- Introduction -->
 Main page Guidelines and Conventions
@@ -17,29 +17,29 @@ Main page Guidelines and Conventions
 	<tr>
 		<td width="213px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="213px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="213px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Git-Workflow-Conventions">Git-Workflow-Conventions</a>
+			<a href="/FeatureIDE/FeatureIDE/wiki/Git-Workflow-Conventions">Git-Workflow-Conventions</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Source-Format-Conventions">Source-Format-Conventions</a>
+			<a href="/FeatureIDE/FeatureIDE/wiki/Source-Format-Conventions">Source-Format-Conventions</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Code-Conventions">Code-Conventions</a>
+			<a href="/FeatureIDE/FeatureIDE/wiki/Code-Conventions">Code-Conventions</a>
 		</td>
 	</tr>
 	<tr>
@@ -57,13 +57,13 @@ Main page Guidelines and Conventions
 	<tr>
 		<td>
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Designpattern">Designpattern</a>
+			<a href="/FeatureIDE/FeatureIDE/wiki/Designpattern">Designpattern</a>
 		</td>
 	</tr>
 	<tr>

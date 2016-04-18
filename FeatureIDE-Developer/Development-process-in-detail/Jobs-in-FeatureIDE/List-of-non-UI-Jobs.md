@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < ... < [**Development Process in detail**](https://github.com/tthuem/FeatureIDE/wiki/Development-Process-in-detail) < [**Jobs in FeatureIDE**](https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < ... < [**Development Process in detail**](https://github.com/FeatureIDE/FeatureIDE/wiki/Development-Process-in-detail) < [**Jobs in FeatureIDE**](https://github.com/FeatureIDE/FeatureIDE/wiki/Jobs-in-FeatureIDE)
 
 <!-- Introduction -->
 These Jobs extend org.eclipse.core.runtime.jobs.Job, but not org.eclipse.ui.progress.UIJob, which means they should not influence UI responsiveness. 

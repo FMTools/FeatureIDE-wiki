@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki)
 
 <!-- Introduction -->
 This part of the wiki describes how to use FeatureIDE as a developer of software product lines.
@@ -17,37 +17,37 @@ This part of the wiki describes how to use FeatureIDE as a developer of software
 	<tr>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Background">Background</a>
+			<a href="/FeatureIDE/FeatureIDE/wiki/Background">Background</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-Installation-and-Update">Installation</a>
+			<a href="/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Installation-and-Update">Installation</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-overview">Overview</a>
+			<a href="/FeatureIDE/FeatureIDE/wiki/FeatureIDE-overview">Overview</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep">Functionality</a>
+			<a href="/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep">Functionality</a>
 		</td>
 	</tr>
 	<tr>
@@ -67,36 +67,36 @@ This part of the wiki describes how to use FeatureIDE as a developer of software
 	<tr>
 <td width="320px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="320px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="320px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 <td width="320px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 	</tr>
 	<tr>
 <td>
-			<a href="https://github.com/tthuem/FeatureIDE/wiki/Tutorial">Tutorial</a>
+			<a href="https://github.com/FeatureIDE/FeatureIDE/wiki/Tutorial">Tutorial</a>
 		<td>
-			<a href="https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Samples</a>
+			<a href="https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer">Samples</a>
 </td>
 <td>
-<a href="https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Best-Practice</a>
+<a href="https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer">Best-Practice</a>
 		</td>
 <td>
-<a href="https://github.com/tthuem/FeatureIDE/wiki/FAQ">FAQ</a>
+<a href="https://github.com/FeatureIDE/FeatureIDE/wiki/FAQ">FAQ</a>
 		</td>
 		</td>
 	</tr>

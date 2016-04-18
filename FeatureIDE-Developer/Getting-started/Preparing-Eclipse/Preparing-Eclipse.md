@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer) < [**Getting started**](https://github.com/tthuem/FeatureIDE/wiki/Getting-started)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Developer) < [**Getting started**](https://github.com/FeatureIDE/FeatureIDE/wiki/Getting-started)
 
 <!-- Introduction -->
 Setup guide to develop FeatureIDE and new extensions with eclipse
@@ -23,7 +23,7 @@ Setup guide to develop FeatureIDE and new extensions with eclipse
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="70" width="140" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDElogo.png">
+				<img height="70" width="140" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureIDElogo.png">
 			</p>
 		</td>
 		<td width="160px">
@@ -34,16 +34,16 @@ Setup guide to develop FeatureIDE and new extensions with eclipse
 	</tr>
 	<tr>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development">Eclipse RCP and RAP</a>
+			<a href="/FeatureIDE/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development">Eclipse RCP and RAP</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a>
+			<a href="/FeatureIDE/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Run-configuration">Run Configuration</a>
+			<a href="/FeatureIDE/FeatureIDE/wiki/Run-configuration">Run Configuration</a>
 		</td>
 		<td>
-			<a href="/tthuem/FeatureIDE/wiki/Setting-Up-Code-Format">Setting Up Code Format</a>
+			<a href="/FeatureIDE/FeatureIDE/wiki/Setting-Up-Code-Format">Setting Up Code Format</a>
 		</td>
 	</tr>
 

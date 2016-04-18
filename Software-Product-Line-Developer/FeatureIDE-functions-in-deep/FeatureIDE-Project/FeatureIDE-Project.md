@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
 
 <!-- Introduction -->
 A FeatureIDE project is our type of eclipse project to develop software product lines. The FeatureIDE projects defines how to model, implement, and build your product line.
@@ -25,44 +25,44 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 	<!--<tr>
 		<td width="213px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="213px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="213px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="213px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 	</tr>-->
 	<tr>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Project-Structure">Project Structure</a>
+				<a href="/FeatureIDE/FeatureIDE/wiki/Project-Structure">Project Structure</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Creation-Wizards">Creation Wizards</a>
+				<a href="/FeatureIDE/FeatureIDE/wiki/Creation-Wizards">Creation Wizards</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Product-Generation">Product Generation</a>
+				<a href="/FeatureIDE/FeatureIDE/wiki/Product-Generation">Product Generation</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/Run-Configurations">Run Configurations</a>
+				<a href="/FeatureIDE/FeatureIDE/wiki/Run-Configurations">Run Configurations</a>
 			</p>
 		</td>
 	</tr>
@@ -91,7 +91,7 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 	<tr>
 		<td>
 			<p align="center">
-				<a href="/tthuem/FeatureIDE/wiki/FeatureIDE-Composer">Composer</a>
+				<a href="/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Composer">Composer</a>
 			</p>
 		</td>
 	</tr>

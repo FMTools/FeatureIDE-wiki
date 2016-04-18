@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
 
 <!-- Introduction -->
 The **collaboration view** gives a detailed overview on the implementation of the product line, such as classes, features, and methods similar to the known Eclipse outline view, however for the whole product line. Features are displayed as columns. The attached classes are displayed as rows. If a class contains a implementation of a feature (e.g., a feature module of a processor annotation), a role is displayed as box at the intersection of the class and the feature.
@@ -12,7 +12,7 @@ The collaboration view can be filtered for fields, methods, refinements, contrac
 
 The function of the **toolbar** from left to right: 
 
-![Collaboration-view_toolbar](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/toolbar.PNG) 
+![Collaboration-view_toolbar](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Collaboration-Diagram/toolbar.PNG) 
 
 * access-modifiers-filter: filter for "private","public","protected" and "default" modifiers
 * fields-with-refinements-filter: toggles the display of fields with refinements
@@ -29,28 +29,28 @@ The function of the **toolbar** from left to right:
 
 nested-classes-button **OFF** (nested classes **are not** displayed):
 
-[![nestedclasses_off](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_off.PNG)](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_off.PNG) 
+[![nestedclasses_off](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_off.PNG)](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_off.PNG) 
 
 nested-classes-button **ON** (nested classes **are** displayed):
 
-[![nestedclasses_on](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_on.PNG)](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_on.PNG) 
+[![nestedclasses_on](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_on.PNG)](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_nested_on.PNG) 
 
 
 ## Filtered for methods with refinements:
 
 methods-with-refinements-filter **OFF** (Only methods without refinements are displayed):                    
     
-[![methods_refinements_off](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_off.PNG)](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_off.PNG)
+[![methods_refinements_off](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_off.PNG)](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_off.PNG)
 
 methods-with-refinements-filter **ON** (All methods are displayed):    
  
-[![Methods_refinements_on](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_on.PNG)
-](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_on.PNG)
+[![Methods_refinements_on](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_on.PNG)
+](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Collaboration-Diagram/overview_method_withrefinements_on.PNG)
 
 ##**Example project:**
 
-[![Example](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/example.PNG)](https://github.com/tthuem/FeatureIDE/wiki/Assets/Collaboration-Diagram/example.PNG)
+[![Example](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Collaboration-Diagram/example.PNG)](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Collaboration-Diagram/example.PNG)
 
 ## Colors
 
-[Colors](https://github.com/tthuem/FeatureIDE/wiki/Colors) are supported.
+[Colors](https://github.com/FeatureIDE/FeatureIDE/wiki/Colors) are supported.

@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < ... < [**Testing Process**](https://github.com/tthuem/FeatureIDE/wiki/Testing-Process) < [**Additional manual testing**](https://github.com/tthuem/FeatureIDE/wiki/Additional-manual-testing)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < ... < [**Testing Process**](https://github.com/FeatureIDE/FeatureIDE/wiki/Testing-Process) < [**Additional manual testing**](https://github.com/FeatureIDE/FeatureIDE/wiki/Additional-manual-testing)
 
 <!-- Introduction --> 
 under construction
@@ -71,7 +71,7 @@ The following text describe functionality which should available after your chan
     * That during the test phase, the user is informed about this progress (currently there is a *Save (Unchecked)* Button text for the OK-Button as well as a short description in the details text in top of the dialog)
     * If the dialog is non-modal, ensure that changes in the model are accepted. Otherwise the problem of synchronization between the model and the dialog should not be a problem because of the modularity of the dialog.
 
-There was also a lot of work in issue [210](https://github.com/tthuem/FeatureIDE/issues/210) which should be covered with the Unit-Tests above. However, maybe it is worth to have a look on this issue to ensure that the result is still achievable.
+There was also a lot of work in issue [210](https://github.com/FeatureIDE/FeatureIDE/issues/210) which should be covered with the Unit-Tests above. However, maybe it is worth to have a look on this issue to ensure that the result is still achievable.
    
 # Feature order
 # Propagation of changes/ View synchronization

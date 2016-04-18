@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < **...** < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep) < [**Feature Model Editor**](https://github.com/tthuem/FeatureIDE/wiki/Feature-Model-Editor)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < **...** < [**FeatureIDE Functions in Deep**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep) < [**Feature Model Editor**](https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Model-Editor)
 
 <!-- Introduction -->
 Sometimes it is required to express more complex constraints inside a feature model than e.g. "feature *A* requires parent feature". However, to formulate such constraints you can use the *ConstraintDialog* which is a text-editor with auto-completion supported, auto-validity checks and other tools. 
@@ -30,17 +30,17 @@ Sometimes it is required to express more complex constraints inside a feature mo
 ### 1.i. Create New Constraints
 To open the *ConstraintDialog*, right-click on a feature name inside a feature model and select *"Create Constraint"* in the popup menu. This will open the ConstraintDialog with an empty input textfield. 
 
-![Create Constraint](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/CreateConstraintNoRef.png)
+![Create Constraint](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/ConstraintDialog/CreateConstraintNoRef.png)
 
 ### 1.ii. Create New Constraints Starting with Selection
 If you want to start directly with your selected feature *A* you can alternativaletly click von *"Create Constraint start with *A*"* in the popup menu. This will copy *A* to the textfield which means you can immeditaly start to model the constraint related to *A*. 
 
-![Create Constraint from Feature Name](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/CreateConstraint.png)
+![Create Constraint from Feature Name](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/ConstraintDialog/CreateConstraint.png)
 
 ### 1.iii. Editing of Existing Constraints
 You can edit a constraint inside a feature model by right-clicking on it, followed by the corresponding popup menu entry.
 
-![Edit existing Constraint](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/EditConstraint.png)
+![Edit existing Constraint](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/ConstraintDialog/EditConstraint.png)
 
 ### 1.iv. Remove Existing Constraints
 By hitting *DEL* on your keyboard you can remove a selected constraint from your model. Alternatively, you can also use the popup menu by right-clicking on the constraint you want to remove.
@@ -56,22 +56,22 @@ The dialog contains of five regions, from up to down:
 #### 2.i.a. The status information panel
 This panel contains a short info about the current dialog's state. This could be either creating or editing a constraint. Moreover it displays information, warnings or and details if an error occurs.
 
-![Info Panel](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/InfoPanel.png)
+![Info Panel](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/ConstraintDialog/InfoPanel.png)
 
 #### 2.i.b. A list of available features and a filtering method for this list 
 Here you can click on to automatically copy-paste your selected feature into the free-text editor (see list item 4) at the current caret position. 
 
-![Feature List](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/FeatureList.png)
+![Feature List](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/ConstraintDialog/FeatureList.png)
 
 #### 2.i.c. The list of available operators (and, or, ...)
 Here you can click on to automatically copy-paste a operator into the free-text editor (see list item 4).
 
-![Operator List](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/OperatorList.png)
+![Operator List](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/ConstraintDialog/OperatorList.png)
 
 #### 2.i.d. A free-text editor where you can formulate constraints according to the grammar
 This control is the central element inside the *ConstraintDialog*. Here you can formulate your constraint as a first-order-logic like text, containing feature names and operators. Please note the grammar below.
 
-![TextField](https://raw.githubusercontent.com/wiki/tthuem/FeatureIDE/Assets/ConstraintDialog/ConstraintDialogText.png)
+![TextField](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/ConstraintDialog/ConstraintDialogText.png)
 
 #### 2.i.e. The dialog's control buttons
 Where you can save or abort your constraint. 

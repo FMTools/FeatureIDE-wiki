@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer) < [**Background**](https://github.com/tthuem/FeatureIDE/wiki/Background)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < [**Background**](https://github.com/FeatureIDE/FeatureIDE/wiki/Background)
 
 <!-- Introduction -->
 
@@ -8,6 +8,6 @@
 <!-- Content -->
 <td width="265px">
 	<p align="center">
-		<img height="200" width="200" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+		<img height="200" width="200" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 	</p>
 </td>

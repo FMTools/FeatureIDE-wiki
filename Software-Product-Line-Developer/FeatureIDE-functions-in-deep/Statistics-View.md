@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
 
 <!-- Introduction -->
 The **statistic view** for FeatureIDE-projects displays general information about a FeatureIDE project (the project of the current file in the editor). The statistics contain information about the feature model, the implementation, and the specification of the product line. 
@@ -10,9 +10,9 @@ The **statistic view** for FeatureIDE-projects displays general information abou
 3. [Statistic of product-line specification] (#3-statistic-of-product-line-specification)
 
 <!-- Content -->
-The toolbar of the view provides a button to refresh ![refresh button](https://raw.githubusercontent.com/tthuem/FeatureIDE/master/plugins/de.ovgu.featureide.ui/icons/refresh_tab.gif) and one ![export button](https://raw.githubusercontent.com/tthuem/FeatureIDE/master/plugins/de.ovgu.featureide.ui/icons/export_wiz.gif) to export the information to a “*.cvs” file. 
+The toolbar of the view provides a button to refresh ![refresh button](https://raw.githubusercontent.com/FeatureIDE/FeatureIDE/master/plugins/de.ovgu.featureide.ui/icons/refresh_tab.gif) and one ![export button](https://raw.githubusercontent.com/FeatureIDE/FeatureIDE/master/plugins/de.ovgu.featureide.ui/icons/export_wiz.gif) to export the information to a “*.cvs” file. 
 
-![Example](https://github.com/tthuem/FeatureIDE/wiki/Assets/StatisticsView/example.png)
+![Example](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/StatisticsView/example.png)
 
 ## 1 Statistics of the feature model
 
@@ -27,7 +27,7 @@ The second node shows statistics about **fields** and the third about **methods*
 The fourth node displays the **Lines Of Code** (LOC). The sub-nodes orde the lines of code by file extension and feature. The subentries can be sorted alphabetically or in descending order via double-click.
 Comments are not counted for the following file extensions: java, c, h, jj, jak, and cs. The default solution LOC counting only counts the lines of code without spaces and empty lines. 
 
-![Example](https://github.com/tthuem/FeatureIDE/wiki/Assets/StatisticsView/implementation.png)
+![Example](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/StatisticsView/implementation.png)
 
 ## 3 Statistic of product-line specification
 
@@ -41,7 +41,7 @@ The fourth node shows statistics about the usage of **contract refinement strate
 
 The fifth node shows details on **method contracts**.
 
-![Example](https://github.com/tthuem/FeatureIDE/wiki/Assets/StatisticsView/specification.png)
+![Example](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/StatisticsView/specification.png)
 
 
  

@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < **...**  < [**FeatureIDE Project**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Project) < [**FeatureIDE Composer**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Composer)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < **...**  < [**FeatureIDE Project**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Project) < [**FeatureIDE Composer**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Composer)
 
 <!-- Outline -->
 
@@ -30,7 +30,7 @@ With this implementation of the RuntimeComposer, the current feature configurati
 ###1.3. User-defined program arguments
 The program arguments which you have already set will be considered and not be overwritten.
 
-<img src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Runtime/run_config.png">
+<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureIDEProject/Runtime/run_config.png">
 
 
 ##2. Using properties
@@ -47,7 +47,7 @@ Every time the project is build, runtime.properties will be refreshed.
 
 It contains all available, non-abstract features of the current configuration, while the selected ones are set to true, the unselected ones to false.
 
-<img src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Runtime/propertyfile_config.png">
+<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureIDEProject/Runtime/propertyfile_config.png">
 
 ###2.3. Getting the values of a property
 
@@ -55,7 +55,7 @@ To get to know whether a certain feature is selected when using the properties m
 
 Within the PropertyManager there is the getProperty method, returning the values (<code>true</code> or <code>false</code>) of a queried property.
 
-<img src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Runtime/propertymanager.png">
+<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureIDEProject/Runtime/propertymanager.png">
 
 ###2.4. Traceability
 
@@ -67,7 +67,7 @@ See how to do this [here](https://github.com/FeatureIDE/FeatureIDE/wiki/Colors/)
 
 After that all calls of getProperty with each feature will get the refered color as well as if statements invoking the method.
 
-<img src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Runtime/traceability_color.png">
+<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureIDEProject/Runtime/traceability_color.png">
 
 ####2.4.2. Renaming a feature
 
@@ -77,4 +77,4 @@ If a feature is renamed within the model, it will be redefined wherever it is ca
 
 If you call a feature which does not exist in the current feature configuration, a marker will be set in the corresponding line and an error message will be written into the console if the program is executed.
 
-<img src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDEProject/Runtime/traceability_warning.png">
+<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureIDEProject/Runtime/traceability_warning.png">

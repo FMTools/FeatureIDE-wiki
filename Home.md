@@ -16,17 +16,17 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 
 	</tr>
 	<tr>
-		<!--td width="120px"><p align="center"><img align="center" height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png"></p></td-->
-		<td width="120px"><p align="center"><img width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureIDElogo.png"></p></td>
-		<td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png"></p></td>
-		<td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png"></p></td>
-		<!--td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png"></p></td-->
+		<!--td width="120px"><p align="center"><img align="center" height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png"></p></td-->
+		<td width="120px"><p align="center"><img width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureIDElogo.png"></p></td>
+		<td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png"></p></td>
+		<td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png"></p></td>
+		<!--td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png"></p></td-->
 	</tr>
 	<tr>
 		<!--td></td-->
-		<td><a href="/tthuem/FeatureIDE/wiki/About-FeatureIDE">About FeatureIDE</a></td>
-		<td><a href="/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer">Software-Product-Line Developer</a></td>
-		<td><a href="/tthuem/FeatureIDE/wiki/FeatureIDE-Developer">FeatureIDE Developer</a></td>
+		<td><a href="/FeatureIDE/FeatureIDE/wiki/About-FeatureIDE">About FeatureIDE</a></td>
+		<td><a href="/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer">Software-Product-Line Developer</a></td>
+		<td><a href="/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Developer">FeatureIDE Developer</a></td>
 		<!--td></td-->
 	</tr>
 	<tr>
@@ -39,7 +39,7 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 <!--
 | under construction | About FeatureIDE | Software-Product-Line Developer | FeatureIDE Developer | under construction |
 | ------------------ | ---------------- | ------------------------------ | -------------------- | ------------------ |
-| <p align="center"><img align="center" height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png"></p> | empty | empty | empty | empty |
+| <p align="center"><img align="center" height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png"></p> | empty | empty | empty | empty |
 |  |  |  |  |  |
 |  |  |  |  |  |
 -->

@@ -1,4 +1,4 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < ... < [**Development Process in detail**](https://github.com/tthuem/FeatureIDE/wiki/Development-Process-in-detail) < [**Testing Process**](https://github.com/tthuem/FeatureIDE/wiki/Testing-Process)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < ... < [**Development Process in detail**](https://github.com/FeatureIDE/FeatureIDE/wiki/Development-Process-in-detail) < [**Testing Process**](https://github.com/FeatureIDE/FeatureIDE/wiki/Testing-Process)
 
 <!-- Introduction -->

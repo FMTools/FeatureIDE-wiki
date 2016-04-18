@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < ... < [**Development Process in detail**](https://github.com/tthuem/FeatureIDE/wiki/Development-Process-in-detail) < [**Testing Process**](https://github.com/tthuem/FeatureIDE/wiki/Testing-Process)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < ... < [**Development Process in detail**](https://github.com/FeatureIDE/FeatureIDE/wiki/Development-Process-in-detail) < [**Testing Process**](https://github.com/FeatureIDE/FeatureIDE/wiki/Testing-Process)
 
 <!-- Introduction -->
 Currently this page is under construction.
@@ -17,21 +17,21 @@ Main page for all automated tests
 	<tr>
 		<td width="320px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 		<td width="320px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a-->
+			<!--a href="/FeatureIDE/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a-->
 		</td>
 		<td>
-			<!--a href="/tthuem/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
+			<!--a href="/FeatureIDE/FeatureIDE/wiki/Run-configuration-[FeatureIDE-Dev]">Run Configuration</a-->
 		</td>
 	</tr>
 	<tr>

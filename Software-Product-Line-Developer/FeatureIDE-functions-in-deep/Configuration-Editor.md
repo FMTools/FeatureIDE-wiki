@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
 
 <!-- Introduction -->
 
@@ -17,24 +17,24 @@ Selected features are either marked with an check mark or with a box. The box in
 _If the selection of a feature is implied (i.e., the feature must be selected or deselected) by other features, FeatureIDE automatically sets the selection of these features._
 
 <img width="300" 
-src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/configuration.PNG">
+src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/configuration.PNG">
 
 The configuration editor gives some help to guide you to a valid configuration. If the selection or deselection of one feature can make a configuration valid, this feature is highlighted with green if it needs to be selected of blue if it needs to be deselected.
 
-<img width="300" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/configurationhelp.PNG">
+<img width="300" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/configurationhelp.PNG">
 
 The configuration editor has several pages. You can select other pages at the bottom of the editor.
 The "**Advanced Configuration**" page provides some additional functionality to the first page. 
 Here you can additionally mark features to be deselected by right-clicking the feature. You can also see the connection type of the features (e.g., whether it is a mandatory feature). 
 
-<img width="300" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/advancedpage.PNG">
+<img width="300" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/advancedpage.PNG">
 
 The "**source page**" shows the content of the file. You can use this page to copy other configuration. After you go back to one of the configuration pages the editor features are automatically selected.
 
 We recommend not to use the source view to editor the configuration, as you do not have assists such as checks whether the feature exists or the configuration is valid.
 
 <img width="300" 
-src="https://github.com/tthuem/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/sourcepage.PNG">
+src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/ConfigurationEditor/sourcepage.PNG">
 
 
-[Colors](https://github.com/tthuem/FeatureIDE/wiki/Colors) are supported.
+[Colors](https://github.com/FeatureIDE/FeatureIDE/wiki/Colors) are supported.

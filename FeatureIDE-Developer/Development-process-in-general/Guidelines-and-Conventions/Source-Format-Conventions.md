@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < ... < [**Development Process in general**](https://github.com/tthuem/FeatureIDE/wiki/Development Process in general) < [**Guidelines and Conventions**](https://github.com/tthuem/FeatureIDE/wiki/Guidelines-and-Conventions)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < ... < [**Development Process in general**](https://github.com/FeatureIDE/FeatureIDE/wiki/Development Process in general) < [**Guidelines and Conventions**](https://github.com/FeatureIDE/FeatureIDE/wiki/Guidelines-and-Conventions)
 
 <!-- Introduction -->
 

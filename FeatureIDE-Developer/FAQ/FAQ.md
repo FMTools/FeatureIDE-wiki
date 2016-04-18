@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Developer)
 
 <!-- Introduction -->
 

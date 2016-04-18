@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Developer) < [**Development Process in detail**](https://github.com/tthuem/FeatureIDE/wiki/Development-Process-in-detail)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Developer) < [**Development Process in detail**](https://github.com/FeatureIDE/FeatureIDE/wiki/Development-Process-in-detail)
 
 <!-- Introduction -->
 This page gives an overview of different topics like structure or guidelines which have to be considered for extensions of the FeatureIDE wiki. Wiki updates and extensions are very important because of the continuous development and evolution of FeatureIDE. It also helps the users and contributors to have an easy access to all functions of FeatureIDE and all changes since the initial version.
@@ -28,7 +28,7 @@ To have a consistent edit or update process it's necessary to work with a local 
 To work this way causes a disadvantage for windows users. Every change to the wiki has to be deployed and checked in the live system. There is a way for other OS to run the wiki locally. (https://github.com/gollum/gollum)
 
 To clone the wiki locally, please follow the usual steps to clone a repository. For github wikis, there is only the opportunity to use an https-link. Nevertheless, the following link allows you to use ssh and prevents to provide user name and password every time you are pushing, pulling and so on:
-ssh://git@github.com/tthuem/FeatureIDE.wiki.git
+ssh://git@github.com/FeatureIDE/FeatureIDE.wiki.git
 
 ## 2. Wiki Structure in General
 This section describes some basic topics concerning the structure of the FeatureIDE wiki.

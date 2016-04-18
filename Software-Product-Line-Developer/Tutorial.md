@@ -7,50 +7,50 @@ The first step for your product line is domain engineering. Here you think about
 ### Open the FeatureIDE perspective
 When using FeatureIDE it is best to activate the FeatureIDE perspective. Your first step is to switch the active perspective to the FeatureIDE Perspective. You can use the button on the upper right corner of the workbench
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/switch-perspective.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/switch-perspective.png">
 
  or <code>Window / Open Perspective / Others...</code> and select Feature IDE. 
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/perspective.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/perspective.png">
 
 
 ### Create a FeatureIDE Project
 Let's start with creating of your first Feature IDE Project. You can find the Feature IDE Project wizard under <code>File / New / Feature IDE Project </code>. The wizard will prompt you to select a **composer engine**. You can choose any composition engine but we will start with **AHEAD**. 
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/new_composer.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/new_composer.png">
 
 Because each composition engine is slight different in use, you have can see the handling of another composer later in this tutorial.
 
 On the next page, choose a project name. For example <code>HelloWorld</code> Then, close the wizard by clicking *Finish*.
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/new_name.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/new_name.png">
 
 ## Create a feature model
 Now its time to create a feature model specifying the features and their valid combinations.
 
 After creation of the project, FeatureIDE opens the <code>model.xml</code> file. You will see a graphical editor where you can edit the feature model of your software product line.
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/model1.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/model1.png">
 
 First, create two additional layers under your root feature. Right click on the root feature <code>HelloWorld</code> and select <code>Create Feature (below)</code> twice. Rename the first new feature to <code>Hello</code>, and the second to <code>World</code>. You can rename features using **F2**, a single click on a selected feature, or using a right click with the option at the context menu.
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/model2.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/model2.png">
 
 Rename the feature <code>Base</code> to <code>Beautiful</code> and move it between the features <code>Hello</code> and <code>World</code>. 
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/model3.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/model3.png">
 
 Now, create a feature <code>Wonderful</code> and move it between the features <code>Beautiful</code> and <code>World</code>.
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/model4.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/model4.png">
 
 Now, we want to make the features <code>Beautiful</code> and <code>Wonderful</code> exclusive to each other. Select both features, create a new compound above using right click menu, and name it <code>Feature</code>. As this feature has no according implementation mark it as abstract using the context menu.
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/model5.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/model5.png">
 
 Connections between feature and its group of children are distinguished as **And**- (no arc), **Or**- (filled ar) and **Alternative**-groups (unfilled arc). The children of And-groups can either be **mandatory** (filled circle) or **optional** (unfilled circle). Double click on the connection below the feature <code>Feature</code> to change it to an *Or*-group and again to change it to an *Alternative*-group. Then double click on the features <code>Hello</code> and <code>World</code> to mark them as *mandatory*. 
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/model6.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/model6.png">
 
 ## Implementing features
 It is now time to implement the features. The implementation details depend on the composer you have chosen. Please select the task that explains the implementation for the composer you have chosen during project creation. We will start with AHEAD, but feel free to start with another.
@@ -63,18 +63,18 @@ This tutorial guides you through the implementation of features using AHEAD. It 
 #### Create new JAK files
 After you have saved your feature model, FeatureIDE will create directories for each feature.
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/ahead-feature-list.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/ahead-feature-list.png">
 
 
 In these directories you can create <code>Jak</code>-Files.
 Start with creating a new <code>Jak</code>-file in the directory <code>Hello</code>.
 Right click on the directory <code>Hello</code> and use the command <code>New / FeatureIDE Source File</code> of the popup menu. 
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/ahead-add-source-file.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/ahead-add-source-file.png">
 
 Set the class name to <code>Main</code> and press the *Finish* button.
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/ahead-set-class-name.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/ahead-set-class-name.png">
 
 FeatureIDE opens the file and you can write the following code:
 ``` Java
@@ -91,7 +91,7 @@ public class Main {
 
 Now create more <code>Jak</code> files, one in each of the directories <code>Beautiful</code>, <code>Wonderful</code> and <code>World</code>. In these cases, activate the option **Refines** in the Wizard. Furthermore, all the <code>Jak</code> files must have the same name <code>Main</code>.
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/ahead-set-class-name-refines.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/ahead-set-class-name-refines.png">
 
 #### Source code for the JAK files
 Now edit the remaining <code>Jak</code>-Files. Every feature will refine the method <code>print()</code> in the class <code>Main</code>.
@@ -343,15 +343,15 @@ In this part of the tutorial you will create your first configuration.
 ### The configuration file
 After you designed your feature model, and source code, you want to generate a variant which is a product of your product line. To specify a variant, you have to provide a feature selection. This is done in a per-variant configuration file 
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/config.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/config.png">
 
 Create a new configuration file with the according wizard. 
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/newconfig.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/newconfig.png">
 
 Open the configuration file and select the features you want to activate for your variant. After you have saved the file, FeatureIDE will compose your features and compile the generated Java code.
 
-<img align="center" src="https://github.com/tthuem/FeatureIDE/wiki/Assets/Tutorial/doconfig.png">
+<img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/doconfig.png">
 
 ### Start your application
 Now it's time to start your application. Right click on the project in package explorer and choose <code>Run As > Java Application</code>. Choose a class name without <code>$$</code> in the name and enjoy your *Hello Beautiful Wonderful Word* application! The next time you want to start your application simply use the run button in the eclipse tool bar. 

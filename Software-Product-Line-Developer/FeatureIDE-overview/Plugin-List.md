@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/tthuem/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Overview**](https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Overview)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Overview**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Overview)
 
 <!-- Introduction -->
 under construction

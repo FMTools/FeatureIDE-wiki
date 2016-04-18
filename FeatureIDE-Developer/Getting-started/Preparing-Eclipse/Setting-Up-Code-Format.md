@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/tthuem/FeatureIDE/wiki) < ... < [**Getting started**](https://github.com/tthuem/FeatureIDE/wiki/Getting-started) < [**Preparing Eclipse**](https://github.com/tthuem/FeatureIDE/wiki/Preparing-Eclipse)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < ... < [**Getting started**](https://github.com/FeatureIDE/FeatureIDE/wiki/Getting-started) < [**Preparing Eclipse**](https://github.com/FeatureIDE/FeatureIDE/wiki/Preparing-Eclipse)
 
 <!-- Introduction -->
 
