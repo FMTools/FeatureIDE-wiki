@@ -8,12 +8,11 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 
 <table>
 	<tr>
-		<!--th>under construction</th-->
-		<th>About FeatureIDE</th>
-		<th>Software-Product-Line Developer</th>
-		<th>FeatureIDE Developer</th>
-		<!--th>under construction</th-->
-
+		<!--td></td-->
+		<td><a href="/FeatureIDE/FeatureIDE/wiki/About-FeatureIDE">About FeatureIDE</a></td>
+		<td><a href="/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer">Software-Product-Line Developer</a></td>
+		<td><a href="/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Developer">FeatureIDE Developer</a></td>
+		<!--td></td-->
 	</tr>
 	<tr>
 		<!--td width="120px"><p align="center"><img align="center" height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png"></p></td-->
@@ -22,13 +21,7 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
 		<td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png"></p></td>
 		<!--td width="120px"><p align="center"><img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png"></p></td-->
 	</tr>
-	<tr>
-		<!--td></td-->
-		<td><a href="/FeatureIDE/FeatureIDE/wiki/About-FeatureIDE">About FeatureIDE</a></td>
-		<td><a href="/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer">Software-Product-Line Developer</a></td>
-		<td><a href="/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Developer">FeatureIDE Developer</a></td>
-		<!--td></td-->
-	</tr>
+	
 	<tr>
 		<td>What is FeatureIDE</td>
 		<td>How to use FeatureIDE to develop software product lines</td>
