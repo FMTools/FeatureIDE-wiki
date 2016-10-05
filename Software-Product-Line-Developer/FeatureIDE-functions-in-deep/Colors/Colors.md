@@ -3,13 +3,14 @@
 
 <!-- Introduction -->
 
-An example of how to colorate a featureHouse project.
+An example of how to colorate an AHEAD project.
 
 <!-- Outline -->
-1. [How to manipulate ColorProfiles] (#1-how-to-manipulate-colorprofiles)
-	1. [Create New ColorProfile] (#1i-create-new-colorprofile)
-	2. [Rename ColorProfile] (#1ii-rename-colorprofile)
-	3. [Delete ColorProfile](#1iii-delete-colorprofile)
+1. [How to manipulate Color Schemes] (#1-how-to-manipulate-color-scheme)
+	1. [Create New Color Scheme] (#1i-create-new-color-scheme)
+	2. [Rename Color Scheme] (#1ii-rename-color-scheme)
+	3. [Delete Color Scheme](#1iii-delete-color-scheme)
+    4. [Change Color Scheme] (#1iv-change-color-scheme)
 2. [Coloration](#2-coloration)
 	1. [Coloration Menu Point](#2i-coloration-menu-point)
 	2. [Coloration Dialog](#2ii-coloration-dialog)
@@ -23,27 +24,56 @@ An example of how to colorate a featureHouse project.
 
 
 <!-- Content -->
-## 1. How to manipulate ColorProfiles
+## 1. How to manipulate Color Schemes
 
-### 1.i. Create new ColorProfile
-Rightclick on a Featureproject to get into the FeatureIDE menu. To be able to color a feature you need to add a new Profile because the **default** Profile is not able to apply colors and is therefore used for statistics and calculations.
+### 1.i. Create new Color Scheme
+_**This part has already been updated for version 3.3.**_ 
+ 
+You have two options to create a new Color Scheme, if there is none selected or none created. Otherwise just **Method 1** will work.
+This is necessary to color a feature because the **default** profile is not able to apply colors and is therefore used for statistics and calculations.
 		
-![Create new ColorProfile](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/DynamicMenuStructure.png)
-		
-Click Add Colorscheme to add a new Colorscheme.
-		
-![Create new Colorscheme Wizard](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/AddProfile.png)
-		
-### 1.ii. Rename ColorProfile
+**Method 1**:
+ 
+Rightclick on a FeatureProject to get into the FeatureIDE menu.
 
-Open the FeatureIDE menu as shown above. If you click on Change Name you can rename your Profile.
+![Add Color Scheme](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/AddColorScheme.png)
 		
-![Rename Colorscheme Wizard](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/RenameProfile.png)
+Click "**Add Color Scheme**" to add a new Color Scheme.
 		
-### 1.iii. Delete ColorProfile
+![Name New Color Scheme](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/NameNewColorScheme.png)
+ 
+**Method 2**:
+ 
+(This method will only work, if you haven’t created a Color Scheme or haven’t selected one.)
+ 
+Rightclick on a Feature in the Feature Diagram to open the Context Menu and use the menu point "**Feature Color**".
+ 
+![Add Feature Color In Feature Diagram](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/AddFeatureColorInFeatureDiagram.png)
+ 
+This will open a dialog, where you can either select an existing Color Scheme or create a new one.
+ 
+![Create Color Scheme](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/CreateColorScheme.png)
+ 
+![Select Or Create Color Scheme](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/SelectOrCreateColorScheme.png)
+		
+### 1.ii. Rename Color Scheme
 
-Open the FeatureIDE menu as shown above. If you click on Delete Colorscheme you will delete your Profile and the active profile will be set to **default**.
+To rename a Color Scheme you first have to select the Color Scheme, you want to rename. Then open the FeatureIDE menu as shown above.
+If you click "**Change Name**" you can rename your profile.
 		
+![New Name](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/NewName.png)
+		
+### 1.iii. Delete Color Scheme
+
+Open the FeatureIDE menu as shown above. If you click on "**Delete Color Scheme**" you will delete your profile and the active profile will be set to **default**. (This only works, if a Color Scheme is selected.)
+	
+### 1.iv. Change Color Scheme
+_**This part has already been updated for version 3.3.**_
+    
+Open the FeatureIDE menu as shown above. You can choose the Color Scheme by clicking on it.
+ 
+![Change Color Scheme](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ChangeColorScheme.png)
+    	
 ## 2. Coloration
 		
 ### 2.i. Coloration Menu Point
@@ -55,27 +85,32 @@ Rightlick on FeatureDiagramm to open the ContextMenu and use the menu point as s
 If you have chosen the **default** ColorProfile the menu point is disabled.
 		
 ### 2.ii. Coloration Dialog
+_**This part has already been updated for version 3.3.**_
 
-If the menu point is not disabled you will open a Coloration Dialog. 
+If a Color Scheme is selected, a Coloration Dialog will open. Otherwise you can create a new Color Scheme. 
 
-![Empty Color Dialog](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/EmptyColorDialog.png)
+![Coloration Dialog](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColorationDialog.png)
 		 
 The Coloration Dialog offers two important options. 
 		 
 * **Action**: As shown below you can choose one of those actions. 
 		 
-![action DropDownDialog](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/actionDropDownDialog.png)
+![Choose Action](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ChooseAction.png)
 		  
 * **Color**: You can choose one of ten baseline colors.
 		 
-![color DropDownDialog](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/colorDropDownDialog.png)
+![Choose Color](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ChooseColor.png)
 		 
 In the preview you see the visualization of the colored features.
 		 
-![color PreviewDialog](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/colorPreviewDialog.png)
+![Preview](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/Preview.png)
 		 
-If you press okay the coloration of the selected features will be made.
-If you press cancel changes will be discarded.
+If you press **OK** the selected features will be colored. 
+If you press **Cancel** changes will be discarded.
+    
+If the selected feature already has a color, it will be shown in the dialog.
+ 
+![ColoredFeature](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredFeature.png)
 		 
 ## 3. Results of the Coloration
 
