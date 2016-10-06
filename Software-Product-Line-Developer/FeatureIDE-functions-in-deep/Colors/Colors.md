@@ -48,7 +48,7 @@ Click "**Add Color Scheme**" to add a new Color Scheme.
  
 Rightclick on a Feature in the Feature Diagram to open the Context Menu and use the menu point "**Feature Color**".
  
-![Add Feature Color In Feature Diagram](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/AddFeatureColorInFeatureDiagram.png)
+![Add Color Scheme In Feature Diagram](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/AddColorSchemeInFeatureDiagram.png)
  
 This will open a dialog, where you can either select an existing Color Scheme or create a new one.
  
@@ -105,8 +105,8 @@ In the preview you see the visualization of the colored features.
 		 
 ![Preview](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/Preview.png)
 		 
-If you press **OK** the selected features will be colored. 
-If you press **Cancel** changes will be discarded.
+If you press "**OK**" the selected features will be colored. 
+If you press "**Cancel**" changes will be discarded.
     
 If the selected feature already has a color, it will be shown in the dialog.
  
