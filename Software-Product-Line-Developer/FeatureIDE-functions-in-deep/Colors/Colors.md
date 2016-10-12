@@ -12,8 +12,13 @@ An example of how to colorate an AHEAD project.
 	3. [Delete Color Scheme](#1iii-delete-color-scheme)
     4. [Change Color Scheme] (#1iv-change-color-scheme)
 2. [Coloration](#2-coloration)
-	1. [Coloration Menu Point](#2i-coloration-menu-point)
-	2. [Coloration Dialog](#2ii-coloration-dialog)
+  1. [Coloration Menu Point](#2i-coloration-menu-point)
+        1. [Feature Diagram](#2ia-feature-diagram)
+        2. [FeatureIDE Outline](#2ib-featureide-outline)
+        3. [Collaboration Diagram](#2ic-collaboration-diagram)
+        4. [Highlighting of composed FOP files](#2id-highlighting-of-composed-fop-files)
+        5. [Configuration Map](#2ie-configuration-map)
+  2. [Coloration Dialog](#2ii-coloration-dialog)
 3. [Results of the Coloration](#3-results-of-the-coloration)
 	1. [Feature DiagramEditor](#3i-feature-diagrameditor)
 	2. [Collaboration Diagram](#3ii-colaboration-diagram)
@@ -21,6 +26,7 @@ An example of how to colorate an AHEAD project.
 	4. [Project Explorer](#3iv-project-explorer)
 	5. [Annotations and Highlighting](#3v-annotations-and-highlighting)
 	6. [Configuration Tree/Advanced Configuration Tree](#3vi-configuration-tree/advanced-configuration-tree)
+  7. [Configuration Map](#3vii-configuration-map)
 
 
 <!-- Content -->
@@ -78,11 +84,55 @@ Open the FeatureIDE menu as shown above. You can choose the Color Scheme by clic
 		
 ### 2.i. Coloration Menu Point
 
-Rightlick on FeatureDiagramm to open the ContextMenu and use the menu point as shown below.
-		
-![Coloration Menu Point](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ProfileColorMenu.png)
-		
-If you have chosen the **default** ColorProfile the menu point is disabled.
+#### 2.i.a Feature Diagram
+ 
+_**This part has already been updated for version 3.3.**_
+ 
+Rightclick on a feature in the FeatureDiagram to open the ContextMenu and use the menu point “**Feature Color**” as shown below.
+ 
+![Feature Diagram Menu](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/FeatureDiagramMenu.png)
+ 
+If there is no Color Scheme created or selected, you can create or select one.
+ 
+#### 2.i.b FeatureIDE Outline
+ 
+_**This part has already been updated for version 3.3.**_
+ 
+Rightclick on a feature in the FeatureIDE Outline to open the Context Menu and use the menu point “**Feature Color**” as shown below.
+ 
+![Tree Outline Menu](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/TreeOutlineMenu.png)
+ 
+![Antenna Outline Menu](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/AntennaOutlineMenu.png)
+ 
+#### 2.i.c Collaboration Diagram
+ 
+_**This part has already been updated for version 3.3.**_
+ 
+Rightclick on a feature in the Collaboration Diagram to open the Context Menu and use the menu point “**Feature Color**” as shown below.
+ 
+![Collaboration Diagram Menu](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/CollaborationDiagramMenu.png)
+ 
+If you rightclick on a class, the menu point “**Feature Color**” won’t be shown, because there is no option to colorize a class.
+ 
+![Collaboration Diagram Menu Without Color](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/CollaborationDiagramMenuWithoutColor.png)
+ 
+#### 2.i.d Highlighting of composed files for FOP
+ 
+_**This part has already been updated for version 3.3.**_
+ 
+Select a module by clicking in the code, then rightclick to open the Context Menu and use the menu point “**Feature Color**” as shown below.
+ 
+![Highlighting Menu](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/HighlightingMenu.png)
+ 
+**Caution:** If the cursor is positioned in a module and the rightclick occurs on an other module, the module, where the cursor is, will be colored.
+ 
+You can enable and disable the highlighting in the editor by opening the Context Menu and using the menu point “**Enable Editor Highlighting**”.
+
+![Highlighting Menu Enable](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/HighlightingMenuEnable.png)
+
+#### 2.i.e Configuration Map
+ 
+Under construction.
 		
 ### 2.ii. Coloration Dialog
 _**This part has already been updated for version 3.3.**_
@@ -114,54 +164,66 @@ If the selected feature already has a color, it will be shown in the dialog.
 		 
 ## 3. Results of the Coloration
 
-Overview of the colored Views in Eclipse.
-![colored views](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/coloredViews.png)
+Overview of the colored views in Eclipse.
+ 
+![Colored Results](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredResults.png)
 		
 ###3.i. Feature DiagramEditor
 
-Colored Features in the Feature DiagramEditor.
-<br>
-![colored Model](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/coloredModel.png)
+Colored features in the Feature DiagramEditor.
+ 
+![Colored Feature Diagram](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredFeatureDiagram.png)
 
 ###3.ii. Collaboration Diagram
 
-Colored Features in the Collaboration Diagram.
-![Collaboration Diagram](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/FH_colordiagram_red_green.png)
+Colored features in the Collaboration Diagram. (The feature "Wonderful" is not shown, because it is not included in this configuration.)
+ 
+![Colored Beautiful World](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredBeautifulWorld.png)
 
 ###3.iii. FeatureIDE Outline
 
-Colored Features in the FeatureIDE Outline.
-<br>
-![FeautreIDE Outline](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/FIDEOutline.png)
-
+Colored features in the FeatureIDE Outline as shown when the Feature Diagram is opened.
+ 
+![Colored Outline](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredOutline.png)
+ 
+Colored features in the FeatureIDE Outline as shown when a java-file for an example of an Antenna project is opened. 
+ 
+![Colored Outline Antenna](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredOutlineAntenna.png)
+ 
 ###3.iv. Project Explorer
 
-A general overview how the colored Project Explorer looks.
+A general overview how the colored Project Explorer looks. (For example a Feature House Project)
+ 
+![Colored Project Explorer FH](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredProjectExplorerFH.png)
+ 
+Munge and Antenna projects do not have feature folders. The preview which kind of feature is included in which file or folder is only shown in the build folder but Munge also shows them in the source folder.
 
-![Project Explorer](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/FH_explorer_overview.png)
-
-* **1**: How the Package and composed Files look in Feature House or AHEAD.
-
-* **2**: How the Feature Folder Coloration looks in Feature House or AHEAD.
-
-Munge and Antenna projects do not have feature folders. The Preview which kind of Feature is included in which File or Folder is only shown in the Build Folder but Munge also shows them in the source folder.
-
-![Munge](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ProjectExplorer_Munge.png)
+![Colored Project Explorer Antenna](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredProjectExplorerAntenna.png)
 
 ###3.v. Annotations and Highlighting
 
-Highlighting of composed files for FOP. COlors show from which module each method and fiels comes from.
-![Annotations and Highlighting](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/FOP_background_code.png)
+Highlighting of composed files for FOP. Colors show from which module each method and fiels comes from. (For example a Feature House project)
+ 
+![Colored Highlighting FH](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredHighlightingFH.png)
 
-Annotations in the feature File.
-![Annotations and Highlighting2](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/FeatureAnnotation.png)
-
+Annotations in the feature files.
+ 
+![Colored Annotations FH](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredAnnotationsFH.png)
+ 
+The highlighting looks a bit different in Antenna projects.
+ 
+![Colored Highlighting Antenna](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredHighlightingAntenna.png)
+ 
 ###3.vi. Configuration Tree/Advanced Configuration Tree		
 
-Colored Features in the Configuration Tree of the chosen configuration.
-![Configuration Tree](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/configTree.png)
+Colored features in the Configuration Tree of the chosen configuration.
+ 
+![Colored Configuration Tree](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredConfigurationTree.png)
 
-Colored Features in the Advanced Configuration Tree of the chosen configuration.
-<br>
-![Advanced Configuration Tree](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/advancedConfigTree.png)
-		 
+Colored features in the Advanced Configuration Tree of the chosen configuration.
+ 
+![Colored Advanced Configuration Tree](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredAdvancedConfigurationTree.png)
+ 
+###3.vii Configuration Map
+ 
+Colored features in the Configuration Map. (Under construction.)

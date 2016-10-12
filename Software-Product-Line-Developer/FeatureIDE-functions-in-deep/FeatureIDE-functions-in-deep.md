@@ -2,7 +2,8 @@
 [**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer)
 
 <!-- Introduction -->
-under construction
+_**under construction**_
+ 
 For a detailed list of the main functionalities you can have a look at this [screenshots and videos](http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/#screenshots).
 
 <!-- Quick-Navigation-Table -->
@@ -41,7 +42,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredFeatureDiagram.png">
 			</p>
 		</td>
 	</tr>
@@ -93,19 +94,27 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		<th>
 			FeatureIDE Outline
 		</th>
+                <th>
+			Configuration Map
+		</th>
 	</tr>
 	<tr>
-		<td width="213px">
+		<td width="160px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
-		<td width="213px">
+		<td width="160px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
 		</td>
-		<td width="213px">
+		<td width="160px">
+			<p align="center">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
+			</p>
+		</td>
+		<td width="160px">
 			<p align="center">
 				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
 			</p>
@@ -127,6 +136,12 @@ For a detailed list of the main functionalities you can have a look at this [scr
 				<a href="/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Outline">FeatureIDE Outline</a>
 			</p>
 		</td>
+		</td>
+		<td>
+			<p align="center">
+				under construction
+			</p>
+		</td>
 	</tr>
 	<tr>
 		<td>
@@ -137,6 +152,9 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		</td>
 		<td>
 			description follows
+		</td>
+		<td>
+			The Configuration Map shows a table of features and configurations.
 		</td>
 	</tr>
 </table>
