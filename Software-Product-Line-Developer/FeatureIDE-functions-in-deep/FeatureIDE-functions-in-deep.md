@@ -176,50 +176,50 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		</tr>
 		<tr>
 			<td width="160px">
-				<p>
+				<p align="center">
 					<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png" alt="under_construction" width="100" height="100" />
 				</p>
 			</td>
 			<td width="160px">
-				<p>
+				<p align="center">
 					<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png" alt="under_construction" width="100" height="100" />
 				</p>
 			</td>
 			<td width="160px">
-				<p>
+				<p align="center">
 					<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png" alt="under_construction" width="100" height="100" />
 				</p>
 			</td>
 			<td width="160px">
-				<p>
+				<p align="center">
 					<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png" alt="under_construction" width="100" height="100" />
 				</p>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<p>
+				<p align="center">
 					<a href="/FeatureIDE/FeatureIDE/wiki/Edit-Views">
 						 Edit Views
 					</a>
 				</p>
 			</td>
 			<td>
-				<p>
+				<p align="center">
 					<a href="/FeatureIDE/FeatureIDE/wiki/">
 						 Coming Soon...
 					</a>
 				</p>
 			</td>
 			<td>
-				<p>
+				<p align="center">
 					<a href="/FeatureIDE/FeatureIDE/wiki/">
 						 Coming Soon...
 					</a>
-				</p>
+				</p align="center">
 			</td>
 			<td>
-				<p>
+				<p align="center">
 					<a href="/FeatureIDE/FeatureIDE/wiki/">
 						 Coming Soon...
 					</a>
