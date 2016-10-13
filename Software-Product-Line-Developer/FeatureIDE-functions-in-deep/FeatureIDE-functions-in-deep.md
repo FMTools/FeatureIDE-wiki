@@ -158,5 +158,89 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		</td>
 	</tr>
 </table>
+<table>
+	<tbody>
+		<tr>
+			<th>
+				Edit Views
+          </th>
+			<th>
+				Coming Soon...
+			</th>
+			<th>
+				Coming Soon...
+			</th>
+			<th>
+				Coming Soon...
+			</th>
+		</tr>
+		<tr>
+			<td width="160px">
+				<p align="center">
+					<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png" alt="under_construction" width="100" height="100" />
+				</p>
+			</td>
+			<td width="160px">
+				<p align="center">
+					<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png" alt="under_construction" width="100" height="100" />
+				</p>
+			</td>
+			<td width="160px">
+				<p align="center">
+					<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png" alt="under_construction" width="100" height="100" />
+				</p>
+			</td>
+			<td width="160px">
+				<p align="center">
+					<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png" alt="under_construction" width="100" height="100" />
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p align="center">
+					<a href="/FeatureIDE/FeatureIDE/wiki/Edit-Views">
+						 Edit Views
+					</a>
+				</p>
+			</td>
+			<td>
+				<p align="center">
+					<a href="/FeatureIDE/FeatureIDE/wiki/">
+						 Coming Soon...
+					</a>
+				</p>
+			</td>
+			<td>
+				<p align="center">
+					<a href="/FeatureIDE/FeatureIDE/wiki/">
+						 Coming Soon...
+					</a>
+				</p align="center">
+			</td>
+			<td>
+				<p align="center">
+					<a href="/FeatureIDE/FeatureIDE/wiki/">
+						 Coming Soon...
+					</a>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				description follows
+			</td>
+			<td>
+				description follows
+			</td>
+			<td>
+				description follows
+			</td>
+			<td>
+				description follows
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 <!-- Additonal content -->

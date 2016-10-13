@@ -22,10 +22,10 @@ This page will filled soon.
 			Feature Order
 		</th>
 		<th>
-			Edit Views
+			Outline View: Feature Model
 		</th>
 		<th>
-			Outline View: Feature Model
+			Coming Soon...
 		</th>
 	</tr>
 	<tr>
@@ -73,12 +73,12 @@ This page will filled soon.
 		</td>
 		<td>
 			<p align="center">
-				<a href="/FeatureIDE/FeatureIDE/wiki/Edit-Views">Edit Views</a>
+				<a href="/FeatureIDE/FeatureIDE/wiki/Outline-Feature-Model">Outline: Feature Model</a>
 			</p>
 		</td>
 		<td>
 			<p align="center">
-				<a href="/FeatureIDE/FeatureIDE/wiki/Outline-Feature-Model">Outline: Feature Model</a>
+				<a href="/FeatureIDE/FeatureIDE/wiki/">Coming Soon...</a>
 			</p>
 		</td>
 	</tr>
