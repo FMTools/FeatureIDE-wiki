@@ -13,10 +13,11 @@ On the upper right there is a toolbar with buttons to filter/sort fields and met
 <!-- Content -->
 The functions of the **toolbar** from left to right are:       
 
-![Collaboration Outline Toolbar](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureIDEOutline/toolbar.PNG)
+![Collaboration Outline Toolbar](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/OutlineToolbar.png)
 
 * Collapse all
 * Expand all
+* Synchronize outline and feature diagram <kbd>NEW in 3.3</kbd>
 * Hide all fields
 * Hide all methods
 * Sort fields and methods by occurrence in the current feature.
