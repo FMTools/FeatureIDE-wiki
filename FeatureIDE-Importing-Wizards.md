@@ -15,7 +15,7 @@ For information visit our turorial on how to create a new FeatureIDE project: ht
 
 ![Select Import](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/FeatureHouseImport/FeatureIDEmenu.png)
 
-### 2.ii 
+#### 2.ii Select filesystem for import (you might want to select an existing model file or configuration files)
 
 ![Dialog for Import](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/FeatureHouseImport/ImportDialog.png)
 
