@@ -13,9 +13,11 @@ For information visit our turorial on how to create a new FeatureIDE project: ht
 ### 2. Importing existing projects
 #### 2.i Right-click on project and select the menupoint **FeatureIDE** and then **Import FeatureHouse Project..**
 
-###![Select Import](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/FeatureHouseImport/FeatureIDEmenu.png)
+![Select Import](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/FeatureHouseImport/FeatureIDEmenu.png)
 
 ### 2.ii 
+
+![Dialog for Import](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/FeatureHouseImport/ImportDialog.png)
 
 
 
