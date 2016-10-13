@@ -6,7 +6,7 @@ _**This part has already been updated for version 3.3.**_
 **Importing an existing FeatureHouse Projects** 
 
 <!-- Content -->
-##1. Create a **new FeatureIDE project** and select the Composer: FeatureHouse
+####1. Create a **new FeatureIDE project** and select the Composer: FeatureHouse
 
 For information visit our turorial on how to create a new FeatureIDE project: https://github.com/FeatureIDE/FeatureIDE/wiki/Creation-Wizards
 
