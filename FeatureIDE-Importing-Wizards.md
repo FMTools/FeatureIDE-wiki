@@ -13,7 +13,9 @@ For information visit our turorial on how to create a new FeatureIDE project: ht
 ### 2. Importing existing projects
 #### 2.i Right-click on project and select the menupoint **FeatureIDE** and then **Import FeatureHouse Project..**
 
+<td width="300px" height="350px"> <p align="center">
 ![Select Import](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/FeatureHouseImport/FeatureIDEmenu.png)
+</p></td>
 
 #### 2.ii Select filesystem for import (you might want to select an existing model file or configuration files)
 
