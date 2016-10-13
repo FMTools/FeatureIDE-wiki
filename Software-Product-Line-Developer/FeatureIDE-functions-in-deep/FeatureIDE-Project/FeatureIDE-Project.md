@@ -102,4 +102,24 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 	</tr>
 </table>
 
+<table>
+	<tr>
+		<th>
+			Importing existing FeatureProjects
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<p align="center">
+				<a href="/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Importing FeatureProjects">Importing FeatureProjects</a>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Is supported for FeatureHouseProjects
+		</td>
+	</tr>
+</table>
+
 <!-- Additional Content -->
