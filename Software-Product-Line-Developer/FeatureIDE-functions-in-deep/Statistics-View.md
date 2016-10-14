@@ -24,10 +24,16 @@ The first node in the line informs about the number of the **classes** (includin
 
 The second node shows statistics about **fields** and the third about **methods**. The number of unique methods contains only method resp. field introductions, thus each element is counted only once. The first part shows the unique names, which will be expanded on the next tree-level. The second-part count the whole number of fields respectively methods. Double clicking on the root node for features respectively methods sort the Objects in alphabetical or descending order. 
 
-The fourth node displays the **Lines Of Code** (LOC). The sub-nodes orde the lines of code by file extension and feature. The subentries can be sorted alphabetically or in descending order via double-click.
+_**This part has already been updated for version 3.3.**_ 
+
+The fourth node(in preprocessor projects the third node) displays the **Lines Of Code** (LOC). The sub-nodes order the lines of code for all composer types by file extension. Additionally for preprocessor projects it will count the LOC by features, non-variable code, variable code and preprocessor statements. The subentries can be sorted alphabetically or in descending order via double-click.
 Comments are not counted for the following file extensions: java, c, h, jj, jak, and cs. The default solution LOC counting only counts the lines of code without spaces and empty lines. 
 
-![Example](https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/StatisticsView/implementation.png)
+<td width="350px"> <p align="center">
+<img height="450px" alt="under construction" src="https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/FeatureHouseImport/StatisticsViewSimple.png">
+<img height="450px" alt="under construction" src="https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/FeatureHouseImport/StatisticsViewFull.png">
+<br> The left image shows the composer independent view and the right image shows the special LOCs for preprocessor projects.
+</p></td>
 
 ## 3 Statistic of product-line specification
 
