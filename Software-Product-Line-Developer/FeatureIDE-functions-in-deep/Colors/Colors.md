@@ -132,7 +132,11 @@ You can enable and disable the highlighting in the editor by opening the Context
 
 #### 2.i.e Configuration Map
  
-Under construction.
+_**This part has already been updated for version 3.3.**_
+
+Rightclick on a feature in the Configuration Map to open the Context Menu and use the menu point “**Feature Color**” as shown below.
+ 
+![Configuration Map Menu](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ConfigurationMapMenu.png)
 		
 ### 2.ii. Coloration Dialog
 _**This part has already been updated for version 3.3.**_
@@ -226,4 +230,6 @@ Colored features in the Advanced Configuration Tree of the chosen configuration.
  
 ###3.vii Configuration Map
  
-Colored features in the Configuration Map. (Under construction.)
+Colored features in the Configuration Map.
+ 
+![Colored Configuration Map](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredConfigurationMap.png)
