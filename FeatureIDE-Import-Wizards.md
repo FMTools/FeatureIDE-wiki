@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE project**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-project)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < ... < [**FeatureIDE project**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-project)
 
 <!-- Introduction -->
 FeatureIDE provides the possiblity of importing an existing project as a FeatureIDE project
