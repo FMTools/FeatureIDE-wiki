@@ -2,7 +2,7 @@
 [**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE project**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-project)
 
 <!-- Introduction -->
-FeatureIDE supports the **conversion of Java projects into FeatureIDE** projects.
+FeatureIDE supports the conversion of **Java projects** into **FeatureIDE projects**.
 
 <!-- Content -->
 
