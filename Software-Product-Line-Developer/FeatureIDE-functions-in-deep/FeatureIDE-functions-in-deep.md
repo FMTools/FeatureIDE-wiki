@@ -42,7 +42,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredFeatureDiagram.png">
+				<img height="100" width="100" alt="colors" src="https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/Colors/ColoredFeatureDiagram.png">
 			</p>
 		</td>
 	</tr>
@@ -116,7 +116,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="ConfigurationMap" src="https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/ConfigurationMap/ConfigurationMap.png">
 			</p>
 		</td>
 	</tr>
@@ -139,7 +139,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		</td>
 		<td>
 			<p align="center">
-				under construction
+				<a href="/FeatureIDE/FeatureIDE/wiki/Configuration-Map">Configuration Map</a>
 			</p>
 		</td>
 	</tr>
