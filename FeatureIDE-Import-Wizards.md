@@ -2,7 +2,7 @@
 [**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE project**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-project)
 
 <!-- Introduction -->
-A FeatureIDE project is our type of eclipse project to develop software product lines. The FeatureIDE projects defines how to model, implement, and build your product line.
+FeatureIDE provides the possiblity of importing an existing project as a FeatureIDE project
 
 <!-- Quick-Navigation-Table -->
 ### Quick Navigation:
