@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Functions-in-deep)
 
 <!-- Introduction -->
 A FeatureIDE project is our type of eclipse project to develop software product lines. The FeatureIDE projects defines how to model, implement, and build your product line.
@@ -105,19 +105,31 @@ A FeatureIDE project is our type of eclipse project to develop software product 
 <table>
 	<tr>
 		<th>
-			Importing Wizards
+			Import Wizards
 		</th>
+                <th>
+                        Conversion Wizards
+                </th>
 	</tr>
 	<tr>
 		<td>
 			<p align="center">
-				<a href="/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Importing Wizards">Importing Wizards</a>
+				<a href="/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Import-Wizards">Import Wizards</a>
+			</p>
+		</td>
+                <td>
+			<p align="center">
+				<a href="/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Conversion-Wizards">Conversion Wizards</a>
 			</p>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			How to importing existing FeatureProjects.
+			How to importing<br> existing feature projects.
+
+		</td>
+                <td>
+			How to convert existing<br> composer projects.
 
 		</td>
 	</tr>
