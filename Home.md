@@ -23,6 +23,7 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
     * [Collaboration Diagram] (https://github.com/tthuem/FeatureIDE/wiki/Collaboration-Diagram)
     * [Statistics View] (https://github.com/tthuem/FeatureIDE/wiki/Statistics-View)
     * [FeatureIDE Outline] (https://github.com/tthuem/FeatureIDE/wiki/FeatureIDE-Outline)
+    * [Configuration Map] (https://github.com/FeatureIDE/FeatureIDE/wiki/Configuration-Map)
 * [Samples] (https://github.com/tthuem/FeatureIDE/wiki/Samples)
   * [Best-Practice] (https://github.com/tthuem/FeatureIDE/wiki/Best-Practice)
                                                                                
