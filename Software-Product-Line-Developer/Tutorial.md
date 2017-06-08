@@ -44,7 +44,7 @@ Now, create a feature <code>Wonderful</code> and move it between the features <c
 
 <img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/model4.png">
 
-Now, we want to make the features <code>Beautiful</code> and <code>Wonderful</code> exclusive to each other. Select both features, create a new compound above using right click menu, and name it <code>Feature</code>. As this feature has no according implementation mark it as abstract using the context menu.
+Now, we want to make the features <code>Beautiful</code> and <code>Wonderful</code> exclusive to each other. Select both features, create a new parent feature above using right click menu and select <code>Create Feature Above</code>, and name it <code>Feature</code>. As this feature has no according implementation mark it as abstract using the context menu.
 
 <img align="center" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Tutorial/model5.png">
 
