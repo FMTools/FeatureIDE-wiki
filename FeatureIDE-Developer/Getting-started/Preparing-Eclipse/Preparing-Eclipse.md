@@ -34,7 +34,7 @@ Setup guide to develop FeatureIDE and new extensions with eclipse
 	</tr>
 	<tr>
 		<td>
-			<a href="/FeatureIDE/FeatureIDE/wiki/Eclipse-RCP-and-RAP-Development">Eclipse RCP and RAP</a>
+			<a href="/FeatureIDE/FeatureIDE/wiki/Eclipse-for-Committers">Eclipse for Committers</a>
 		</td>
 		<td>
 			<a href="/FeatureIDE/FeatureIDE/wiki/Checkout-FeatureIDE-sources">Checkout FeatureIDE sources</a>
