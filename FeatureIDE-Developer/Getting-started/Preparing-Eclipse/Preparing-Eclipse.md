@@ -18,17 +18,17 @@ Setup guide to develop FeatureIDE and new extensions with eclipse
 	<tr>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="Eclipse for Committers" src="https://eclipse.org/downloads/images/committers.png">
+				<img src="https://eclipse.org/downloads/images/committers.png">
 			</p>
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="70" width="140" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureIDElogo.png">
+				<img height="70" width="140" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureIDElogo.png">
 			</p>
 		</td>
 		<td width="160px">
 			<p align="center">
-				<img height="50" width="50" alt="under_construction" src="http://help.eclipse.org/luna/topic/org.eclipse.jdt.doc.user/images/org.eclipse.jdt.debug.ui/etool16/run_exc.png">
+				<img src="http://help.eclipse.org/luna/topic/org.eclipse.jdt.doc.user/images/org.eclipse.jdt.debug.ui/etool16/run_exc.png">
 			</p>
 		</td>
 	</tr>
