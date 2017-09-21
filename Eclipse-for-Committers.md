@@ -6,7 +6,7 @@
 <!-- Outline -->
 
 <!-- Content -->
-1. Download "Eclipse for RCP and RAP Developers" from https://eclipse.org/downloads/
+1. Download "Eclipse for Committers" from https://eclipse.org/downloads/eclipse-packages/
 - Unzip eclipse into a folder where you have full permissions (it is recommended not to use the "program files" folder) 
 - Create shortcut to start eclipse with the folowing VM options:
  
