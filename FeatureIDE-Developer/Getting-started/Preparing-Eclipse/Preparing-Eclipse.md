@@ -18,7 +18,7 @@ Setup guide to develop FeatureIDE and new extensions with eclipse
 	<tr>
 		<td width="160px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://www.eclipse.org/downloads/images/rcp.jpg">
+				<img height="100" width="100" alt="Eclipse for Committers" src="https://eclipse.org/downloads/images/committers.png">
 			</p>
 		</td>
 		<td width="160px">
