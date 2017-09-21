@@ -18,6 +18,6 @@
    
    It is recommended to use a folder that is not indexed by Windows as this may cause interactions with git
 5. Install required plug-ins:
-   - Install [CDT](https://eclipse.org/cdt/downloads.php) (only required if you are working C or C++)
-   - Install [AJDT](https://eclipse.org/ajdt/downloads/) (only required if you are working with AspectJ)
+   - Install [CDT](https://eclipse.org/cdt/downloads.php) (only required if you are working C or C++) <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Installation/cdt.png">
+   - Install [AJDT](https://eclipse.org/ajdt/downloads/) (only required if you are working with AspectJ) <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Installation/ajdt.png">
    - Restart eclipse after installation of new plug-ins 
