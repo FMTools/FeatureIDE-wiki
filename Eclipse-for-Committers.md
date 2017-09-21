@@ -20,5 +20,4 @@
 5. Install required plug-ins:
    - Install [CDT](https://eclipse.org/cdt/downloads.php) (only required if you are working C or C++)
    - Install [AJDT](https://eclipse.org/ajdt/downloads/) (only required if you are working with AspectJ)
-   - Install a git plug-in (e.g. [EGit](http://eclipse.org/egit/download/)) to manage the repository from within Eclipse (not required)
    - Restart eclipse after installation of new plug-ins 
