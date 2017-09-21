@@ -46,11 +46,5 @@ Setup guide to develop FeatureIDE and new extensions with eclipse
 			<a href="/FeatureIDE/FeatureIDE/wiki/Setting-Up-Code-Format">Setting Up Code Format</a>
 		</td>
 	</tr>
-
-	<!--<tr>
-		<td>Setup Eclipse</td>
-		<td>Get FeatureIDE</td>
-		<td>Setup FeatureIDE</td>
-	</tr>--!
 </table>
 <!-- Addition Content -->
