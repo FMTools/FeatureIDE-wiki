@@ -10,7 +10,11 @@
 2. Unzip eclipse into a folder where you have full permissions (it is recommended not to use the "program files" folder) 
 3. Create shortcut to start eclipse with the folowing VM options:
  
-   \- vmargs -Duser.name="Name Surename"
+   `- vmargs -Duser.name="Name Surname"`
+
+   Alternatively, add the following line to `eclipse.ini`:
+
+   `-Duser.name="Name Surname"`
    
    Eclipse will automatically insert you name as author if you create a new Class
 
