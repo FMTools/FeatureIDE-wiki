@@ -6,3 +6,5 @@
 <!-- Outline -->
 
 <!-- Content -->
+# Content
+1. [Feature IDE GUI Test](https://github.com/FeatureIDE/FeatureIDE/wiki/GUI-Tests)
