@@ -1,3 +1,6 @@
+<!-- Breadcrumb -->
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**FeatureIDE Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Developer) < [**Development Process in general**](https://github.com/FeatureIDE/FeatureIDE/wiki/Development-Process-in-general) < [**Testing-Process-overview**](https://github.com/FeatureIDE/FeatureIDE/wiki/Testing-Process-overview)
+
 # Introduction
 This section is about setting up and running FeatureIDE GUI-Tests. FeatureIDE GUI-Tests are used to test features where interaction with the GUI is necessary.
 
