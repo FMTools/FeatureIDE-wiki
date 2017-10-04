@@ -13,12 +13,13 @@ This panel contains a short info about the current dialog's state. This could be
 
 
 ### 2.i.c. A text box to insert the description for this constraint
-![Constraint Description Field](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/ConstraintDialog/FeatureList.png)
+![Constraint Description Field](https://user-images.githubusercontent.com/32126942/31176517-6542b0d4-a913-11e7-8144-857821f40bd0.png)
 
 Here you can click on to automatically copy-paste your selected feature into the free-text editor (see list item 4) at the current caret position.
 
 ### 2.i.d. The list of available operators (and, or, ...)
 Here you can click on to automatically copy-paste a operator into the free-text editor (see list item 4).
+
 ![Operator List](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/ConstraintDialog/OperatorList.png)
 
 ### 2.i.e. A free-text editor where you can formulate constraints according to the grammar
@@ -42,9 +43,8 @@ A constraint is built of features, operators and braces, e.g.
 FeatureA and not(FeatureB implies not (FeatureC or (FeatureD iff FeatureE)))
 
 The editor supports you with syntax-highlighting for keywords. Those keywords are:
-
-    Operators: (and, or, not, implies, iff) and
-    Braces: ( and )
+* **Operators**: (and, or, not, implies, iff) and
+* **Braces**: ( and )
 
 ### 2.iv.a. The Need and Use of Quotes
 
