@@ -11,11 +11,12 @@ This panel contains a short info about the current dialog's state. This could be
 ### 2.i.b. A list of available features and a filtering method for this list
 ![Feature List](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/ConstraintDialog/FeatureList.png)
 
+Here you can click on to automatically copy-paste your selected feature into the free-text editor (see list item 4) at the current caret position.
 
 ### 2.i.c. A text box to insert the description for this constraint
 ![Constraint Description Field](https://user-images.githubusercontent.com/32126942/31176517-6542b0d4-a913-11e7-8144-857821f40bd0.png)
 
-Here you can click on to automatically copy-paste your selected feature into the free-text editor (see list item 4) at the current caret position.
+Here you can add and edit a description.
 
 ### 2.i.d. The list of available operators (and, or, ...)
 Here you can click on to automatically copy-paste a operator into the free-text editor (see list item 4).
