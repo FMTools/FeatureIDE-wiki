@@ -17,7 +17,7 @@ Your primary tool to interact with the feature model is the context menu. It off
 
     This menu gives you access to actions that directly change the individual features or the structure of the feature model. It appears if you press the right mouse button while you have one or more features selected. Some actions are only available if you have selected exactly one feature, they will be greyed out if you select more than that.
 
-![featureselectedmenu](https://user-images.githubusercontent.com/32126695/31388378-2184441a-adce-11e7-9aa2-1f47324547f8.png)
+![featureselectedmenu](https://user-images.githubusercontent.com/32126695/31392785-6bcf095e-adda-11e7-87c5-3f951ff59102.png)
 
 3. **Connection Menu**
 
