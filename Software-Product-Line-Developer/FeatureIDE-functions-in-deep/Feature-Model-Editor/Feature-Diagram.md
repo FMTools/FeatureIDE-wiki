@@ -130,13 +130,11 @@ This constraint can theoretically be removed.
 
 ## 2.i Layouting possibilities
 
-
-
 There are currently 4 different kinds of layouting-algorithms usable in FeatureIDE, aswell as one option for manually adjusting the Feature Layout. These can be selected by clicking right-click and selecting the wanted layout at "Set Layout" in the Feature Diagram Editor.
 
 ### 2.ia Manual Layout
 
-<img alt="Manual Layout" src="https://github.com/FeatureIDETeam2/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/ManualLayout.png">
+<img alt="Manual Layout" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/ManualLayout.png">
 
 The Manual-Layout enables you to position the features wherever you want.
 
@@ -145,7 +143,6 @@ The Manual-Layout enables you to position the features wherever you want.
 <img alt="Top-Down (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownOrdered.png">
 
 ### 2.ic Top-Down (centered)
-
 
 <img alt="Top-Down (centered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownCentered.png">
 
