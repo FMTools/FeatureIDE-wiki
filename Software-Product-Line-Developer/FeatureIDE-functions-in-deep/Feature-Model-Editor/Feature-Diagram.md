@@ -7,7 +7,7 @@ This section describes the feature diagram of FeatureIDE
 
 <!-- Outline -->
 ## Outline
-1. [Feature Diagram] (#1-feature-diagram)  
+1. [Feature Diagram] (https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#1-feature-diagram)  
     1. [Feature Types] (#1i-feature-types)  
         1. [Concrete Feature] (#1ia-concrete-feature)  
         2. [Abstract Feature] (#1ib-abstract-feature)  
@@ -41,7 +41,7 @@ This section describes the feature diagram of FeatureIDE
 
 <!-- Content -->
 ## 1. Feature Diagram
-**Feature Diagram**
+
 <p align="center">
 <img alt="Feature Diagram Example" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/FeatureDiagram.png">
 </p>
