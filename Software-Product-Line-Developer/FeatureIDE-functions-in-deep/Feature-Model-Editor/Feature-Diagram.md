@@ -136,26 +136,26 @@ There are currently 4 different kinds of layouting-algorithms usable in FeatureI
 
 ### 2.ia Manual Layout
 
-<img align="left" alt="Manual Layout" src="https://github.com/FeatureIDETeam2/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/ManualLayout.png">
+<img alt="Manual Layout" src="https://github.com/FeatureIDETeam2/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/ManualLayout.png">
 
 The Manual-Layout enables you to position the features wherever you want.
 
 ### 2.ib Top-Down (ordered)
 
-<img align="left" alt="Top-Down (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownOrdered.png">
+<img alt="Top-Down (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownOrdered.png">
 
 ### 2.ic Top-Down (centered)
 
 
-<img align="left" alt="Top-Down (centered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownCentered.png">
+<img alt="Top-Down (centered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownCentered.png">
 
 ### 2.id Top-Down (left-aligned)
 
-<img align="left" alt="Top-Down (left-aligned)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownLeftAligned.png">
+<img alt="Top-Down (left-aligned)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownLeftAligned.png">
 
 ### 2.ie Left-To-Right (ordered)
 
-<img align="left" alt="Left-To-Right (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/LeftToRightOrdered.png">
+<img alt="Left-To-Right (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/LeftToRightOrdered.png">
 
 ## 2.ii Legend Auto-Layout
 ## 2.iii Constraints Auto-Layout
