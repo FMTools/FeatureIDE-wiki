@@ -64,18 +64,18 @@ A feature used to build groups of features with a specific connection (e.g. [And
 This feature will not be shown in configurations.
 
 #### 1.i.d. Indeterminate Hidden Feature:
-<img width="105px" align="left" alt="Indeterminate Hidden Feature" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/IndeterminateHidden.png">
+<img width="105px" align="left" alt="Indeterminate Hidden Feature" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/IndeterminateHidden.png">
 This feature will not be shown in configurations.
 
 ### 1.ii. Connection Types:
 
 #### 1.ii.a. Mandatory Feature:
-<img width="32px" align="left" alt="Mandatory Feature" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Mandatory.png">
+<img width="32px" align="left" alt="Mandatory Feature" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Mandatory.png">
 
 This feature must be chosen in all configurations.
 
 #### 1.ii.b. Optional Feature:
-<img width="32px" align="left" alt="Optional Feature" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Optional.png">
+<img width="32px" align="left" alt="Optional Feature" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Optional.png">
 
 This feature can be chosen in all configurations.
 
@@ -142,20 +142,20 @@ The Manual-Layout enables you to position the features wherever you want.
 
 ### 2.ib Top-Down (ordered)
 
-<img align="left" alt="Top-Down (ordered)" src="https://github.com/FeatureIDETeam2/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownOrdered.png">
+<img align="left" alt="Top-Down (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownOrdered.png">
 
 ### 2.ic Top-Down (centered)
 
 
-<img align="left" alt="Top-Down (centered)" src="https://github.com/FeatureIDETeam2/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownCentered.png">
+<img align="left" alt="Top-Down (centered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownCentered.png">
 
 ### 2.id Top-Down (left-aligned)
 
-<img align="left" alt="Top-Down (left-aligned)" src="https://github.com/FeatureIDETeam2/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownLeftAligned.png">
+<img align="left" alt="Top-Down (left-aligned)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownLeftAligned.png">
 
 ### 2.ie Left-To-Right (ordered)
 
-<img align="left" alt="Left-To-Right (ordered)" src="https://github.com/FeatureIDETeam2/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/LeftToRightOrdered.png">
+<img align="left" alt="Left-To-Right (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/LeftToRightOrdered.png">
 
 ## 2.ii Legend Auto-Layout
 ## 2.iii Constraints Auto-Layout
