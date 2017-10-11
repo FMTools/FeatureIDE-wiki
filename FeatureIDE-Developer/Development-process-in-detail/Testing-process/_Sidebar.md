@@ -1,0 +1,16 @@
+# Testing process
+
+* [General user functionality] (https://github.com/FeatureIDE/FeatureIDE/wiki/General-user-functionality)
+* [Additional manual testing] (https://github.com/FeatureIDE/FeatureIDE/wiki/Additional-manual-testing)
+	* [Wizards] (https://github.com/FeatureIDE/FeatureIDE/wiki/Wizards-[FeatureIDE-Dev])
+	* [Product Generation] (https://github.com/FeatureIDE/FeatureIDE/wiki/Product-Generation-[FeatureIDE-Dev])
+	* [Run and Debug Configurations] (https://github.com/FeatureIDE/FeatureIDE/wiki/Run-and-Debug-Configurations-[FeatureIDE-Dev])
+	* [Package Explorer] (https://github.com/FeatureIDE/FeatureIDE/wiki/Package-Explorer-[FeatureIDE-Dev])
+	* [Feature Model Editor] (https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Model-Editor-[FeatureIDE-Dev])
+	* [Configuration Editor] (https://github.com/FeatureIDE/FeatureIDE/wiki/Configuration-Editor-[FeatureIDE-Dev])
+	* [Collaboration Diagram] (https://github.com/FeatureIDE/FeatureIDE/wiki/Collaboration-Diagram-[FeatureIDE-Dev])
+	* [Collaboration Outline] (https://github.com/FeatureIDE/FeatureIDE/wiki/Collaboration-Outline-[FeatureIDE-Dev])
+* [Provocation of misuse and errors] (https://github.com/FeatureIDE/FeatureIDE/wiki/Provocation-of-misuse-and-errors)
+* [Automated tests] (https://github.com/FeatureIDE/FeatureIDE/wiki/Automated-tests)
+	* [FeatureIDE Test Plugins] (https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Test-Plugins)
+	* [Extending the Test Plugins] (https://github.com/FeatureIDE/FeatureIDE/wiki/Extending-the-Test-Plugins)
