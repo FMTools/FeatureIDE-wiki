@@ -7,8 +7,8 @@ This section describes the feature diagram of FeatureIDE
 
 <!-- Outline -->
 ## Outline
-1. [Feature Diagram] (https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#1-feature-diagram)  
-    1. [Feature Types] (#1i-feature-types)  
+1. [Feature Diagram]
+    1. [Feature Types]
         1. [Concrete Feature] (#1ia-concrete-feature)  
         2. [Abstract Feature] (#1ib-abstract-feature)  
         3. [Concrete Hidden Feature] (#1ic-concrete-hidden-feature)  
@@ -69,6 +69,7 @@ This feature will not be shown in configurations.
 #### 1.i.d. Indeterminate Hidden Feature:
 <img width="105px" align="left" alt="Indeterminate Hidden Feature" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/IndeterminateHidden.png">
 This feature will not be shown in configurations.
+
 
 ### 1.ii. Connection Types:
 
@@ -177,9 +178,14 @@ Unless not specifically selected, FeatureIDE will automatically position the con
 ### 2.iiib Horizontal Layout Example
 <p align="center">
 <img alt="Auto-Layout Constraints Horizontal" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/AutoLayoutConstraintsHorizontal.png">
-
-
-
-[Feature Types]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#1-feature-diagram
 </p>
+
+
+[Feature Diagram]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#1-feature-diagram
+[Connection Types]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#1ii-connection-types
+[Other Types]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#1iii-other-types
+[Feature Diagram Layouts]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#2-feature-diagram-layouts
+[Layout-Algorithms for the Feature Order]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#2i-layout-algorithms-for-the-feature-order
+[Legend Auto-Layout]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#2ii-legend-auto-layout
+[Constraints Auto-Layout]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#2iii-constraints-auto-layout
 
