@@ -134,7 +134,7 @@ There are currently 4 different kinds of layouting-algorithms usable in FeatureI
 
 ### 2.ia Manual Layout
 
-<img alt="Manual Layout" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/ManualLayout.png">
+<img alt="Manual Layout" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Manual.png">
 
 The Manual-Layout enables you to position the features wherever you want.
 
