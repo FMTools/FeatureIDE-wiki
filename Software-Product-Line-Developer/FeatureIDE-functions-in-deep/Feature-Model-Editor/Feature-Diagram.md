@@ -177,5 +177,9 @@ Unless not specifically selected, FeatureIDE will automatically position the con
 ### 2.iiib Horizontal Layout Example
 <p align="center">
 <img alt="Auto-Layout Constraints Horizontal" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/AutoLayoutConstraintsHorizontal.png">
+
+
+
+[Feature Types]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#1-feature-diagram
 </p>
 
