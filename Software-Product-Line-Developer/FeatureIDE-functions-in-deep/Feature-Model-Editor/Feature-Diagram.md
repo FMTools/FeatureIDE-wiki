@@ -33,6 +33,8 @@ This section describes the feature diagram of FeatureIDE
 		5. [Left-To-Right (ordered)] (#2ie-left-to-right-ordered)
 	2. [Legend Auto-Layout] (#2ii-legend-auto-layout)
 	3. [Constraints Auto-Layout] (#2iii-constraints-auto-layout)
+		1. [Constraints Vertical] (#2iiia-constraints-vertical)
+		2. [Constraints Horizontal] (#2iiib-constraints-horizontal)
 
 
 ***
@@ -132,37 +134,48 @@ This constraint can theoretically be removed.
 
 There are currently four different kinds of layouting-algorithms usable in FeatureIDE, aswell as one option for manually adjusting the Feature Layout. These can be selected by right-clicking and selecting the wanted layout at "Set Layout" in the Feature Diagram Editor.
 
+The following paragraphs will show you the different kinds of aforementioned algorithms currently available in FeatureIDE.
+
 ### 2.ia Manual Layout
 
-<img alt="Manual Layout" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Manual.png">
-
-The Manual-Layout enables you to position the features wherever you want.
+<img alt="Manual Layout" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/Manual.png">
 
 ### 2.ib Top-Down (ordered)
 
-<img alt="Top-Down (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownOrdered.png">
+<img alt="Top-Down (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/TopDownOrdered.png">
 
 ### 2.ic Top-Down (centered)
 
-<img alt="Top-Down (centered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownCentered.png">
+<img alt="Top-Down (centered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/TopDownCentered.png">
 
 ### 2.id Top-Down (left-aligned)
 
-<img alt="Top-Down (left-aligned)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/TopDownLeftAligned.png">
+<img alt="Top-Down (left-aligned)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/TopDownLeftAligned.png">
 
 ### 2.ie Left-To-Right (ordered)
 
-<img alt="Left-To-Right (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/LeftToRightOrdered.png">
+<img alt="Left-To-Right (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/LeftToRightOrdered.png">
 
 ## 2.ii Legend Auto-Layout
 
 If the legend is visible, you can right-click on it to open its context menu. Selecting "Auto-Layout Legend" will activate a mode in which the legend will try to fit itself in one of the four positions (1 to 4) shown in the image below. If there is no empty space left, it will be placed next to the Feature Diagram (5).
 
-
 <p align="center">
-<img alt="Left-To-Right (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/LayoutLegendAlgorithm.png">
+<img alt="Layout Legend Algorithm" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/LayoutLegendAlgorithm.png">
 </p>
 
 ## 2.iii Constraints Auto-Layout
 
+Unless not specifically selected, FeatureIDE will automatically position the constraints.
+The positioning depends on the kind of the Layout-Algorithm, an example is given in the images below.
+
+### 2.iiia Vertical Layout Example
+<p align="center">
+<img alt="Auto-Layout Constraints Vertical" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/AutoLayoutConstraintsVertical.png">
+</p>
+
+### 2.iiib Horizontal Layout Example
+<p align="center">
+<img alt="Auto-Layout Constraints Horizontal" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/AutoLayoutConstraintsHorizontal.png">
+</p>
 
