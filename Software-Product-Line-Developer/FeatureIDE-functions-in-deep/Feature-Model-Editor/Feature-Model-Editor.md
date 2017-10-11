@@ -64,7 +64,7 @@ For additional information refer to the corresponding pages under the quick navi
 	<tr>
 		<td width="128px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/FeatureDiagramLogo.png">
 			</p>
 		</td>
 		<td width="128px">
