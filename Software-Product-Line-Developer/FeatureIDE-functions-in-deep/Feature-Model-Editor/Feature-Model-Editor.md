@@ -31,6 +31,8 @@
         * <kbd>CTRL</kbd> <kbd>-</kbd>
     * Scrolling
         * Hold middle mouse button and scroll
+    * Auto-Scrolling
+	* Select an element, hold left click and position your mouse at one of the edges of the Feature Diagram View
     * Select neighboring features
         * <kbd>←</kbd><kbd>↑</kbd><kbd>↓</kbd><kbd>→</kbd> 
 
