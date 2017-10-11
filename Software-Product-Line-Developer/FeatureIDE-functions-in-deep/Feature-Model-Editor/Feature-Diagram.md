@@ -25,7 +25,7 @@ This section describes the feature diagram of FeatureIDE
         3. [Collapsed Feature] (#1iiic-collapsed-feature)
         4. [Redundant Constraint] (#1iiid-redundant-constraint)
 2. [Feature Diagram Layouts] (#2-feature-diagram-layouts)
-	1. [Layouting possibilities] (#2i-layouting-possibilites) 
+	1. [Layout-Algorithms for the Feature Order] (#2i-layout-algorithms-for-the-feature-order) 
 		1. [Manual Layout] (#2ia-manual-layout)
 		2. [Top-Down (ordered)] (#2ib-top-down-ordered)
 		3. [Top-Down (centered)] (#2ic-top-down-centered)
@@ -128,9 +128,9 @@ This constraint can theoretically be removed.
 
 # 2. Feature Diagram Layouts:
 
-## 2.i Layouting possibilities
+## 2.i Layout-Algorithms for the Feature Order
 
-There are currently 4 different kinds of layouting-algorithms usable in FeatureIDE, aswell as one option for manually adjusting the Feature Layout. These can be selected by clicking right-click and selecting the wanted layout at "Set Layout" in the Feature Diagram Editor.
+There are currently four different kinds of layouting-algorithms usable in FeatureIDE, aswell as one option for manually adjusting the Feature Layout. These can be selected by right-clicking and selecting the wanted layout at "Set Layout" in the Feature Diagram Editor.
 
 ### 2.ia Manual Layout
 
@@ -155,6 +155,12 @@ The Manual-Layout enables you to position the features wherever you want.
 <img alt="Left-To-Right (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/LeftToRightOrdered.png">
 
 ## 2.ii Legend Auto-Layout
+
+If the legend is visible, you can right-click on it to open its context menu. Selecting "Auto-Layout Legend" will activate a mode in which the legend will try to fit itself in one of the four positions (1 to 4) shown in the image below. If there is no empty space left, it will be placed next to the Feature Diagram (5).
+
+<img alt="Left-To-Right (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/LayoutLegendAlgorithm.png">
+
+
 ## 2.iii Constraints Auto-Layout
 
 
