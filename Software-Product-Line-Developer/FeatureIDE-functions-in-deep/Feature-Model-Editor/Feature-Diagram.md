@@ -132,7 +132,7 @@ This constraint can theoretically be removed.
 
 ## 2.i Layout-Algorithms for the Feature Order
 
-There are currently four different kinds of layouting-algorithms usable in FeatureIDE, aswell as one option for manually adjusting the Feature Layout. These can be selected by right-clicking and selecting the wanted layout at "Set Layout" in the Feature Diagram Editor.
+There are currently four different kinds of layout-algorithms usable in FeatureIDE, aswell as one option for manually adjusting the Feature Layout. These can be selected by right-clicking and selecting the wanted layout at "Set Layout" in the Feature Diagram Editor.
 
 The following paragraphs will show you the different kinds of aforementioned algorithms currently available in FeatureIDE.
 
