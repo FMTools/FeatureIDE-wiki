@@ -158,8 +158,10 @@ The Manual-Layout enables you to position the features wherever you want.
 
 If the legend is visible, you can right-click on it to open its context menu. Selecting "Auto-Layout Legend" will activate a mode in which the legend will try to fit itself in one of the four positions (1 to 4) shown in the image below. If there is no empty space left, it will be placed next to the Feature Diagram (5).
 
-<img alt="Left-To-Right (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/LayoutLegendAlgorithm.png">
 
+<p align="center">
+<img alt="Left-To-Right (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/LayoutLegendAlgorithm.png">
+</p>
 
 ## 2.iii Constraints Auto-Layout
 
