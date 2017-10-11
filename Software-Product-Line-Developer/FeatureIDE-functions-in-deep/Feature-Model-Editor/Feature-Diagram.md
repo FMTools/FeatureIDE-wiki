@@ -166,8 +166,7 @@ If the legend is visible, you can right-click on it to open its context menu. Se
 
 ## 2.iii Constraints Auto-Layout
 
-Unless not specifically selected, FeatureIDE will automatically position the constraints.
-The positioning depends on the kind of the Layout-Algorithm, an example is given in the images below.
+Unless not specifically selected, FeatureIDE will automatically position the constraints depending on the position of the root element and on the layout-algorithm selected. Two examples are given below.
 
 ### 2.iiia Vertical Layout Example
 <p align="center">
