@@ -2,33 +2,13 @@
 [**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < **...** < [**FeatureIDE Functions in Deep**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep) < [**Feature Model Editor**](https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Model-Editor)
 
 <!-- Introduction -->
-Sometimes it is required to express more complex constraints inside a feature model than e.g. "feature *A* requires parent feature". However, to formulate such constraints you can use the *ConstraintDialog* which is a text-editor with auto-completion supported, auto-validity checks and other tools. 
-
-<!-- Outline -->
-1. [Overview] (#1-overview)
-	1. [Create New Constraints] (#1i-create-new-constraints)
-	2. [Create New Constraints Starting with Selection] (#1ii-create-new-constraints-starting-with-selection)
-	3. [Editing of Existing Constraints](#1iii-editing-of-existing-constraints)
-	4. [Remove Existing Constraints](#1iv-remove-existing-constraints)
-	5. [Saving changes](#1v-saving-changes)
-2. [More in Detail](#2-more-in-detail)
-	1. [Elements of the dialog](#2-elements-of-the-dialog)
-		1. [The status information panel] (#2ia-the-status-information-panel)
-		2. [A list of available features and a filtering method for this list] (#2ib-a-list-of-available-features-and-a-filtering-method-for-this-list)
-		3. [The list of available operators (and, or, ...)] (2ic-#the-list-of-available-operators-and-or-)
-		4. [A free-text editor where you can formulate constraints according to the grammar] (#2id-a-free-text-editor-where-you-can-formulate-constraints-according-to-the-grammar)
-		5. [The dialog's control buttons] (#2ie-the-dialogs-control-buttons)
-	2. [About different States to Leaving the Dialog] (#2ii-about-different-states-to-leaving-the-dialog)
-	3. [Creating Constraints with or without the keyboard] (#2iii-creating-constraints-with-or-without-the-keyboard)
-	4. [Constraint Free Style Text Input and it's Grammar] (#2iv-constraint-free-style-text-input-and-its-grammar)
-		1. [The Need and Use of Quotes] (#2iva-the-need-and-use-of-quotes)
-	5. [Live-Checks On Your Constraint](#2v-live-checks-on-your-constraint)
+Sometimes it is required to express more complex constraints inside a feature model than e.g. "feature *A* requires parent feature". However, to formulate such constraints you can use the Constraint Dialog which is a text-editor with auto-completion supported, auto-validity checks and other tools.
 
 <!-- Content -->
 ## 1. Overview
 
 ### 1.i. Create New Constraints
-To open the *ConstraintDialog*, right-click on a feature name inside a feature model and select *"Create Constraint"* in the popup menu. This will open the ConstraintDialog with an empty input textfield. 
+To open the Constraint Dialog, right-click on a feature name inside a feature model and select *"Create Constraint"* in the popup menu. This will open the Constraint Dialog with an empty input textfield. 
 
 ![Create Constraint](https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/ConstraintDialog/CreateConstraintNoRef.png)
 
