@@ -118,7 +118,7 @@ This feature can theoretically be mandatory. Check your Constraints.
 
 ### Collapsed Feature:
 
-<img width="64px" align="left" alt="Collapsed Feature" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/CollapsedFeature.png">
+<img width="64px" align="left" alt="Collapsed Feature" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/CollapsedFeature.png">
 
 A feature is collapsed and has 'n' children.  
 See more information under FeatureModelEditorCollapse  
