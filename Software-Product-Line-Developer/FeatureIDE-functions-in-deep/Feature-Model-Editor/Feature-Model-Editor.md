@@ -16,7 +16,7 @@
         * <kbd>F2</kbd>
     * Insert feature below
         * <kbd>Ins</kbd>
-    * Collapse/Expand: 
+    * Collapse/Expand 
         * <kbd>CTRL</kbd> <kbd>c</kbd>
         * Double click on feature
     * Delete feature or constraint
@@ -31,8 +31,8 @@
         * <kbd>CTRL</kbd> <kbd>-</kbd>
     * Scrolling
         * Hold middle mouse button and scroll
-    * Auto-Scrolling
-        * Select an element, hold left click and position your mouse at one of the edges of the Feature Diagram View
+    * Drag and Drop / Scrolling the Feature Diagram View
+        * Hold an element and position your cursor at one of the edges of the Feature Diagram View
     * Select neighboring features
         * <kbd>←</kbd><kbd>↑</kbd><kbd>↓</kbd><kbd>→</kbd> 
 
