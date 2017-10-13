@@ -177,7 +177,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 		<tr>
 			<td width="160px">
 				<p align="center">
-					<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png" alt="under_construction" width="100" height="100" />
+					<img src="https://user-images.githubusercontent.com/32126695/31388234-b24ca8c6-adcd-11e7-9c6f-e991c9363ae8.png" alt="nothing_selected_context_menu" width="100" height="100" />
 				</p>
 			</td>
 			<td width="160px">
