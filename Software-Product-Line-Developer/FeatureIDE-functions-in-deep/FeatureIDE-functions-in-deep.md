@@ -165,7 +165,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 				Edit Views
           </th>
 			<th>
-				Feature Editor Context Menus
+				Feature Model Editor Context Menus
 			</th>
 			<th>
 				Coming Soon...
@@ -206,8 +206,8 @@ For a detailed list of the main functionalities you can have a look at this [scr
 			</td>
 			<td>
 				<p align="center">
-					<a href="/FeatureIDE//FeatureIDE/wiki/Feature-Model-Context-Menus">
-						 Feature Editor Context Menus
+					<a href="/FeatureIDE//FeatureIDE/wiki/Feature-Model-Editor-Context-Menus">
+						 Feature Model Editor Context Menus
 					</a>
 				</p>
 			</td>
