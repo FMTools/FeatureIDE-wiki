@@ -4,7 +4,7 @@
 <!-- Introduction -->
 Create a **new Feature Model** via _new > FeatureIDE > Feature Model_:
 
-![Location Page](https://user-images.githubusercontent.com/32126942/31543095-ed3aecd8-b014-11e7-9388-3fbe1ee1c725.png)
+![Location Page](https://user-images.githubusercontent.com/32126942/31543372-0a6872b6-b016-11e7-8e10-24ecfcd89ab4.png)
 
 Choose your file destination folder and type the file name. Continue by clicking on next or finish (default format is xml)
 
