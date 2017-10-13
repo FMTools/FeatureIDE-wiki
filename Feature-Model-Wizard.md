@@ -1,4 +1,5 @@
 <!-- Breadcrumb -->
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki/Creation-Wizards) < **...** < [**FeatureIDE Functions in Deep**]
 (https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Project)
 
 <!-- Introduction -->
