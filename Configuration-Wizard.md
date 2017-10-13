@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-(https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Project)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki/) < **...** < [**Creation Wizards**](https://github.com/FeatureIDE/FeatureIDE/wiki/Creation-Wizards)
 
 <!-- Introduction -->
 Create a **new Configuration File** via _new > FeatureIDE > Configuration File_:
