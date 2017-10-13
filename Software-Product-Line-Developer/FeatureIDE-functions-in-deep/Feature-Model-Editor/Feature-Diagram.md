@@ -104,14 +104,14 @@ Exactly one feature under this connection must be chosen.
 
 ### Dead Feature:
 
-<img width="64px" align="left" alt="Dead Feature" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/DeadFeature.png">
+<img width="64px" align="left" alt="Dead Feature" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/DeadFeature.png">
 
 A warning that a feature exists which cannot be chosen in any valid configuration.  
 This feature can theoretically be removed. Check your Constraints.  
 
 ### False-optional Feature:
 
-<img width="64px" align="left" alt="False-Optional Feature" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/FalseOptionalFeature.png">
+<img width="64px" align="left" alt="False-Optional Feature" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/FalseOptionalFeature.png">
 
 A warning that a feature exists which is marked as optional, but is always required.  
 This feature can theoretically be mandatory. Check your Constraints.  
@@ -125,7 +125,7 @@ See more information under FeatureModelEditorCollapse
 
 ### Redundant Constraint:
 
-<img width="64px" align="left" alt="Redundant Constraint" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/RedundantConstraint.png">
+<img width="64px" align="left" alt="Redundant Constraint" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/RedundantConstraint.png">
 
 A warning that a redundant constraint exists.
 This constraint can theoretically be removed.  
