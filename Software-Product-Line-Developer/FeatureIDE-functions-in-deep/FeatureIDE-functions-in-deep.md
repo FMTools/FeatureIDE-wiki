@@ -206,8 +206,8 @@ For a detailed list of the main functionalities you can have a look at this [scr
 			</td>
 			<td>
 				<p align="center">
-					<a href="/DawidSA2017/FeatureIDE/wiki/Feature-Model-Editor-Actions">
-						 Coming Soon...
+					<a href="/FeatureIDE/FeatureIDE/wiki/Feature-Model-Editor-Actions">
+						 Feature Editor Context Menus
 					</a>
 				</p>
 			</td>
