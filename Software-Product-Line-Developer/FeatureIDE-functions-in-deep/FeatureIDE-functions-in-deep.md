@@ -165,7 +165,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 				Edit Views
           </th>
 			<th>
-				Coming Soon...
+				Feature Editor Context Menus
 			</th>
 			<th>
 				Coming Soon...
@@ -206,7 +206,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 			</td>
 			<td>
 				<p align="center">
-					<a href="/FeatureIDE/FeatureIDE/wiki/">
+					<a href="/DawidSA2017/FeatureIDE/wiki/Feature-Model-Editor-Actions">
 						 Coming Soon...
 					</a>
 				</p>
