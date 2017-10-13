@@ -1,6 +1,5 @@
 <!-- Breadcrumb -->
-[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki/Creation-Wizards) < **...** < [**FeatureIDE Functions in Deep**]
-(https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Project)
+[**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki/Creation-Wizards) < **...** < [**Creation Wizards**]
 
 <!-- Introduction -->
 Create a **new Feature Model** via _new > FeatureIDE > Feature Model_:
