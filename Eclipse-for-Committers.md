@@ -14,7 +14,7 @@
 
    Alternatively, add the following line to `eclipse.ini`:
 
-   `-Duser.name="Name Surname"`
+   `-Duser.name=Name Surname`
    
    Eclipse will automatically insert you name as author if you create a new Class
 
