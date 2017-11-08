@@ -15,9 +15,15 @@ We distinguish two pre-packaged versions for FeatureIDE. If you only aim to feat
    
    It is recommended to use a folder that is not indexed by Windows as this may cause weird interactions with git.
 5. Install required plug-ins:
-   - Install [CDT](https://eclipse.org/cdt/downloads.php) (required if you are working C or C++, or if you want to compile the FeatureIDE extension Colligens, which is recommended) <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Installation/cdt.png">
-   - Install [AJDT](https://eclipse.org/ajdt/downloads/) (only required if you are working with AspectJ) <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Installation/ajdt.png">
-   - Install [FeatureIDE](http://featureide.cs.ovgu.de/update/v3/) <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Installation/featureide-allplugins.png">
+   - Install [CDT](https://eclipse.org/cdt/downloads.php) (required if you are working C or C++, or if you want to compile the FeatureIDE extension Colligens, which is recommended) 
+
+     <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Installation/cdt.png">
+   - Install [AJDT](https://eclipse.org/ajdt/downloads/) (only required if you are working with AspectJ) 
+
+     <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Installation/ajdt.png">
+   - Install [FeatureIDE](http://featureide.cs.ovgu.de/update/v3/) 
+
+     <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Installation/featureide-allplugins.png">
    - Restart eclipse after installation of new plug-ins 
 6. Open the FeatureIDE perspective
 
@@ -29,8 +35,12 @@ If you only aim to feature model and configuration editor and you are not intere
    
    It is recommended to use a folder that is not indexed by Windows as this may cause weird interactions with git.
 5. Install required plug-ins:
-   - Install [FeatureIDE](http://featureide.cs.ovgu.de/update/v3/) <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Installation/featureide-pure.png">
+   - Install [FeatureIDE](http://featureide.cs.ovgu.de/update/v3/) 
+
+     <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Installation/featureide-pure.png">
      
-     Alternatively, you may also experiment with only installing feature modeling to even reduce the size of Eclipse. However, many nice features of FeatureIDE are not available then. <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Installation/featureide-onlyfeaturemodeling.png">
+     Alternatively, you may also experiment with only installing feature modeling to even reduce the size of Eclipse. However, many nice features of FeatureIDE are not available then. 
+
+     <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/Installation/featureide-onlymodeling.png">
    - Restart eclipse after installation of new plug-ins 
 6. Open the FeatureIDE perspective
