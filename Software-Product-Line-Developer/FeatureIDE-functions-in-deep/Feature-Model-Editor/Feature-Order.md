@@ -20,29 +20,29 @@ This section describes the Feature Order View of FeatureIDE.
 <!-- Content -->
 # Feature Order View
 <p align="center">
-<img alt="Feature Diagram Example" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureOrder/FeatureOrderViewBase.png">
+<img alt="Feature Diagram Example" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureOrder/FeatureOrderViewBase.png">
 </p>
 
 The Feature Order View is a tool to sort the features to determine in which order the features should get compiled.
 
-Remember that using the Feature Order View is only possible by using a FeatureIDE Project that is not for modelling purposes only.
+Remember that using the Feature Order View is only possible by using a FeatureIDE Project that is not for modeling purposes only.
 In short, creating, for example, an Antenna, FeatureHouse or Munge Project will enable the Feature Order View.
 
 ## Using the Feature Order View
 To use the Feature Order View select the tab "Feature Order" at the bottom of the Feature Model View.
 
 <p align="center">
-<img alt="Feature Order Select1" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureOrder/FeatureOrderSelect1.png">
+<img alt="Feature Order Select1" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureOrder/FeatureOrderSelect1.png">
 </p>
 
 Then just select the checkbox "User-defined feature order".
 
 <p align="center">
-<img alt="Feature Order Select2" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureOrder/FeatureOrderSelect2.png">
+<img alt="Feature Order Select2" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureOrder/FeatureOrderSelect2.png">
 </p>
 
 ## Updating the position of features
-To update the position of features using the Feature Order View, just select the features you want to move. Then you can choose between the following two possibilites to order the features.
+To update the position of features using the Feature Order View, just select the features you want to move. Then you can choose between the following two possibilities to order the features.
 
 To simplify matters, changing the order of the features in the Feature Model Diagram will also update the position of the features in the Feature Order View and vice versa.
 
@@ -60,8 +60,8 @@ You can also position features by using Drag and Drop.
 Select the features you want to position, hold left-click and position your mouse at the column at which you want to insert them.
 
 [here]: https://en.wikipedia.org/wiki/Tree_traversal#Pre-order
-[Feature Order View]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Order#feature-order-view
-[Using the Feature Order View]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Order#using-the-feature-order-view
-[Updating the position of features]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Order#updating-the-position-of-features
-[Buttons]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Order#buttons
-[Drag and Drop]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Order#drag-and-drop
+[Feature Order View]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Order#feature-order-view
+[Using the Feature Order View]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Order#using-the-feature-order-view
+[Updating the position of features]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Order#updating-the-position-of-features
+[Buttons]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Order#buttons
+[Drag and Drop]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Order#drag-and-drop
