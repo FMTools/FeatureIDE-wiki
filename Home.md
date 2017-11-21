@@ -1,3 +1,4 @@
+
 # Welcome to the FeatureIDE wiki!
 
 <p align="justify">
@@ -50,3 +51,4 @@ FeatureIDE is an Eclipse-based IDE that supports all phases of feature-oriented 
   * [Update the wiki](https://github.com/tthuem/FeatureIDE/wiki/Update-the-Wiki)
   * [Eclipse features](https://github.com/tthuem/FeatureIDE/wiki/Eclipse-Features)
   * [Jobs in FeatureIDE](https://github.com/tthuem/FeatureIDE/wiki/Jobs-in-FeatureIDE)
+
