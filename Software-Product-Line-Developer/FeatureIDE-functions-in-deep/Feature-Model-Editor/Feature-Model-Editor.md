@@ -16,7 +16,7 @@
         * <kbd>F2</kbd>
     * Insert feature below
         * <kbd>Ins</kbd>
-    * Collapse/Expand: 
+    * Collapse/Expand 
         * <kbd>CTRL</kbd> <kbd>c</kbd>
         * Double click on feature
     * Delete feature or constraint
@@ -31,6 +31,8 @@
         * <kbd>CTRL</kbd> <kbd>-</kbd>
     * Scrolling
         * Hold middle mouse button and scroll
+    * Drag and Drop / Scrolling the Feature Diagram View
+        * Hold an element and position your cursor at one of the edges of the Feature Diagram View
     * Select neighboring features
         * <kbd>←</kbd><kbd>↑</kbd><kbd>↓</kbd><kbd>→</kbd> 
 
@@ -64,7 +66,7 @@ For additional information refer to the corresponding pages under the quick navi
 	<tr>
 		<td width="128px">
 			<p align="center">
-				<img height="100" width="100" alt="under_construction" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png">
+				<img height="100" width="100" alt="under_construction" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/FeatureDiagramLogo.png">
 			</p>
 		</td>
 		<td width="128px">
