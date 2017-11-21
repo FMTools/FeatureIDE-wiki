@@ -67,19 +67,19 @@ A feature used to build groups of features with a specific connection (e.g. [And
 This feature will not be shown in configurations.
 
 ### Indeterminate Hidden Feature:
-<img width="105px" align="left" alt="Indeterminate Hidden Feature" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/IndeterminateHidden.png">
+<img width="105px" align="left" alt="Indeterminate Hidden Feature" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/IndeterminateHidden.png">
 This feature will not be shown in configurations.
 
 
 ## Connection Types:
 
 ### Mandatory Feature:
-<img width="32px" align="left" alt="Mandatory Feature" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Mandatory.png">
+<img width="32px" align="left" alt="Mandatory Feature" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Mandatory.png">
 
 This feature must be chosen in all configurations.
 
 ### Optional Feature:
-<img width="32px" align="left" alt="Optional Feature" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Optional.png">
+<img width="32px" align="left" alt="Optional Feature" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Optional.png">
 
 This feature can be chosen in all configurations.
 
@@ -104,28 +104,28 @@ Exactly one feature under this connection must be chosen.
 
 ### Dead Feature:
 
-<img width="64px" align="left" alt="Dead Feature" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/DeadFeature.png">
+<img width="64px" align="left" alt="Dead Feature" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/DeadFeature.png">
 
 A warning that a feature exists which cannot be chosen in any valid configuration.  
 This feature can theoretically be removed. Check your Constraints.  
 
 ### False-optional Feature:
 
-<img width="64px" align="left" alt="False-Optional Feature" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/FalseOptionalFeature.png">
+<img width="64px" align="left" alt="False-Optional Feature" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/FalseOptionalFeature.png">
 
 A warning that a feature exists which is marked as optional, but is always required.  
 This feature can theoretically be mandatory. Check your Constraints.  
 
 ### Collapsed Feature:
 
-<img width="64px" align="left" alt="Collapsed Feature" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/CollapsedFeature.png">
+<img width="64px" align="left" alt="Collapsed Feature" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/CollapsedFeature.png">
 
 A feature is collapsed and has 'n' children.  
 See more information under FeatureModelEditorCollapse  
 
 ### Redundant Constraint:
 
-<img width="64px" align="left" alt="Redundant Constraint" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/RedundantConstraint.png">
+<img width="64px" align="left" alt="Redundant Constraint" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/RedundantConstraint.png">
 
 A warning that a redundant constraint exists.
 This constraint can theoretically be removed.  
@@ -140,30 +140,30 @@ The following paragraphs will show you the different kinds of aforementioned alg
 
 ### Manual Layout
 
-<img alt="Manual Layout" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/Manual.png">
+<img alt="Manual Layout" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/Manual.png">
 
 ### Top-Down (ordered)
 
-<img alt="Top-Down (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/TopDownOrdered.png">
+<img alt="Top-Down (ordered)" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/TopDownOrdered.png">
 
 ### Top-Down (centered)
 
-<img alt="Top-Down (centered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/TopDownCentered.png">
+<img alt="Top-Down (centered)" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/TopDownCentered.png">
 
 ### Top-Down (left-aligned)
 
-<img alt="Top-Down (left-aligned)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/TopDownLeftAligned.png">
+<img alt="Top-Down (left-aligned)" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/TopDownLeftAligned.png">
 
 ### Left-To-Right (ordered)
 
-<img alt="Left-To-Right (ordered)" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/LeftToRightOrdered.png">
+<img alt="Left-To-Right (ordered)" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/LeftToRightOrdered.png">
 
 ## Legend Auto-Layout
 
 If the legend is visible, you can right-click on it to open its context menu. Selecting "Auto-Layout Legend" will activate a mode in which the legend will try to fit itself in one of the four positions (1 to 4) shown in the image below. If there is no empty space left, it will be placed next to the Feature Diagram (5).
 
 <p align="center">
-<img alt="Layout Legend Algorithm" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/LayoutLegendAlgorithm.png">
+<img alt="Layout Legend Algorithm" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/LayoutLegendAlgorithm.png">
 </p>
 
 ## Constraints Auto-Layout
@@ -172,41 +172,41 @@ Unless not specifically selected, FeatureIDE will automatically position the con
 
 ### Vertical Layout Example
 <p align="center">
-<img alt="Auto-Layout Constraints Vertical" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/AutoLayoutConstraintsVertical.png">
+<img alt="Auto-Layout Constraints Vertical" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/AutoLayoutConstraintsVertical.png">
 </p>
 
 ### Horizontal Layout Example
 <p align="center">
-<img alt="Auto-Layout Constraints Horizontal" src="https://github.com/Henningson/FeatureIDETeam2/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/AutoLayoutConstraintsHorizontal.png">
+<img alt="Auto-Layout Constraints Horizontal" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/AutoLayoutConstraintsHorizontal.png">
 </p>
 
 
-[Feature Diagram]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#feature-diagram
-[Feature Types]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#feature-types
-[Concrete Feature]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#concrete-feature
-[Abstract Feature]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#abstract-feature
-[Concrete Hidden Feature]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#concrete-hidden-feature
-[Indeterminate Hidden Feature]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#indeterminate-hidden-feature
-[Connection Types]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#connection-types
-[Mandatory Feature]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#mandatory-feature
-[Optional Feature]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#optional-feature 
-[And]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#and
-[Or]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#or
-[Alternative]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#alternative 
-[Other Types]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#other-types
-[Dead Feature]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#dead-feature
-[False-Optional Feature]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#false-optional-feature
-[Collapsed Feature]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#collapsed-feature
-[Redundant Constraint]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#redundant-constraint
-[Feature Diagram Layouts]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#feature-diagram-layouts
-[Layout-Algorithms for the Feature Order]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#layout-algorithms-for-the-feature-order
-[Manual Layout]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#manual-layout
-[Top-Down (ordered)]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#top-down-ordered
-[Top-Down (centered)]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#top-down-centered
-[Top-Down (left-aligned)]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#top-down-left-aligned
-[Left-To-Right (ordered)]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#left-to-right-ordered
-[Legend Auto-Layout]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#legend-auto-layout
-[Constraints Auto-Layout]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#constraints-auto-layout
-[Constraints Vertical]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#vertical-layout-example
-[Constraints Horizontal]: https://github.com/Henningson/FeatureIDETeam2/wiki/Feature-Diagram#horizontal-layout-example
+[Feature Diagram]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#feature-diagram
+[Feature Types]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#feature-types
+[Concrete Feature]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#concrete-feature
+[Abstract Feature]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#abstract-feature
+[Concrete Hidden Feature]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#concrete-hidden-feature
+[Indeterminate Hidden Feature]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#indeterminate-hidden-feature
+[Connection Types]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#connection-types
+[Mandatory Feature]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#mandatory-feature
+[Optional Feature]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#optional-feature 
+[And]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#and
+[Or]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#or
+[Alternative]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#alternative 
+[Other Types]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#other-types
+[Dead Feature]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#dead-feature
+[False-Optional Feature]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#false-optional-feature
+[Collapsed Feature]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#collapsed-feature
+[Redundant Constraint]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#redundant-constraint
+[Feature Diagram Layouts]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#feature-diagram-layouts
+[Layout-Algorithms for the Feature Order]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#layout-algorithms-for-the-feature-order
+[Manual Layout]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#manual-layout
+[Top-Down (ordered)]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#top-down-ordered
+[Top-Down (centered)]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#top-down-centered
+[Top-Down (left-aligned)]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#top-down-left-aligned
+[Left-To-Right (ordered)]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#left-to-right-ordered
+[Legend Auto-Layout]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#legend-auto-layout
+[Constraints Auto-Layout]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#constraints-auto-layout
+[Constraints Vertical]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#vertical-layout-example
+[Constraints Horizontal]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#horizontal-layout-example
 
