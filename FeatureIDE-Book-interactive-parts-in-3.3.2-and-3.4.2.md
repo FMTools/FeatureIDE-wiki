@@ -1,3 +1,5 @@
+Use ✅ and 🅾 to mark whether an instruction works.
+
 | Instruction # | works in 3.3.2 | works in 3.4.2 | GUI Test | comment |
 | :--------: |:-------------:| :-----:| :----: | :----: |
 | 2.1 | | | | Java-Download |
