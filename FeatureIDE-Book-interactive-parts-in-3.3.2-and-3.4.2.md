@@ -9,9 +9,9 @@ Use ✅ and 🅾 to mark whether an instruction works.
 | 2.5 | | | | Install FIDE Plugins | |
 | 3.1 | ✅ | | not necessary | | Paul |
 | 3.2 | ✅ | | not yet | Upon selecting Chapter 3, Part V -> Chapter 19 -> HelloWorld-FH-Java is also selected, this may be unintended | Paul |
-| 3.3 | | | | | |
-| 3.4 | | | | | |
-| 3.5 | | | | | |
+| 3.3 | ✅ | | | | Paul |
+| 3.4 | ✅ | | | | Paul |
+| 3.5 | ✅ | | | | Paul |
 | 3.6 | | | | | |
 | 4.1 | | | | | |
 | 4.2 | | | | | |
