@@ -187,7 +187,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 			</td>
 			<td width="160px">
 				<p align="center">
-					<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/under_construction.png" alt="under_construction" width="100" height="100" />
+					<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureAttributes/FM_Attributes_Preview.png" alt="FM_Attributes_Preview" width="100" height="100" />
 				</p>
 			</td>
 			<td width="160px">
@@ -214,7 +214,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 			<td>
 				<p align="center">
 					<a href="/FeatureIDE/FeatureIDE/wiki/">
-						 Coming Soon...
+						 Feature Attribute View
 					</a>
 				</p align="center">
 			</td>
@@ -234,7 +234,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 				Available context menus in the feature model editor
 			</td>
 			<td>
-				description follows
+				Management of feature models with attributes.
 			</td>
 			<td>
 				description follows
