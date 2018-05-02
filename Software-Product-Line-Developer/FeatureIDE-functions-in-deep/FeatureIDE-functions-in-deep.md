@@ -168,7 +168,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 				Feature Model Editor Context Menus
 			</th>
 			<th>
-				Coming Soon...
+				Feature Attributes
 			</th>
 			<th>
 				Coming Soon...
@@ -213,7 +213,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 			</td>
 			<td>
 				<p align="center">
-					<a href="/FeatureIDE/FeatureIDE/wiki/">
+					<a href="/FeatureIDE/FeatureIDE/wiki/Feature Attributes">
 						 Feature Attribute View
 					</a>
 				</p align="center">
