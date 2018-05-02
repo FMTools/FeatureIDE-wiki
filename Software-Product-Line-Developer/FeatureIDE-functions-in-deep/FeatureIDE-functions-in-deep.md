@@ -237,7 +237,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 				description follows
 			</td>
 			<td>
-				description follows
+				WOW
 			</td>
 		</tr>
 	</tbody>
