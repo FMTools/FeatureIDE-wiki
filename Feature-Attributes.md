@@ -30,7 +30,7 @@ FeatureIDE provides the feature attribute view to support the management of attr
 
 We see the content of the feature attribute view for a simplified extended feature model that represents a car. The feature of the EFM is displayed in a tree that has the same structure as the feature model diagram. 
 
-Now we explain the different operation which is possible with the attribute view:
+Now we explain the different operations which are possible with the attribute view:
 
 ### 2.1 Create Attributes
 FeatureIDE support four different types of attributes: String, Boolean, Long, Double. Attributes can be created by right-clicking a feature and clicking 'Add (String/Boolean..) Attribute'. A new attribute of the selected type with an unique name is created. To change the value, unit, or name of an attribute just double-click their respective cells in the view.
