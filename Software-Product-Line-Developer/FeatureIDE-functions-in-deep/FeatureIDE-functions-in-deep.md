@@ -168,7 +168,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 				Feature Model Editor Context Menus
 			</th>
 			<th>
-				Coming Soon...
+				Feature Attributes
 			</th>
 			<th>
 				Coming Soon...
