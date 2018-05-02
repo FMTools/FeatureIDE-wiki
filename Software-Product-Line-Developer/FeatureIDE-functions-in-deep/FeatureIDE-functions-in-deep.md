@@ -237,7 +237,7 @@ For a detailed list of the main functionalities you can have a look at this [scr
 				Management of feature models with attributes.
 			</td>
 			<td>
-				description follows
+				WOW
 			</td>
 		</tr>
 	</tbody>
