@@ -6,7 +6,7 @@
 The **FeatureIDE Attribute View** shows all attributes of the current feature model. The feature model need to be an extended feature model to support the management of attributes. It makes it possible to create and remove attributes from feature. The attributes are saved in a persistent way inside the feature model XML. Additionally, it is also possible to calculate the ranges of attributes for partial configuration using an heuristic.
 
 <!-- Extended Feature Model -->
-### 1. Creating an extended feature model
+## 1. Creating an Extended Feature Model
 A feature model is called extended feature model if it's features contain attributes. The creation of an extended feature model within FeatureIDE is quite simple.
 
 1. Right-click your procject -> New -> FeatureModel. A wizard opens.
@@ -22,8 +22,19 @@ A feature model is called extended feature model if it's features contain attrib
 5. Click Finish.
 
 <!-- Feature Attribute View -->
-### 2. Feature Attribute View
+## 2. Feature Attribute View
 FeatureIDE provides the feature attribute view to support the management of attributes. The view can be opened by clicking on Windows -> Show View -> Other... Now search for 'Feature Attributes' and double click to open the view. 
 
-<!-- Content -->
-The functions of the **toolbar** from left to right are:       
+<img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureAttributes/FM_Attributes_View_A0.png" alt="FM_Attributes_View_A0" width=60% height=60%/>
+
+We see the content of the feature attribute view for a simplified extended feature model that represents a car. The feature of the EFM are displayed in a tree that has the same structure as the feature model diagram. Every entry with a blue 'f' icon is a feature. His attributes are directly listed below the feature.  
+
+Now we explain the different operation which are possible with the attribute view:
+
+### 2.1 Create Attributes
+FeatureIDE support four different types of attributes: String, Boolean, Long, Double. 
+
+### 2.2 Remove Attribute
+### 2.3 Recursive Attributes
+### 2.4 Configurable Attributes
+    
