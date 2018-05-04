@@ -58,7 +58,7 @@ The correct management of configurable attributes and the calculation of attribu
 The value for configurable attributes is set for every specific configuration. Therefore the values are stored in the configuration XML and not inside the feature model XML. The creation of an extended configuration is the same as the feature model but instead of New -> FeatureModel you need to select New -> Configuration and then select the extended configuration as format.
 
 ### 2.5 Filtering Attributes
-It is possible to filter features and their attributes. To do so activate the sync button on the top right of the view. Now only features and their attributes that are selected in the feature diagram editor are shown in the feature. This simplifies the process of searching a certain feature for large feature models. All features that are selected are coloured light green. To contain the tree structure while filtering for features we also show all ancestors of the selected features coloured gray. 
+It is possible to filter features and their attributes. To do so activate the sync button on the top right of the view. Now only features and their attributes that are selected in the feature diagram editor are shown in the view. This simplifies the process of searching a certain feature for large feature models. All features that are selected are coloured light green. To contain the tree structure while filtering for features we also show all ancestors of the selected features coloured gray. It is possible to selecte multiple feature in the feature diagram editor.
 
 As an example below we selected the root feature 'Car' in the feature diagram editor. Therefore, only 'Car' and it's attributes are shown.
 
