@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 ## Introduction
-The **FeatureIDE Attribute View** shows all attributes of the current feature model. The feature model needs to be an extended feature model to support the management of attributes. It makes it possible to create and remove attributes from a feature. The attributes are saved in a persistent way inside the feature model XML. Additionally, it is also possible to calculate the ranges of attributes for partial configuration using a heuristic.
+Since release3.5, FeatureIDE supports feature model attributes. The **FeatureIDE Attribute View** shows all attributes of the current feature model. The feature model needs to be an extended feature model to support the management of attributes. The view makes it possible to create and remove attributes from a feature. The attributes are saved in a persistent way inside the feature model XML. Additionally, it is also possible to calculate the ranges of attributes for partial configuration using a heuristic.
 
 <!-- Extended Feature Model -->
 ## 1. Creating an Extended Feature Model
@@ -51,8 +51,16 @@ Recursive attributes are inherited to every decendant feature. They can be used 
 <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureAttributes/FM_AttributesView_RECURSIVE1.png" alt="FM_AttributesView_Filter.png" width=48%/>
 <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureAttributes/FM_AttributesView_RECURSIVE2.png" alt="FM_AttributesView_Filter.png" width=48%/>
 
-### 2.4 Configurable Attributes
+### 2.4 Configurable Attributes and Extended Configurations
+
+The correct management of configurable attributes and the calculation of attribute ranges is currently only available on the branch FeatureIDE/FeatureModel_Attributes.
+
+The value for configurable attributes is set for every specific configuration. Therefore the values are stored in the configuration XML and not inside the feature model XML. The creation of an extended configuration is the same as the feature model but instead of New -> FeatureModel you need to select New -> Configuration and then select the extended configuration as format.
+
 ### 2.5 Filtering Attributes
+It is possible to filter features and their attributes. To do so activate the sync button on the top right of the view. Now only features and their attributes that are selected in the feature diagram editor are shown in the feature. This simplifies the process of searching a certain feature for large feature models. All features that are selected are coloured light green. To contain the tree structure while filtering for features we also show all ancestors of the selected features coloured gray. 
+
+As an example below we selected the root feature 'Car' in the feature diagram editor. Therefore, only 'Car' and it's attributes are shown.
 
 <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureAttributes/FM_AttributesView_Filter.png" alt="FM_AttributesView_Filter.png" width=60% height=60%/>
     
