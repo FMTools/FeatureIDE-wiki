@@ -3,11 +3,11 @@
 
 <!-- Introduction -->
 ## Introduction
-Since release3.5, FeatureIDE supports feature model attributes. The **FeatureIDE Attribute View** shows all attributes of the current feature model. The feature model needs to be an extended feature model to support the management of attributes. The view makes it possible to create and remove attributes from a feature. The attributes are saved in a persistent way inside the feature model XML. Additionally, it is also possible to calculate the ranges of attributes for partial configuration using a heuristic.
+Since release3.5, FeatureIDE supports feature model attributes. The **FeatureIDE Attribute View** shows all attributes of the current feature model. The feature model needs to be an extended feature model to support the management of attributes. The view makes it possible to create and remove attributes from a feature. The attributes are saved in a persistent way inside the feature model XML.
 
 <!-- Extended Feature Model -->
 ## 1. Creating an Extended Feature Model
-A feature model is called extended feature model if it features contain attributes. The creation of an extended feature model within FeatureIDE is quite simple.
+A feature model is called extended feature model if it's features contain attributes. The creation of an extended feature model within FeatureIDE is quite simple.
 
 1. Right-click your project -> New -> FeatureModel. A wizard opens.
 2. Select the name and the related project for the feature model. (see image)
@@ -40,13 +40,13 @@ The recursive and configureable states can be switched easily by clicking the ch
 <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureAttributes/FM_AttributesView_ADD2.png" alt="FM_AttributesView_Filter.png" width=48%/>
 
 ### 2.2 Remove Attribute
-Right-clicking an attribute open a context-menu with the entry 'Remove feature attribute'. After clicking on the operation the selected attribute is removed.
+Right-clicking an attribute opens a context-menu with the entry 'Remove feature attribute'. After clicking on the operation the selected attribute is removed.
 
 <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureAttributes/FM_AttributesView_REMOVE1.png" alt="FM_AttributesView_Filter.png" width=48%/>
 <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureAttributes/FM_AttributesView_REMOVE2.png" alt="FM_AttributesView_Filter.png" width=48%/>
 
 ### 2.3 Recursive Attributes
-Recursive attributes are inherited to every decendant feature. They can be used to represent attributes for a group of features. Without creating the attribute manually for every descendant. To make an attribute recursive just activate the recursive checkbox. All recursive attributes are then added to the descendants. You can only mark an attribute as recursive when there exists no attribute with the same name on any descendant.
+Recursive attributes are inherited to every decendant feature. They can be used to represent attributes for a group of features without creating the attribute manually for every descendant. To make an attribute recursive just activate the recursive checkbox. All recursive attributes are then added to the descendants. You can only mark an attribute as recursive when there exists no attribute with the same name on any descendant.
 
 <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureAttributes/FM_AttributesView_RECURSIVE1.png" alt="FM_AttributesView_Filter.png" width=48%/>
 <img src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureAttributes/FM_AttributesView_RECURSIVE2.png" alt="FM_AttributesView_Filter.png" width=48%/>
