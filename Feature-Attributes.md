@@ -21,6 +21,13 @@ A feature model is called extended feature model if it's features contain attrib
 
 5. Click Finish.
 
+<!-- Converting Existing Feature Model -->
+## 1.2 Convert an Existing Feature Model into an Extended Feature Model
+
+To convert a feature model into an extended feature model one must right-click the feature model in the package or project explorer. There one must select FeatureIDE -> Export Feature Model. A save dialog appears. In the dialog the user must set the datatype from 'FeatureIDE *.xml' to 'FeatureIDE (Extended Feature Model) *.xml'. Click save.
+
+Note: If you override a feature model which is currently open close the feature model editor afterward and reopen the model file.
+
 <!-- Feature Attribute View -->
 ## 2. Feature Attribute View
 FeatureIDE provides the feature attribute view to support the management of attributes. The view can be opened by clicking on Windows -> Show View -> Other... Now search for 'Feature Attributes' and double-click to open the view. 
