@@ -4,7 +4,7 @@
 <!-- Introduction -->
 1. [General]
 2. [Export your Configuration]
-	1. [Latex Export]
+	1. [LaTeX Export]
 
 <!-- Outline -->
 
@@ -57,4 +57,4 @@ Small restriction: All features will be exported, no matter how many you have co
 
 [General]:https://github.com/FeatureIDE/FeatureIDE/wiki/Configuration-Editor#general
 [Export your Configuration]:https://github.com/FeatureIDE/FeatureIDE/wiki/Configuration-Editor#export-your-configuration
-[Latex Export]:https://github.com/FeatureIDE/FeatureIDE/wiki/Configuration-Editor#latex-export
+[LaTeX Export]:https://github.com/FeatureIDE/FeatureIDE/wiki/Configuration-Editor#latex-export
