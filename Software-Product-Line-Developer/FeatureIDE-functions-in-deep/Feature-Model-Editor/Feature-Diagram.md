@@ -237,4 +237,4 @@ If you want to use a feature diagram in your LaTeX document, you can simply choo
 [Constraints Vertical]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#vertical-layout-example
 [Constraints Horizontal]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#horizontal-layout-example
 [Export]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#export
-[LaTeX Export using TikZ]:https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#latex-expoert-using-tikz
+[LaTeX Export using TikZ]:https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#latex-export-using-tikz
