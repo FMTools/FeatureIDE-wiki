@@ -35,7 +35,8 @@ This section describes the feature diagram of FeatureIDE
 	3. [Constraints Auto-Layout] 
 		1. [Constraints Vertical]
 		2. [Constraints Horizontal]
-
+3. [Export]
+	1. [LaTeX Export using TikZ]
 
 ***
 
@@ -196,6 +197,16 @@ Unless not specifically selected, FeatureIDE will automatically position the con
 <img alt="Auto-Layout Constraints Horizontal" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/AutoLayoutConstraintsHorizontal.png">
 </p>
 
+# Export
+You can export your feature diagram in many formats, e.g. *.png, *.jpg, *.bmp and *.tex.
+For this, make sure nothing is selected and then click with your secondary mouse button in free space of your feature model editor to open the context menu. Then click "Export As". It opens a dialog where you can name it and choose in which format you want to save your file.
+
+## LaTeX Export using TikZ
+If you want to use a feature diagram in your LaTeX document, you can simply choose to export this as *.tex file. This generate a new folder with the name you given in which you find three different LaTeX files:
+* **head.tex** In this file you find the required styles and packages for your Feature Diagram.
+* **your_file_name.tex** This is the main file. Therefore it is named as your given name (in the dialog where you want to save your file). Here you find the exported Feature Diagram. You can simply integrate this file in your own document with the command `\include{your_file_name.tex}`. Make sure that you integrate the required styles and packages for this file in your own document too, which you can find in "head.tex", so that the feature model can be displayed correctly.
+* **body.tex** This file only brings the other files together to easily compile the code.
+
 
 [Feature Diagram]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#feature-diagram
 [Feature Types]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#feature-types
@@ -225,4 +236,5 @@ Unless not specifically selected, FeatureIDE will automatically position the con
 [Constraints Auto-Layout]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#constraints-auto-layout
 [Constraints Vertical]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#vertical-layout-example
 [Constraints Horizontal]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#horizontal-layout-example
-
+[Export]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#export
+[LaTeX Export using TikZ]:https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#latex-expoert-using-tikz
