@@ -158,6 +158,22 @@ The following paragraphs will show you the different kinds of aforementioned alg
 
 <img alt="Left-To-Right (ordered)" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Layout/LeftToRightOrdered.png">
 
+## Abego Layouts
+The following layouts are examples using abego TreeLayout library. They are defined by the root position at the top, bottom, left and right side.  The new added layouts are with the root positions at the bottom and right side.  
+### Root Top (abego TreeLayout)
+If the root is at the top the tree will grow from top to the bottom. It works like Top-Down(ordered).
+<img alt="Root Top (abego TreeLayout)" src="https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/FeatureModelEditor/FeatureDiagram/Layout/RootTopAbego.png">
+### Root Left (abego TreeLayout)
+If the root is at the left side, tree will grow from right to left. It works like Left-to-Right(ordered).
+<img alt="Root Left (abego TreeLayout)" src="https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/FeatureModelEditor/FeatureDiagram/Layout/RootLeftAbego.png">
+### Root Right (abego TreeLayout)
+If the root is at the right side, the tree will grow from right to left.
+<img alt="Root Right (abego TreeLayout)" src="https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/FeatureModelEditor/FeatureDiagram/Layout/RootRightAbego.png">
+### Root Bottom (abego TreeLayout)
+If the root is at the bottom, the tree will grow from the bottom up to the top.
+<img alt="Root Bottom (abego TreeLayout)" src="https://raw.githubusercontent.com/wiki/FeatureIDE/FeatureIDE/Assets/FeatureModelEditor/FeatureDiagram/Layout/RootBottomAbego.png">
+
+
 ## Legend Auto-Layout
 
 If the legend is visible, you can right-click on it to open its context menu. Selecting "Auto-Layout Legend" will activate a mode in which the legend will try to fit itself in one of the four positions (1 to 4) shown in the image below. If there is no empty space left, it will be placed next to the Feature Diagram (5).
