@@ -208,7 +208,7 @@ If you want to use a feature diagram in your LaTeX document, you can simply choo
 * **body.tex** This file only brings the other files together to easily compile the code.  
 
 <p align="center">
-<img alt="body.tex" src="">
+<img alt="body.tex" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/body-tex.png">
 </p>
 
 
