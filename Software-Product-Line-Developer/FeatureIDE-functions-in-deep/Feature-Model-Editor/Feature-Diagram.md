@@ -207,8 +207,9 @@ If you want to use a feature diagram in your LaTeX document, you can simply choo
 * **your_file_name.tex** This is the main file. Therefore it is named as your given name (in the dialog where you want to save your file). Here you will find the exported Feature Diagram. You can simply integrate this file in your own document with the command `\include{your_file_name.tex}`. Make sure that you integrate the required styles and packages for this file in your own document too, which you can find in "head.tex", so that the feature model can be displayed correctly.
 * **body.tex** This file only brings the other files together to easily compile the code.  
 
+
 <p align="center">
-<img alt="body.tex" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/body-tex.png">
+<img alt="body.tex" src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/FeatureDiagram/Export/body-tex.png">
 </p>
 
 
