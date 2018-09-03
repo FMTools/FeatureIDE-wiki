@@ -2,11 +2,12 @@
 [**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
 
 <!-- Introduction -->
+
+<!-- Outline -->
+# Outline
 1. [General]
 2. [Export your Configuration]
 	1. [LaTeX Export]
-
-<!-- Outline -->
 
 <!-- Content -->
 # General
