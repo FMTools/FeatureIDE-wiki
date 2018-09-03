@@ -6,6 +6,7 @@
 <!-- Outline -->
 
 <!-- Content -->
+# General
 The configuration editor helps to customize you program. The editor is always in sync with the feature model of the FeatureIDE project. For example, if you rename a feature in the model, also the feature in configuration file is renamed, too. 
 Furthermore, the configuration editor checks whether the configuration is valid to the feature model. The validity of the configuration is shown in the header of the editor. Furthermore, the number of configurations that can have the configuration as partial configuration is shown in the header, too.
 
@@ -38,3 +39,14 @@ src="https://github.com/FeatureIDE/FeatureIDE/wiki/Assets/FeatureModelEditor/Con
 
 
 [Colors](https://github.com/FeatureIDE/FeatureIDE/wiki/Colors) are supported.
+
+# Export your Configuration
+You can export your advanced configuration, if you click on the button "Export As...", which can be found in the menu bar of the Configuration Editor / Advanced Configuration Editor. At the moment you can only export a configuration as *.tex file.
+
+## LaTeX Export using TikZ
+If you want to use a configuration in your LaTeX document, you can simply choose to export this as a *.tex file. This generate a new folder with the name you given in which you find three different LaTeX files:
+* **head.tex** In this file you will find the required styles and packages for your configuration.
+* **your_file_name.tex** This is the main file. Therefore it is named as your given name (in the dialog where you want to save your file). Here you will find the exported configuration. You can simply integrate this file in your own document with the command `\include{your_file_name.tex}`. Make sure that you integrate the required styles and packages for this file in your own document too, which you can find in "head.tex", so that the configuration can be displayed correctly.
+* **body.tex** This file only brings the other files together to easily compile the code.  
+  
+Small restriction: All features will be exported, no matter how many you have collapsed.
