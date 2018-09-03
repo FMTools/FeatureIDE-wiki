@@ -92,6 +92,8 @@ The editor supports you with syntax-highlighting for keywords. Those keywords ar
 * **Operators**: (and, or, not, implies, iff) and
 * **Braces**: ( and )
 
+An incomplete constraint will also be underlined. If the syntax of the constraint is considered wrong, then the whole constraint will be underlined. Otherwise, only the specific part of the constraint which has issues or inconsistencies will be underlined.
+
 #### 2.iv.a. The Need and Use of Quotes
 If a feature to insert contains *white spaces* or conflicts to on **keywords** above, it has to be surrounded with quotes, e.g. 
 
