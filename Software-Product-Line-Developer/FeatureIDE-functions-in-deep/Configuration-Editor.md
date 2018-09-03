@@ -2,6 +2,9 @@
 [**HOME**](https://github.com/FeatureIDE/FeatureIDE/wiki) < [**Software Product Line Developer**](https://github.com/FeatureIDE/FeatureIDE/wiki/Software-Product-Line-Developer) < [**FeatureIDE Functions in Deep**](https://github.com/FeatureIDE/FeatureIDE/wiki/FeatureIDE-Functions-in-Deep)
 
 <!-- Introduction -->
+1. [General]
+2. [Export your Configuration]
+	1. [Latex Export]
 
 <!-- Outline -->
 
@@ -50,3 +53,8 @@ If you want to use a configuration in your LaTeX document, you can simply choose
 * **body.tex** This file only brings the other files together to easily compile the code.  
   
 Small restriction: All features will be exported, no matter how many you have collapsed.
+
+
+[General]:https://github.com/FeatureIDE/FeatureIDE/wiki/Configuration-Editor#general
+[Export your Configuration]:https://github.com/FeatureIDE/FeatureIDE/wiki/Configuration-Editor#export-your-configuration
+[Latex Export]:https://github.com/FeatureIDE/FeatureIDE/wiki/Configuration-Editor#latex-export
