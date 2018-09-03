@@ -202,10 +202,16 @@ You can export your feature diagram in many formats, e.g. *.png, *.jpg, *.bmp an
 For this, make sure nothing is selected and then click with your secondary mouse button in free space of your feature model editor to open the context menu. Then click "Export As". It opens a dialog where you can name it and choose in which format you want to save your file.
 
 ## LaTeX Export using TikZ
-If you want to use a feature diagram in your LaTeX document, you can simply choose to export this as *.tex file. This generate a new folder with the name you given in which you find three different LaTeX files:
-* **head.tex** In this file you find the required styles and packages for your Feature Diagram.
-* **your_file_name.tex** This is the main file. Therefore it is named as your given name (in the dialog where you want to save your file). Here you find the exported Feature Diagram. You can simply integrate this file in your own document with the command `\include{your_file_name.tex}`. Make sure that you integrate the required styles and packages for this file in your own document too, which you can find in "head.tex", so that the feature model can be displayed correctly.
-* **body.tex** This file only brings the other files together to easily compile the code.
+If you want to use a feature diagram in your LaTeX document, you can simply choose to export your diagram as *.tex file. This generate a new folder with the name you given in which you find three different LaTeX files:
+* **head.tex** In this file you will find the required styles and packages for your Feature Diagram.
+* **your_file_name.tex** This is the main file. Therefore it is named as your given name (in the dialog where you want to save your file). Here you will find the exported Feature Diagram. You can simply integrate this file in your own document with the command `\include{your_file_name.tex}`. Make sure that you integrate the required styles and packages for this file in your own document too, which you can find in "head.tex", so that the feature model can be displayed correctly.
+* **body.tex** This file only brings the other files together to easily compile the code.  
+  
+By using the LaTeX Exporter, there are at the moment some restrictions:
+* You can only export the layout _Top-Down (centered)_.
+* Customized Colors will be not exported.
+* Hidden features are not supported and will be shown as normal features.
+* Dead and false-optional features, as well as redundant constraints will be not declared as such.
 
 
 [Feature Diagram]: https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#feature-diagram
