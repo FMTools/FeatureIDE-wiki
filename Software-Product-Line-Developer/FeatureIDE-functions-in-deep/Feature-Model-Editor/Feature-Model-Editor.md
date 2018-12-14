@@ -41,6 +41,18 @@
 3. **FeatureIDE Outline**  
    The outline shows the diagram as a tree list. It has the capability to synchronize the visible elements with the feature diagram page. It also shows the constraints.  
 
+4. **Toolbar**  
+    * The "Toolbar" is located in the upper right. It provides useful ways to interact with the feature model.
+        * ![Alt-Text](./Assets/FeatureModelEditor/Tool%20bar/Tool%20bar.png)
+    * The “Search bar” makes it possible to search for features. It also allows the use of regular expressions. After typing search term and pressing “Enter”, the searched feature will be selected. Pressing “Enter” again selects the next feature from the search results.
+        * ![Alt-Text](./Assets/FeatureModelEditor/Tool%20bar/Search%20bar.png)
+    * “Collapse All” collapses every feature in the diagram. “Expand All” expands every feature in the diagram. “Adjust Model to Editor Size” resizes the diagram to window size by collapsing or expanding the features.  
+        * ![Alt-Text](./Assets/FeatureModelEditor/Tool%20bar/CollapseExpand%20bar.png)
+    * “Set layout” opens the context menu to change the layout of the diagram. For more information see [here](https://github.com/FeatureIDE/FeatureIDE/wiki/Feature-Diagram#feature-diagram-layouts).
+        * ![Alt-Text](./Assets/FeatureModelEditor/Tool%20bar/Set%20Layout%20bar.png)
+    * “Set calculation” opens the context menu to change the calculation of the diagram. For example, these calculations detect redundant cross-tree constraints. This is by default set to "Automatic Calculations", which executes after every change to the feature model. However, for feature models with more than 1000 features we recommend to run these checks on demand and not after every change in the feature diagram.
+        * ![Alt-Text](./Assets/FeatureModelEditor/Tool%20bar/Set%20Calculation%20bar.png)
+
 For additional information refer to the corresponding pages under the quick navigation tab.  
 
 <!-- Quick-Navigation-Table -->
